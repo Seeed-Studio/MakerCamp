@@ -16,5 +16,5 @@ We cherish the sharing and inheritance of each innovative story. Each project te
 ## How to Participate
 
 Prepare your ideas, form your team, and head to our official site to register. We can't wait to see your creative sparks shining in Shenzhen!  
-Register Now: https://docs.google.com/forms/d/e/1FAIpQLSdXlkyAb32d16tQf1__ss0lvE2C10uMQIRHlClN_iUuXE2a4A/viewform?usp=sf_link
-GitHub Archive: [Maker Camp Project GitHub Page]
+[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSdXlkyAb32d16tQf1__ss0lvE2C10uMQIRHlClN_iUuXE2a4A/viewform?usp=sf_link)
+
