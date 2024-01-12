@@ -1,6 +1,6 @@
 # Deploy the Maker Camp repo on your computer.
 
-This is the file about how you can add more files to this repo. If you want to see the example of the paper you can check [here](./Paper_Example.md).
+This is the file about how you can add more files to this repo.
 
 ## 1. Fork and Download the Repository
 
