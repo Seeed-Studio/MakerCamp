@@ -13,7 +13,6 @@ This residency was heavily inspired, and aims to continue the legacy of the foll
  - The [Hacker Trip To China](https://www.noisebridge.net/wiki/HTTC2019) by Noisebridge, the San Francisco Hackerspace.
 
 
-
 ## Program Summary
 
 Academic:
@@ -32,15 +31,16 @@ Cultural:
  - Art & Tech visits (HQB Museum, AIRSpace,...)
  - Food exploration field trips (Dongmen)
 
+
 ## Participants:
- - [Andres Rico](https://andresrico.xyz/)
- - [Cathy Fang](https://cathy-fang.com/)
- - [Cedric Honnet](https://honnet.eu/)
- - [David Preiss](https://davepreiss.pages.cba.mit.edu/home/)
- - [Ganit Goldstein](https://ganitgoldstein.com/)
- - [Hila Mor](https://hilamor.com/)
- - [Jack Forman](https://www.media.mit.edu/people/jackform/)
- - [Leo McElroy](https://leomcelroy.com/)
- - [Martin Nisser](http://martinnisser.org/)
- - [Yunyi Zhu](http://www.yunyizhu.info/)
+
+| **[Andres Rico](https://andresrico.xyz/)** | **[Cathy Fang](https://cathy-fang.com/)** | **[Cedric Honnet](https://honnet.eu/)** | **[David Preiss](https://davepreiss.pages.cba.mit.edu/home/)** | **[Ganit Goldstein](https://ganitgoldstein.com/)** |
+|---|---|---|---|---|
+| **[Hila Mor](https://hilamor.com/)** | **[Jack Forman](https://www.media.mit.edu/people/jackform/)** | **[Leo McElroy](https://leomcelroy.com/)** | **[Martin Nisser](http://martinnisser.org/)** | **[Yunyi Zhu](http://www.yunyizhu.info/)** |
+
+
+
+## Introductions video:
+
+[![Watch the video](http://mmbiz.qpic.cn/sz_mmbiz_jpg/R1xWibz3bUCfGA8V0iaPWn1rodibn81DAv4WgUNvKZL3BDj9Z81Z9qnCCV03NCyEdM3Gx5xOH4XBiake8ZZJibpozRg/640)](https://mp.weixin.qq.com/s/LhUjs5r-LL84ENuAAk5tnw)
 
