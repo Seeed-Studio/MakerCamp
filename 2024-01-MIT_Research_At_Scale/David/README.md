@@ -56,6 +56,5 @@ As a part of the symposium we visited Huaqiangbei where Andres and I spent the f
 
 <img src="images/brain.jpg" width="800">
 
-<video width="320" width="240" controls>
-  <source src="images/sinker_edm.mp4" type="video/mp4">
-</video>
+![sinker](images/sinker_edm.mp4)
+
