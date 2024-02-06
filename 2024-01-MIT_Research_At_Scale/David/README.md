@@ -74,5 +74,5 @@ A mall with very media lab adjacent branding.
 
 <img src="images/brain.jpg" width="800">
 
-Most of the folks on the trip!
+Post a very spicy dinner at Eric Pan's favorite Shenzhen restaurant.
 
