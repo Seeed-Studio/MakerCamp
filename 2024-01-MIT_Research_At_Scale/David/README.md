@@ -66,13 +66,11 @@ An amazing cafe in Dafen featuring a calligraphy art museum / studio.
 
 <img src="images/strangle.jpg" width="800">
 
-Andres and I learning who's boss in the new AI world order...
+Andres and I testing out some new AI hardware demos
 
 <img src="images/dbz.jpg" width="800">
 
 A mall with very media lab adjacent branding.
 
 <img src="images/brain.jpg" width="800">
-
-Post a very spicy dinner at Eric Pan's favorite Shenzhen restaurant.
 
