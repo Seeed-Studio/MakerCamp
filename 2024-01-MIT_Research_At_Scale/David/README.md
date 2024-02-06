@@ -24,17 +24,27 @@ Other highlights of the conference were Seeed's tinyML workshop (this was my fir
 
 During the trip I wanted to design a small servo driver using the DRV8317 and Seeed's RP2040 Xiao. There are a good number of similar projects out in the wild, but most lack the step/direction interface to be interchangeable with the ubiquitous stepper motor driver, or easily integrated into an Arduino project. The goal of this project is to create a system that can be used as a truly drop-in replacement for most stepper-reliant digital fabrication tools. There's a need for a tradeoff here, where a closed loop servo requires an encoder at the motor, which has a delicate high speed communication protocol (SPI or quadrature encoding), and the requirements for a step/direction interface are similarly delicate. Where open loop stepper motor drivers are typically conglomerated around a central motherboard, for this application a good tradeoff is to prioritize the encoder signal, put the driver at the motor, and then use a differential communication protocol (using UART and a MAX485 for simplicity). Finally what that means for this project is that I have designed an intermediate board that watches for step and direction signals from a motherboard, and sends a tallied position value to the individual mini servo drivers. The catch here is that we introduce a delay on the order of the UART transaction, which may be a dealbreaker for some applications (very high speed 3D printing or high tolerance machining). The alternative would be to introduce a second MAX485 and send a differential step and direction signal, but this simpler version seemed like a good place to start. The boards are soldered up and assembled with a printed bracket and diametrically magnetized magnet for the encoder, but I am still writing firmware to bring everything together.
 
-<img src="images/miniservo_board.jpg" width="800">
+<img src="images/miniservo_board.jpg" width="500">
 
-<img src="images/miniservo_assembly.jpg" width="800">
+<img src="images/miniservo_assembly.jpg" width="500">
 
 ## Trips / Factory Visits
 
 As a part of the symposium we visited Huaqiangbei where Andres and I spent the full day with a team of Seeed engineers. The market is home to an incredible ecosystem of phone bootlegging/repair/development, that's really hard to capture on camera, but maybe [this video from strange parts](https://www.youtube.com/watch?v=leFuF-zoVzA) does it justice. On a side note this day also featured some of the best Dim Sum of the trip, so thanks Dan and co for your time and generosity!
 
-Most of the good factory content I have is in the form of videos 
+Most of the good factory content I have is in the form of videos, which all seem too large to be rendered in this readme. I will see about uploading and linking remotely in the future.
 
-![sinker](images/sinker_edm.mp4)
+![Sinker EDM](images/sinker_edm.mp4)
+
+![Coil Winding](images/winding.mp4)
+
+![Flex PCB Stiffener PnP](images/siffener_pnp.mp4)
+
+![Flex PCB Stiffener PnP II](images/siffener_2.mp4)
+
+![Flex PCB Stiffener PnP](images/siffener_pnp.mp4)
+
+![Rhizomatiks](images/art1.mp4)
 
 Sinker EDM machining at the tool and die shop below the flexPCB manufacturer.
 
@@ -60,7 +70,7 @@ Andres and I learning who's boss in the new AI world order...
 
 <img src="images/dbz.jpg" width="800">
 
-This mall had very media lab adjacent branding
+A mall with very media lab adjacent branding.
 
 <img src="images/brain.jpg" width="800">
 
