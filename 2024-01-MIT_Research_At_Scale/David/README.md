@@ -32,29 +32,37 @@ During the trip I wanted to design a small servo driver using the DRV8317 and Se
 
 As a part of the symposium we visited Huaqiangbei where Andres and I spent the full day with a team of Seeed engineers. The market is home to an incredible ecosystem of phone bootlegging/repair/development, that's really hard to capture on camera, but maybe [this video from strange parts](https://www.youtube.com/watch?v=leFuF-zoVzA) does it justice. On a side note this day also featured some of the best Dim Sum of the trip, so thanks Dan and co for your time and generosity!
 
-<img src="images/dimsum.jpg" width="800">
+Most of the good factory content I have is in the form of videos 
 
-<img src="images/dafen.jpg" width="800">
+![sinker](images/sinker_edm.mp4)
+
+Sinker EDM machining at the tool and die shop below the flexPCB manufacturer.
 
 <img src="images/lcd.jpg" width="800">
 
-<img src="images/strangle.jpg" width="800">
-
-<img src="images/stepper_pile.jpg" width="800">
+An LCD manufacturing cleanroom.
 
 <img src="images/scooters.jpg" width="800">
 
-<img src="images/makerspace.jpg" width="800">
+A sea of electric scooters outside of the Huaqiangbei metro stop (note that if you visit Shenzhen in 2024 dodging scooters will be a regular part of your existence).
 
-<img src="images/formlabs.jpg" width="800">
+<img src="images/dafen.jpg" width="800">
 
-<img src="images/dbz.jpg" width="800">
+Some Van Gogh oil painted lookalikes hanging in an alley in Dafen.
 
 <img src="images/cafe.jpg" width="800">
 
-<img src="images/cafe2.jpg" width="800">
+An amazing cafe in Dafen featuring a calligraphy art museum / studio.
+
+<img src="images/strangle.jpg" width="800">
+
+Andres and I learning who's boss in the new AI world order...
+
+<img src="images/dbz.jpg" width="800">
+
+This mall had very media lab adjacent branding
 
 <img src="images/brain.jpg" width="800">
 
-![sinker](images/sinker_edm.mp4)
+Most of the folks on the trip!
 
