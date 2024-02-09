@@ -36,6 +36,8 @@ Most of the good factory content I have is in the form of videos, which all seem
 
 ![Sinker EDM](images/sinker_edm.mp4)
 
+<img src="images/sinker_edm.gif" width="800">
+
 ![Coil Winding](images/winding.mp4)
 
 ![Flex PCB Stiffener PnP](images/siffener_pnp.mp4)
