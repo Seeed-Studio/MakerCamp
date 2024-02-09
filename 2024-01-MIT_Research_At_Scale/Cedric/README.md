@@ -36,7 +36,25 @@ Some basics to start your documentation:
 
 <br>
 
-### 3) when you're done, click on "Commit change..." (at the top right).
+You can also use HTML to integrate multiple (smaller) pictures per line:
+
+* 4 pics / line:
+```
+    <img src='https://github.com/fluidicon.png' width='240'> <img src='https://github.com/fluidicon.png' width='240'> <img src='https://github.com/fluidicon.png' width='240'> <img src='https://github.com/fluidicon.png' width='240'>
+```
+<img src='https://github.com/fluidicon.png' width='240'> <img src='https://github.com/fluidicon.png' width='240'> <img src='https://github.com/fluidicon.png' width='240'> <img src='https://github.com/fluidicon.png' width='240'>
+
+
+* 3 pic / line:
+```
+    <img src='https://github.com/fluidicon.png' width='333'>         <img src='https://github.com/fluidicon.png' width='333'>         <img src='https://github.com/fluidicon.png' width='333'>
+```
+<img src='https://github.com/fluidicon.png' width='333'>         <img src='https://github.com/fluidicon.png' width='333'>         <img src='https://github.com/fluidicon.png' width='333'>
+
+<br>
+
+
+### 4) when you're done, click on "Commit change..." (at the top right).
 
 <br>
 
