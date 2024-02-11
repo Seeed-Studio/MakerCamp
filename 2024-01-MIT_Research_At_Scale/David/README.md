@@ -38,15 +38,23 @@ Most of the good factory content I have is in the form of videos, which all seem
 
 <img src="images/sinker_edm.gif" width="600">
 
+Sinker EDM machining copper electrodes at a tool and die shop.
+
 <img src="images/winding.gif" width="600">
+
+Mini "Bear Claw" stepper motor winding (note all of the reels of magnet wire in the background feeding into the machine).
 
 <img src="images/stiffener_2.gif" width="600">
 
+Flex PCB stiffener placement
+
 <img src="images/stiffener_pnp.gif" width="600">
+
+More cool flex PCB stiffener machines
 
 <img src="images/art1.gif" width="600">
 
-Sinker EDM machining at the tool and die shop below the flexPCB manufacturer.
+A very cool art installation by [Rhizomatiks](https://rhizomatiks.com/en/). We saw a ton of amazing art exhibits many with HCI content which is hard to come by in the US!
 
 <img src="images/lcd.jpg" width="800">
 
