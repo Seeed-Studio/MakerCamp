@@ -32,21 +32,19 @@ During the trip I wanted to design a small servo driver using the DRV8317 and Se
 
 As a part of the symposium we visited Huaqiangbei where Andres and I spent the full day with a team of Seeed engineers. The market is home to an incredible ecosystem of phone bootlegging/repair/development, that's really hard to capture on camera, but maybe [this video from strange parts](https://www.youtube.com/watch?v=leFuF-zoVzA) does it justice. On a side note this day also featured some of the best Dim Sum of the trip, so thanks Dan and co for your time and generosity!
 
+<img src="images/crew.jpg" width="500">
+
 Most of the good factory content I have is in the form of videos, which all seem too large to be rendered in this readme. I will see about uploading and linking remotely in the future.
 
-![Sinker EDM](images/sinker_edm.mp4)
+<img src="images/sinker_edm.gif" width="600">
 
-<img src="images/sinker_edm.gif" width="800">
+<img src="images/winding.gif" width="600">
 
-![Coil Winding](images/winding.mp4)
+<img src="images/stiffener_2.gif" width="600">
 
-![Flex PCB Stiffener PnP](images/siffener_pnp.mp4)
+<img src="images/stiffener_pnp.gif" width="600">
 
-![Flex PCB Stiffener PnP II](images/siffener_2.mp4)
-
-![Flex PCB Stiffener PnP](images/siffener_pnp.mp4)
-
-![Rhizomatiks](images/art1.mp4)
+<img src="images/art1.gif" width="600">
 
 Sinker EDM machining at the tool and die shop below the flexPCB manufacturer.
 
