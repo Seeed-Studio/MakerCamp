@@ -102,6 +102,6 @@ We also went to several art galleries.
 ![Alt text](source/5_misc/6.gif)
 
 
-Shenzhen is beautiful for its technology and its people. I enjoyed talking with the taxi drivers about their new year plans, trying unique street foods and bubble teas and unfortunately resolving payment issues for friends without Chinese phone numbers. This trip has left me with so many eye-opening moments and nice memories, and I look forward to checking back in a few years!
+Shenzhen is beautiful for its technology and its people. I enjoyed talking with the taxi drivers about their new year plans, trying unique street foods and bubble teas and unfortunately resolving payment issues for friends without a local phone number. This trip has left me with so many eye-opening moments and nice memories, and I look forward to checking back in a few years!
 
-
+Yunyi Zhu - yunyizhu@mit.edu
