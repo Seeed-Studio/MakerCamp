@@ -3,7 +3,7 @@
 
 ![Shenzhen bay with a huge inflated balloon duck, scenery, very beautiful](source/5_misc/1_shenzhen.jpg)
 
-As a PhD student in digital fabrication, part of my research involves prototyping flexible PCBs in the lab with lasers/plotters/milling machines, and then ordering them from Shenzhen after finalizing the design. I was always stunned by the quality of the ones that we ended up ordering and became curious about the industry and the city behind it. 
+As a graduate student in digital fabrication, part of my research involves prototyping flexible PCBs in the lab with lasers/plotters/milling machines, and then ordering them from Shenzhen after finalizing the design. I was always stunned by the quality of the ones that we ended up ordering and became curious about the industry and the city behind it. 
 
 This January, I finally had the opportunity to spend one month in Shenzhen to participate in the Research at Scale + Scalable HCI program, where a group of us visited factories around the city. While I did want to scout for some high-resolution 365nm UV displays for my ongoing research project, I was mostly just curious what was out there. 
 
@@ -52,7 +52,7 @@ Transluscent addressable SMD LED array circuit (LED size 3.5mm, pitch size about
 ## Textile Companies 
 
 ### K-Tech Knitting Company
-We visited (K-Tech)[http://k-works.com.cn/], the knitting company that donated the Shimaseki in media lab. I'm surprised how open they are towards us about all of the machines, testing equipment, design processes and potential collaboration. 
+We visited [K-Tech](http://k-works.com.cn/), the knitting company that donated the Shimaseki in media lab. I'm surprised how open they are towards us about all of the machines, testing equipment, design processes and potential collaboration. 
 
 ![knitting machine](source/4_textile/1_k-tech/2_knitting-machine.gif)
 Mesmerizing flat knitting machine.
@@ -61,9 +61,11 @@ Mesmerizing flat knitting machine.
 Rows of circular knitting machines.
 
 ![Alt text](source/4_textile/1_k-tech/1_EL-knit.gif)
+
 This is not optical fiber but electroluminscent yarns. The advantage is that they are much thinner and flexible, and thus can be knitted. If you knit an optical fiber, it will either break or leak some light. 
 
 ![Alt text](source/4_textile/1_k-tech/4_bag.gif)
+
 Andy showed us how to proprocess knitted bags with slits sealed with yarn that evaporate at high temperature. Ironing it creates the holes on the surface of the bag. 
 
 ### Electroluminescent Textile
@@ -98,5 +100,8 @@ We went to an artist's studio in Dafen and learned oil painting.
 We also went to several art galleries.  
 ![Alt text](source/5_misc/2_musem.jpeg)
 ![Alt text](source/5_misc/6.gif)
+
+
+Shenzhen is beautiful for its technology and its people. I enjoyed talking with the taxi drivers about their new year plans, trying unique street foods and bubble teas and unfortunately resolving payment issues for friends without Chinese phone numbers. This trip has left me with so many eye-opening moments and nice memories, and I look forward to checking back in a few years!
 
 
