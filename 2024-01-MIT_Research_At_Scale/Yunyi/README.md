@@ -11,7 +11,7 @@ This January, I finally had the opportunity to spend one month in Shenzhen to pa
 ![Seeed Factory Inside ](source/6_pcb/1_assembly.jpg)
 We visited [Seeed Studio](https://www.seeedstudio.com/), who kindly sponsored our trip. Seeed develops prototype boards and showed us their factory, which is said to manufacture their own board prototypes at a quick turnaround cycle. 
 
-We saw some cool pick-and-place machines, masks and machines that put solder paste onto the board, but what I liked the most was this industrial reflow oven, which is completely different from the reflow oven that I'm familiar with, but more similar to one in a cookie factory. 
+We saw cool pick-and-place machines, solder masks and machines that put solder paste onto the board, but what I liked the most was this industrial reflow oven, which is completely different from the reflow oven that I'm familiar with, and more similar to one in a cookie factory. 
 
 ![super big reflow oven compared to the small one I use in lab](source/6_pcb/2_reflow-oven.png)
 
