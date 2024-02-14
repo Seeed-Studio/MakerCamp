@@ -54,7 +54,7 @@ Transluscent addressable SMD LED array circuit (LED size 3.5mm, pitch size about
 ### K-Tech Knitting Company
 We visited (K-Tech)[http://k-works.com.cn/], the knitting company that donated the Shimaseki in media lab. I'm surprised how open they are towards us about all of the machines, testing equipment, design processes and potential collaboration. 
 
-![Alt text](source/4_textile/1_k-tech/2_knitting-machine.gif)
+![knitting machine](source/4_textile/1_k-tech/2_knitting-machine.gif)
 Mesmerizing flat knitting machine.
 
 ![Alt text](source/4_textile/1_k-tech/3_knitting-machine.jpg)
