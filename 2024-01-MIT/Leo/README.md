@@ -302,7 +302,7 @@ In the afternoon Andres and I met up with Stefan (a project manager) and Estella
 
 <img height="400px" src="https://github.com/leomcelroy/shenzhen_review_24/assets/27078897/857715fe-ff66-45ad-bbd8-6a682e566a5e" />
 
-The first one is a handheld game console called [Sprig](https://sprig.hackclub.com/). Students around the world can write games in our custom online editor. When they share those games publically as PRs to the project we send them materials to build consoles which can play the games they (and everyone else made). Sprig is fairly simple mechanically but the next project, [Blot](https://sprig.hackclub.dev/), is a CNC drawing machine with many more parts and which motivates finding someone to help us "manufacture" them. I put manufacture in quotes because we aren't looking to have the whole machine assembled, just all the parts packed together in ready to go boxes. The Blot machine is depicted below.
+The first one is a handheld game console called [Sprig](https://sprig.hackclub.com/). Students around the world can write games in our custom online editor. When they share those games publically as PRs to the project we send them materials to build consoles which can play the games they (and everyone else made). Sprig is fairly simple mechanically but the next project, [Blot](https://blot.hackclub.dev/), is a CNC drawing machine with many more parts and which motivates finding someone to help us "manufacture" them. I put manufacture in quotes because we aren't looking to have the whole machine assembled, just all the parts packed together in ready to go boxes. The Blot machine is depicted below.
 
 <img height="400px" src="https://github.com/leomcelroy/shenzhen_review_24/assets/27078897/e2396a7b-ff89-4647-a68d-6f813828ae23" />
 
