@@ -2,6 +2,14 @@
 
 Maker Camp in Shenzhen, powered by Seeed Studio — Co-create meaningful and open source hardware projects in Shenzhen, explore tech ecosystem frontier, join maker network for scaling.
 
+## 1st batch!
+
+In the tradition of the [Research At Scale](https://www.media.mit.edu/posts/research-at-scale-2024/) residency, 10 MIT researchers were invited to inaugurate the Maker Camp program.
+The participants documented their experience here:
+
+=> **[seeed-studio.github.io/MakerCamp/2024-01-MIT](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/)** <=
+
+
 ## Background
 
 Maker culture has been on the rise in recent years, and Shenzhen has been leading the way in innovation. Each year, Seeed Studio and Chaihuo welcome global makers to explore Shenzhen's tech ecosystem and abundant community resources. Maker Camp in Shenzhen is a unique opportunity for makers to explore the tech ecosystem in Shenzhen and engage in hands-on learning experiences while creating open-source, hardware-based projects that can positively impact society.
