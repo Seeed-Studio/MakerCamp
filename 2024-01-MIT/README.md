@@ -2,6 +2,8 @@
 
 As a part of the Maker Camp, Seeed Studio invited 10 MIT researchers to co-create meaningful and open source hardware projects in Shenzhen, explore the tech ecosystem frontier, and join maker networks to explore the local scaling power:
 
+<img src='https://github.com/Seeed-Studio/MakerCamp/assets/642787/6e529ca0-0ea1-4d11-a9b1-64f891273dee' width='485'>  <img src='https://github.com/Seeed-Studio/MakerCamp/assets/642787/dd472f75-4b3e-455a-a63f-f7cdb1d84b55' width='485'>
+
 ## Participants' documentations:
 
 **[Andres Rico](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Andres)**
