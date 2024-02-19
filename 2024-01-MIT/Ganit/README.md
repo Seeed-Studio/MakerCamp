@@ -63,8 +63,8 @@ Here's a few images from Seeed factory visit:
 
 We had the opportunity to visit several flexible PCB factories, which was particularly intresting for me, as a few projects I am working on involve the intersection of electronics and textiles. The technology observed during these visits has been inspiring, encouraging me to think through the integration of softer solutions into wearable devices.
 
-<img src="pictures/G_17.jpeg" width="1000">
-<img src="pictures/G_18.jpeg" width="1000">
+<img src="pictures/G-17.jpeg" width="1000">
+<img src="pictures/G-18.jpeg" width="1000">
 
 Textile Factory
 
