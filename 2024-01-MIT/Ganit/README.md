@@ -47,13 +47,26 @@ The second event in which we participated was a presentation hosted by Seeed Stu
 ## Factories & Manufacturing 
 <img src="pictures/G_11.jpeg" width="1000">
 
-One of the most interesting and eye-opening experiences for me was the journey into the world of electronics manufacturing. To comprehend the immense scale of production in Shenzhen, visiting Huaqiangbei is the ultimate experience, offering a glimpse into one of the world's largest markets for electronics. We had the opportunity to explore various areas and aexplore different buildings that encompassed diverse aspects of electronics, ranging from tools and LEDs to assembly and finished products.
+One of the most interesting and eye-opening experiences for me was the journey into the world of electronics manufacturing. To comprehend the immense scale of production in Shenzhen, visiting Huaqiangbei is the ultimate experience, offering a glimpse into one of the world's largest markets for electronics. We had the opportunity to explore various areas and explore different buildings that showcase diverse aspects of electronics, ranging from tools and LEDs to assembly and finished products.
 
 <img src="pictures/G_8.jpeg" width="1000">
 <img src="pictures/G_9.jpeg" width="1000">
 
+While in Shenzhen, we had the opportunity to tour multiple PCB factories over the course of a few weeks. It marked my first exposure to large-scale manufacturing and the underlying technology involved, including pick-and-place machinery, screen printing, assembly lines, and various other aspects. Understanding the intricacies behind the scenes significantly altered my perception of electronics production, seeing and witnessing the processes and details involved in assembling each circuit board. It was an eye-opening experience and made me think a lot about precision in technology production and especially the life cycle of a product. 
+Here's a few images from Seeed factory visit: 
+
+<img src="pictures/G_13.jpeg" width="1000">
+<img src="pictures/G_14.jpeg" width="1000">
+<img src="pictures/G_15.jpeg" width="1000">
+<img src="pictures/G_16.jpeg" width="1000">
 
 
+We had the opportunity to visit several flexible PCB factories, which was particularly intresting for me, as a few projects I am working on involve the intersection of electronics and textiles. The technology observed during these visits has been inspiring, encouraging me to think through the integration of softer solutions into wearable devices.
+
+<img src="pictures/G_17.jpeg" width="1000">
+<img src="pictures/G_18.jpeg" width="1000">
+
+Textile Factory
 
 
 ## Art and Culture 
