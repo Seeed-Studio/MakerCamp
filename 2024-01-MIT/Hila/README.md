@@ -151,8 +151,8 @@ Taking the train – you can choose if you want a colder cart or a warmer one!
 
 Visit to food market and old city
 
-<img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/7ef80bcd-20a5-4247-aea9-a330dc9dd7da)' width='333'>  <img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/ad77f7ee-5f83-4351-a12d-c7bc5a031c36)' width='595'> 
+<img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/7ef80bcd-20a5-4247-aea9-a330dc9dd7da' width='333'>  <img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/ad77f7ee-5f83-4351-a12d-c7bc5a031c36' width='595'> 
 
 
 ## Conclusion
-I recommend anyone who is working with fabrication and considering how to scale their work, to visit Shenzhen and stay at least 2-3 weeks. One of the main takeaways from this trip is this very wide set of opportunities to scale my work, making new connections in academia and in local factories. For anyone interested definitely check out [Seeed Maker Camp](https://www.seeedstudio.com/blog/2024/01/15/introducing-maker-camp-in-shenzhen/)https://www.seeedstudio.com/blog/2024/01/15/introducing-maker-camp-in-shenzhen/ next year and feel free to reach out with questions anytime.  
+I recommend anyone who is working with fabrication and considering how to scale their work, to visit Shenzhen and stay at least 2-3 weeks. One of the main takeaways from this trip is this very wide set of opportunities to scale my work, making new connections in academia and in local factories. For anyone interested definitely check out [Seeed Maker Camp](https://www.seeedstudio.com/blog/2024/01/15/introducing-maker-camp-in-shenzhen/) next year and feel free to reach out with questions anytime.  
