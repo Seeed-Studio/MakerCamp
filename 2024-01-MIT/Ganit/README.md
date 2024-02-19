@@ -44,4 +44,16 @@ Group memebers: Derrek Chow, Ganit Goldstein, Hila Mor & Yue Yang.
 The second event we participated in was a presentation event hosted by Seeed Studio in the Chaihuo Makerspace. Our group introduced each person’s background and research topics we’ve been developing through our time in MIT and beyond. From small to large scale, our group introduced a very interesting combination of knowledge - from city scale into garment and fabric making and into nano-material explorations, the event was super successful in opening the conversation from education tools, manufacturing technology and digital toolsets. The event was open to the public and introduced a variety of background that all share the special community of the global maker movement.
 
 <img src="pictures/G_7.jpeg" width="1000">
+<img src="pictures/G_10.jpeg" width="1000">
 
+## Factories & Manufacturing 
+<img src="pictures/G_11.jpeg" width="1000">
+WIP
+<img src="pictures/G_8.jpeg" width="1000">
+<img src="pictures/G_9.jpeg" width="1000">
+
+
+
+
+## Art and Culture 
+WIP
