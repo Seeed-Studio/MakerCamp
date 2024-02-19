@@ -66,9 +66,39 @@ We had the opportunity to visit several flexible PCB factories, which was partic
 <img src="pictures/G-17.jpeg" width="1000">
 <img src="pictures/G-18.jpeg" width="1000">
 
-Textile Factory
+K-Tech is a textile factory specializing in Knitting technology. As my background, I enjoy very much the visit and the special host we recivied from the company. We had wonderful time learning about their mahinery, yarns and special technical developments from the textile world: 
 
+<img src="pictures/G_25.jpeg" width="1000">
+<img src="pictures/G_26.jpeg" width="1000">
+<img src="pictures/G_27.jpeg" width="1000">
 
 ## Art and Culture 
 <img src="pictures/G_12.jpeg" width="1000">
+
+
+We were fortunate to explore wonderful cultural experiences, which included visits to art museums, exhibitions, trying special foods, and exploring outdoor spaces. Here are a few pictures capturing various activities we engaged in, such as the Rhizomatiks exhibition, Fairy Lake Botanical Garden, Dafen Oil Painting Village, and many more:
+
+### Dafen Oil Painting Village
+
+<img src="pictures/G_22.jpeg" width="1000">
+<img src="pictures/G_19.jpeg" width="1000">
+
+### Fairy Lake Botanical Garden
+
+<img src="pictures/G_21.jpeg" width="1000">
+<img src="pictures/G_23.jpeg" width="1000">
+
+### Rhizomatiks exhibition
+
+<img src="pictures/G_24.jpeg" width="1000">
+<img src="pictures/G_20.jpeg" width="1000">
+
+Thanks to Seeed, SUSTech, and everyone who hosted us for providing a memorable time in Shenzhen. I hope these connections will endure in the future, and looking forward to the possibility of visiting again :)
+
+
+
+
+
+
+
 
