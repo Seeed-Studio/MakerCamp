@@ -81,7 +81,7 @@ We were fortunate to explore wonderful cultural experiences, which included visi
 ### Dafen Oil Painting Village
 
 <img src="pictures/G_22.jpeg" width="1000">
-<img src="pictures/G_19.jpeg" width="1000">
+<img src="pictures/G_28.jpeg" width="1000">
 
 ### Fairy Lake Botanical Garden
 
