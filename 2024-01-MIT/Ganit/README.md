@@ -15,25 +15,23 @@ In this documentation I will introduce my own insights in participation in the H
 <img src="pictures/G_2.jpeg" width="1000">
 
 
-The HCI Symposium includes multiple activities, including a poster & demo exchange, hackathon, lectures and sharing knowledge between students and industry partners. We had a chance to introduce each person’s research and explore other researchers from multiple universities. This experience was a great part of the journey in Shenzhen, as we got to know the partners, the technology and the people who work in related fields. 
 
+The HCI Symposium featured various activities, such as a poster and demo exchange, a hackathon, lectures, and knowledge-sharing sessions between students and industry partners. We had the opportunity to present each person’s research and explore the work of researchers from multiple universities. This experience was a significant part of our journey in Shenzhen, allowing us to connect with partners, understand the technology, and engage with professionals in related fields.
 
-Held by the Southern University of Science and Technology, school of design - we were introduced to multiple departments and facilities around the university.
-We visited a few departments across the school, and enjoyed seeing multiple projects that used advanced technologies in robotics,3D printing and HCI. 
+Hosted by the Southern University of Science and Technology, School of Design, we were introduced to multiple departments and facilities throughout the university. We visited several departments, witnessing diverse projects that utilized advanced technologies in robotics, 3D printing and get to know HCI groups across the school.
 
 <img src="pictures/G_3.jpeg" width="1000">
 
 ## Seeed Hackathon & Presentations 
 
- Our collaboration with Seeed divided into several experiences. The first was a hackathon in which we were introduced to the Seeed’s XIAO-ESP32S3 and developed an ML integrated system and learned powerful techniques to use the board. After this session, we formed groups for the hackathon: Tech for good. 
+The first involved a hackathon where we were introduced to Seeed’s XIAO-ESP32S3. During this event, we developed an ML-integrated system and acquired powerful techniques for utilizing the board. Following this session, we formed groups for the "Tech for Good" hackathon.
 
-
-My group uses wearable devices to detect color change through glove interaction. The project uses LEDs that connected to Xiao and can capture color change through imaging captured by the embedded camera. The project won the hackathon innovation award and was a very fun experience to work together on this wearable device.  
+In my group, we utilized wearable devices to detect color changes through glove interaction. The project incorporated LEDs connected to the XIAO, capturing color changes through imaging taken by the embedded camera. Our project received the hackathon innovation award, making the collaborative experience of working on this wearable device both enjoyable and rewarding.
 
 <img src="pictures/G_4.jpg" width="1000">
 
 “HandSight” developed to present an interactive digital Gloves that Capture and Augment Colors through Touch.
-Group memebers: Derrek Chow, Ganit Goldstein, Hila Mor & Yue Yang.
+Group members: Derrek Chow, Ganit Goldstein, Hila Mor & Yue Yang.
 
 <img src="pictures/G_5.jpg" width="1000">
 
@@ -41,19 +39,23 @@ Group memebers: Derrek Chow, Ganit Goldstein, Hila Mor & Yue Yang.
 
 <img src="pictures/G_6.jpeg" width="1000">
 
-The second event we participated in was a presentation event hosted by Seeed Studio in the Chaihuo Makerspace. Our group introduced each person’s background and research topics we’ve been developing through our time in MIT and beyond. From small to large scale, our group introduced a very interesting combination of knowledge - from city scale into garment and fabric making and into nano-material explorations, the event was super successful in opening the conversation from education tools, manufacturing technology and digital toolsets. The event was open to the public and introduced a variety of background that all share the special community of the global maker movement.
+The second event in which we participated was a presentation hosted by Seeed Studio at the Chaihuo Makerspace. During this event, our group presented individual backgrounds and the research topics we have been developing both during our time at MIT and beyond. Ranging from small to large-scale projects, our group showcased a compelling combination of knowledge, spanning from city-scale initiatives to garment and fabric manufacturing, and delving into nano-material explorations. The event was highly successful in initiating conversations on educational tools, manufacturing technology, and digital toolsets. The event was open to the public and introduced a variety of background that all share the special community of the global maker movement.
 
 <img src="pictures/G_7.jpeg" width="1000">
 <img src="pictures/G_10.jpeg" width="1000">
 
 ## Factories & Manufacturing 
 <img src="pictures/G_11.jpeg" width="1000">
-WIP
+
+One of the most interesting and eye-opening experiences for me was the journey into the world of electronics manufacturing. To comprehend the immense scale of production in Shenzhen, visiting Huaqiangbei is the ultimate experience, offering a glimpse into one of the world's largest markets for electronics. We had the opportunity to explore various areas and aexplore different buildings that encompassed diverse aspects of electronics, ranging from tools and LEDs to assembly and finished products.
+
 <img src="pictures/G_8.jpeg" width="1000">
 <img src="pictures/G_9.jpeg" width="1000">
 
 
 
 
+
 ## Art and Culture 
-WIP
+<img src="pictures/G_12.jpeg" width="1000">
+
