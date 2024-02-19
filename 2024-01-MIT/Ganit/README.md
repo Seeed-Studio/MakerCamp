@@ -1,6 +1,6 @@
 ## ‘Research at scale’ Journey - Shenzhen 2024
 
-<img src="pictures/G_1.jpeg" width="400">
+<img src="pictures/G_1.jpeg" width="200">
 
 
 The Journey in Shenzhen for me revealed an intersection between design and  technology by being introduced to large scale manufacturing, fabrication techniques, art museums, technology developments, and unique cultural exchange. As a Fashion designer and Textile Researcher specializing in e-textile and smart textile systems for wearables, witnessing insights from both the electronics and textile industries was a meaningful and eye-opening experience. 
@@ -9,5 +9,5 @@ In this documentation I will introduce my own insights in participation in the H
 
 ## HCI Symposium and SUSTech visit 
 
-<img src="pictures/G_2.jpeg" width="400">
+<img src="pictures/G_2.jpeg" width="200">
 
