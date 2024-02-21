@@ -77,7 +77,7 @@ The machines operating were super sopisticated and complex and just so beutiful,
 
 I got to make a few samples for my research using for sensing both knitted and woven tests. The test were very initial but gave me insights into the potential and accuracy possible with each technology. 
 
-<img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/f95cf505-a6f9-4a42-b861-f1914b3f7b93)' width='333'>  <img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/08cb899c-199c-4ffa-a26b-707b9cc59401' width='333'> 
+<img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/f95cf505-a6f9-4a42-b861-f1914b3f7b93' width='333'>  <img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/08cb899c-199c-4ffa-a26b-707b9cc59401' width='333'> 
 
 
 ### Optic fiber 
@@ -105,7 +105,7 @@ If I had to give Shenzhen a second name, I would be LED City. There were whole b
 ![20240109_212804](https://github.com/Seeed-Studio/MakerCamp/assets/45474389/be67fe79-0f56-4665-9602-db47b71771ef)
 
 
-<img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/83fde563-e4da-47dd-af58-5c533b35e57a)' width='333'>  <img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/909579df-3af4-4489-b158-c269f13c6004' width='294'> 
+<img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/83fde563-e4da-47dd-af58-5c533b35e57a' width='333'>  <img src= 'https://github.com/Seeed-Studio/MakerCamp/assets/45474389/909579df-3af4-4489-b158-c269f13c6004' width='294'> 
 
 
 
