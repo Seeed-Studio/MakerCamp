@@ -2,45 +2,65 @@
 
 As a part of the Maker Camp, Seeed Studio invited 10 MIT researchers to co-create meaningful and open source hardware projects in Shenzhen, explore the tech ecosystem frontier, and join maker networks to explore the local scaling power:
 
-<img src='https://github.com/Seeed-Studio/MakerCamp/assets/642787/6e529ca0-0ea1-4d11-a9b1-64f891273dee' width='485'>  <img src='https://github.com/Seeed-Studio/MakerCamp/assets/642787/dd472f75-4b3e-455a-a63f-f7cdb1d84b55' width='485'>
+<img src='album/0_factory.jpg' width='485'>  <img src='album/0_chaihuo.jpg' width='485'>
 
 ## Participants' documentations:
+
+<br><img align="left" src="album/andres.png" height='120'>
 
 **[Andres Rico](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Andres)**
 - PhD student: MIT Media Lab, City Science
 - Keywords: Cities, Machine Learning, socio-environmental sensing
 
+<br><img align="left" src="album/cathy.png" height='120'>
+
 **[Cathy Fang](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Cathy)**
 - PhD student: MIT Media Lab, Fluid Interfaces
 - Keywords: Human-Computer Interactin (HCI), Virtual Reality, Haptics
+
+<br><img align="left" src="album/cedric.png" height='120'>
 
 **[Cedric Honnet](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Cedric)**
 - PhD student: MIT Media Lab + CSAIL (ResEnv + HCIE)
 - Keywords: HCI, Embedded Systems, Wearables
 
+<br><img align="left" src="album/david.png" height='120'>
+
 **[David Preiss](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/David)**
 - PhD student: MIT Center for Bits and Atoms (CBA)
 - Keywords: Digital Fabrication, Mechanical Engineering
+
+<br><img align="left" src="album/ganit.png" height='120'>
 
 **[Ganit Goldstein](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Ganit)**
 - MS + Research Affiliate: MIT Architecture, Computational Design
 - Keywords: eTextiles, Space Exploration
 
+<br><img align="left" src="album/hila.png" height='120'>
+
 **[Hila Mor](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Hila)**
 - PhD student: UC Berkeley + MIT Media Lab MS
 - Keywords: HCI, Sustainable Design, Dynamic Materials
+
+<br><img align="left" src="album/jack.png" height='120'>
 
 **[Jack Forman](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Jack)**
 - PhD student: MIT Media Lab, Tangible Media + CBA
 - Keywords: HCI, Materials Science, Biomedical Engineering
 
+<br><img align="left" src="album/leo.png" height='120'>
+
 **[Leo McElroy](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Leo)**
 - Research Affiliate: CBA + Harvard
 - Keywords: Computational Design, Digital Fabrication
 
+<br><img align="left" src="album/martin.png" height='120'>
+
 **[Martin Nisser](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Martin)**
 - PhD student: MIT CSAIL, HCIE
 - Keywords: Digital Fabrication, Robotics, Self-Assembly
+
+<br><img align="left" src="album/yunyi.png" height='120'>
 
 **[Yunyi Zhu](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/Yunyi)**
 - PhD student: MIT CSAIL, HCIE
