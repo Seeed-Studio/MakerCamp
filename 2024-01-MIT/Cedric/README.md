@@ -47,7 +47,7 @@ _A show with 1000 drones celebrating the new dragon year, and showing a phoenix,
 
 Before my PhD, I was an embedded systems engineer for a decade, designing various interactive systems and wearables.
 I’ve been going to Shenzhen (SZ) at least once a year for 10 years to make these systems affordable, mostly with friends from [Noisebridge](https://www.noisebridge.net/wiki/HTTC2019) (San Francisco Hackerspace), thanks to Mitch Altman who used to lead yearly trips. We would visit hackerspaces, fablabs, universities, factories, and attend conferences. One of the specificities of Shenzhen is its electronic market (HuaQiangBei or HQB), and the Noisebridge trips were an amazing introduction for all of us, but the now famous youtuber [Scottie Allen](https://www.youtube.com/@StrangeParts) took it to the next step: He showed the world the power of this magic ecosystem by documenting how he made his own iPhone from “black market” parts (among other adventures).
-Meanwhile, MIT was also sending students every year to SZ for 10 years. These trips sometimes overlapped a few times, with people such as [Bunnie Huang](https://www.media.mit.edu/events/mltalks-bunnie-huang/) who started the MIT version, or [Nadya Peek](https://www.hcde.washington.edu/peek), who joined both tours (see picture below).
+Meanwhile, MIT was also sending students every year to SZ for 10 years. These trips overlapped a few times, with people such as [Bunnie Huang](https://www.media.mit.edu/events/mltalks-bunnie-huang/) who started the MIT version, or [Nadya Peek](https://www.hcde.washington.edu/peek), who joined both tours (see picture below).
 
 <img src='media/0_intro/2_Innovate_with_China.png'> <br>
 _A visit to Seeed’s factory in 2014, with its CEO [Eric Pan](https://www.chaihuo.org/maker/maker?id=58597) (2nd from left), Noisebridge co-founder Mitch Altman (1st from left), Nadya Peek visiting from MIT (1st from right), and [myself](https://honnet.eu) with the hat._
@@ -57,11 +57,13 @@ _A visit to Seeed’s factory in 2014, with its CEO [Eric Pan](https://www.chaih
 
 **Affordability?**
 
-Some of the MIT-trip-to-Shenzhen participants ended up building open hardware companies, such as [Chibitronics](https://chibitronics.com/) by [Jie Qi](https://technolojie.com/).
+Of course, China is famous for its mass manufacturing power enabling costs necessary to scale products.
+Some of the MIT-trip-to-Shenzhen participants ended up building open hardware companies, such as [Chibitronics](https://chibitronics.com/) by [Jie Qi](https://technolojie.com/) (being open is practical here, see discussion below).
 Understanding the supply chain and manufacturing ecosystems is necessary for hardware companies, but SZ’s affordability super power can also benefit independents, hackers, and academics!
 
-**Cloning!?**
+**Cloning, and “Implicit Open Hardware”.**
 
+Some could see China as a risky option for manufacturing, and even if the cloning problem is not as common as one might think, its flexible mentality enables surprising side effects.
 During one of my Seeed factory visits, I met some of their engineers who were analyzing the clone of a product that they manufacture ([bitcraze](https://bitcraze.io)). They discovered interesting cost improvement techniques, which inspired the design team for their next revisions:
 
 <img src='media/0_intro/3_implicitely_open.png'> <br>
@@ -71,11 +73,12 @@ As a good old tech hippie, the “Open Hardware” concept is almost a tautology
 - It’s never useful to close-source hardware as it can almost always be reverse engineered. The cheapest and most reliable way to be sure that a design can’t be stolen is to make it free/open.
 - The main motivation for most hardware nerds is not the money potential, it’s the design beauty, so sharing it is a pleasure.
 
-**Amplifying The Scalable Open Hardware Solution**
+**The Open Hardware Solution, And Amplifying Scalability.**
 
 SZ changed a lot in the last 10 years, mostly on good aspects, but COVID was brutal.
 This write-up summarizes a few recent SZ observations, starting with my work on making my research affordable with scalable manufacturing, and how I try to amplify my impact by sharing this scalability exploration through a research residency and a new symposium.
 But China is home to one of the richest cultural heritages of humanity, from its culinary traditions to its art scene, and our explorations were not devoid of surprises.
+This document also unveils some cultural discoveries that challenge most preconceptions about China.
 
 
 
@@ -131,7 +134,7 @@ With this test PCB, fast iteration is also an advantage, and the market can also
 I visit dozens of factories everytime I’m in Shenzhen so I will only discuss two here, but the rest of the group did a beautiful job at documenting their visits:
 [seeed-studio.github.io/MakerCamp/2024-01-MIT](https://seeed-studio.github.io/MakerCamp/2024-01-MIT)
 
-One of my latest challenges was to find _affordable_ laser cutters that can handle metal to engrave custom PCBs. During the COVID lockdown I started doing it using fiber lasers([publication](https://www.raframakers.net/wiki/uploads/Main/Research/diyPCbs.pdf) / [hackaday](https://hackaday.com/2021/01/11/laser-blasts-out-high-quality-pcbs/)).
+One of my latest challenges was to find _affordable_ laser cutters that can handle metal to engrave custom PCBs. During the COVID lockdown I started doing it using fiber lasers ([publication](https://www.raframakers.net/wiki/uploads/Main/Research/diyPCbs.pdf) / [hackaday](https://hackaday.com/2021/01/11/laser-blasts-out-high-quality-pcbs/)).
 At MIT, I have been using a Trotec [Speedy 100 Flexx](https://cba.mit.edu/tools/#Trotec_Speedy_100_Flex_Laser_Cutter) (20W green) and a [JPT MOPA M7](https://lasersonly.com/products/flmzjpt60m7) (60W infrared) which is almost an order of magnitude cheaper. The blue laser options are getting even cheaper, which motivated trendy brands such as Creality to diversify from their 3d printing focus.
 During the [China High Tech Fair](https://www.chtf.com/english/) (a “Chinese CES” but much cooler), I got to test another model by [Algo Laser](https://algolaser.com/) and went to visit them for more tests with a Noisebridge friend (AKA Parkview). They connected us with their laser module manufacturer ([XingHang](https://www.xinghanlaser.com)), and we also went to visit them:
 
@@ -204,13 +207,13 @@ Another hack in my TODO list is to use the service of companies that do PCB reve
 
 # B) Our Own Symposium to Amplify Impact Scalability
 
-_Give people some fish and you feed them for a day; teach them to fish and you feed them for a lifetime_
+_"Give people some fish and you feed them for a day; teach them to fish and you feed them for a lifetime"_
 
 <img src='media/2_symposium/0_symposium.jpg'> <br>
 _About hundred people joined our [Scalable HCI Symposium](http://ScalableHCI.com)._
 
 Even if my research can be made affordable and replicable, its impact is limited within the vacuum of academic publications. So, I’ve been working hard to make it scalable using design techniques for manufacturability. But I’ve realized that my research impact can be amplified even more by teaching others how to make their work scalable. Restarting the MIT [research residency](https://www.media.mit.edu/posts/research-at-scale-2024/) with the [Maker Camp](https://www.seeedstudio.com/blog/2024/01/15/introducing-maker-camp-in-shenzhen/) was a perfect option, Shenzhen is basically the manufacturing epicenter of the world.
-    With [Seungwoo Je](https://www.seungwooje.com/) and a real dream team, we worked on multiplying this research residency impact even more, and we created the Scalable HCI Symposium: [ScalableHCI.com](https://scalablehci.com)
+    With [Seungwoo Je](https://www.seungwooje.com/) and a real dream team, we worked on multiplying this research residency impact even more, and we created the Scalable HCI Symposium: [ScalableHCI.com](https://scalablehci.com).
 Over a hundred participants from MIT, Harvard, Berkeley, Cornell, Parsons, CMU, NYU, KAIST and local institutions joined us. After the electronic markets and factories visits, the symposium included a workshop and hackathon focused on “Open Tech for Good,” hoping to empower global innovation by democratizing scalable manufacturing, and bridging continents.
 
 
@@ -323,7 +326,7 @@ Here are the hackathon winners, selected by Seeed:
 China is one of the countries that take food extremely seriously, and we were not disappointed.
 
 <img src='media/3_cultural/1_outdoors/1_food_dongmen.gif' width='487'>   <img src='media/3_cultural/1_outdoors/1_food_lamian.gif' width='487'> <br>
-_Left: the Dafen food court / Right: a Lamian artisan, making noodles by hand_
+_Left: the Dongmen food court / Right: a Lamian artisan, making noodles by hand_
 
 And Shenzhen has mountains!
 
