@@ -1,30 +1,36 @@
 # MakerCamp
 
-Maker Camp in Shenzhen, powered by Seeed Studio — Co-create meaningful and open source hardware projects in Shenzhen, explore tech ecosystem frontier, join maker network for scaling.
+Maker Camp in Shenzhen, powered by [Seeed Studio](https://www.seeed.cc/) and [Chaihuo](https://seeed-studio.github.io/MakerCamp/Chaihuo) — Co-create meaningful and open source hardware projects in Shenzhen, explore tech ecosystem frontier, join maker network for scaling.
 
-### 1st batch:
+### Jan 2024:
 
 In the tradition of the [Research At Scale](https://www.media.mit.edu/posts/research-at-scale) residency, 10 MIT researchers were invited to inaugurate the Maker Camp program, in January 2024.
 The participants documented their experience here:
 
 => **[Massachusetts Institute of Technology](https://seeed-studio.github.io/MakerCamp/2024-01-MIT/)** <=
 
-### 2nd batch:
+### Mar 2024:
 
 The students of the Department of Electrical and Electronic Engineering (DIEE), University of Cagliari, have concluded an unforgettable trip to Shenzhen, Macau and Hong Kong. During the trip, the group explored the technological innovations of one of the most advanced technological hubs in the world.
 
 => **[University of Cagliari](https://github.com/Seeed-Studio/MakerCamp/tree/main/2024-03-Uni%20of%20Cagliari)** <=
 
-### 3rd batch:
+### Apr 2024:
 
 From June 24-28, 2024, SUSTech School of Design host the "AI in Design" Summer School. The program featured lectures, workshops, project showcases, field trips, and cultural tours in Shenzhen, welcoming undergraduate and early graduate students with a background or interest in design. 
 
 => **[SUSTech School of Design](https://github.com/Seeed-Studio/MakerCamp/tree/main/2024-04-AI%20in%20Design%20Summer%20School)** <=
 
-### More:
+### Jan 2025:
 
-https://github.com/Seeed-Studio/MakerCamp/
+Back for the yearly "Research At Scale" residency, 10 MIT researchers joined the Maker Camp program:
 
+=> **[Massachusetts Institute of Technology](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/)** <=
+
+
+### More by NYU, Tsinghua, Sydney Uni, etc:
+
+[github.com/Seeed-Studio/MakerCamp](https://github.com/Seeed-Studio/MakerCamp/)
 
 ## Background
 
