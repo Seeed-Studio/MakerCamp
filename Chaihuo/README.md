@@ -2,16 +2,16 @@
 
 Chaihuo is a Makerspace in Shenzhen, here is the official website:
 
-https://chaihuo.org/space/contact
+[chaihuo.org/space/contact](https://chaihuo.org/space/contact)
 
 
 ## Address
 
-- [Chinese map](https://mmapgwh.map.qq.com/shortlink/short?l=dd5f0477222cbce3f0eb92a90ad02190)
-=> 深圳南山区打石二路万科云设计公社B622
+- [Chinese map](https://surl.amap.com/6nGQltC81j2JB)
+(accurate) => 深圳南山区打石二路万科云设计公社B622
 
 - [English map](https://cn.bing.com/maps?osid=15de83d8-1450-4de0-8ae7-ac2bbc752536&cp=mrwcdhtgvc9y&lvl=18&pi=0&v=2&sV=2&form=S00027)
-=> Vanke Design Commune (B622), Nanshan District, Shenzhen
+(inaccurate) => Vanke Design Commune (B622), Nanshan District, Shenzhen
 
 
 ## Step by step
