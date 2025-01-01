@@ -1,6 +1,27 @@
-# MakerCamp
+# Maker Camp Shenzhen
 
 Maker Camp in Shenzhen, powered by [Seeed Studio](https://www.seeed.cc/) and [Chaihuo](https://seeed-studio.github.io/MakerCamp/Chaihuo) — Co-create meaningful and open source hardware projects in Shenzhen, explore tech ecosystem frontier, join maker network for scaling.
+<img src="./images/campcover.png" width="800"  alt="MakerCamp">
+
+# Index of shared findings 
+- Electronics
+- Mechanics
+- Assembly 
+- Chipsets
+- Textile
+
+# Index of shared interests
+- AI
+- wearables
+- Robotics
+- 3D Printing
+- environment sensing
+- medical equipment
+- steam education
+- ag tech
+- music
+
+## Log
 
 ### Jan 2024:
 
