@@ -10,7 +10,7 @@ Maker Camp in Shenzhen, powered by [Seeed Studio](https://www.seeed.cc/) and [Ch
 - Chipsets
 - Textile
 ## Open Manufacture Whitepaper
-[Open Manufacture Whitepaper](./Chaihuo/open%20manufacture%20whitepaper/open%20manufacture%20whitepaper.md)
+[Open Manufacture Whitepaper](https://doc.weixin.qq.com/doc/w3_AdwA4QaAAGkadC0NV05RliKYLKhqz?scode=AGEAZwfLABEPp0Q7TqAdwA4QaAAGk)
 
 
 # Index of shared interests
