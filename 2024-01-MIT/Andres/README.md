@@ -39,17 +39,7 @@ We visited the biggest electronics Market in the world at Huaqiangbei. This is a
 ![](documents/photos/elec_market.jpg)
 ![](documents/photos/elec_market2.jpg)
 
-### TinyML Workshop
-
-The future of electronics and AI is at the edge!
-
-For this we used the [XIAO-ESP32-S3-Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html). This tiny development board integrates an esp32 and a tiny camera module and it has the capability of running edge ML models for image recognition, speech and many other sensors.
-
-These capabilities open up great opportunities for makers all around the world to give their projects AI capabilities without having to connect the to a cloud service. This could have great implications in terms of data security and privacy as well as to access to these types of technologies in remote areas such as forests, mountains or informal settlements. I think that this poster at Seeed's office summarizes the potential of this technology very well.
-
-![](documents/photos/2001.jpg)
-
-### General Changes to Architecture of Sensors
+### Learning about components (regulators and batteries)
 
 As the system will be mass produced. I decided that optimizing it would be a great use of my time in Shenzhen. I aimed to have an architecture that was easy to replicate, manufacture at scale, easy to ship worldwide and cheap. Some of the major changes to the architecture are listed and explained below:
 
