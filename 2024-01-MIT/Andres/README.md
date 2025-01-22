@@ -16,9 +16,9 @@ A key challenge in building sensor systems for cities is the ability to scale. W
 
 ## Scalable HCI Symposium
 
-The scalable HCI symposium allowed us to get to know some of the great projects that are being done at SUSTech School of Design as well as to engage with Seeed's latest producs and Shenzhen's vibrant technology ecosystem.
+The scalable HCI symposium allowed us to get to know some of the great projects that are being done at SUSTech School of Design as well as to engage with Seeed's latest producs and Shenzhen's technology ecosystem.
 
-You can find more information and a short video about the Symposium [here](https://scalablehci.com/). We had a nice poster session, great speeakers, factory visits, and a bucnh of interesting conversations with regional players and stakeholders.
+You can find more information and a short video about the Symposium [here](https://scalablehci.com/). We had a nice poster session, great speeakers, factory visits, and a bucnh of interesting conversations.
 
 ### Factory Visits
 - LCD Screen Manufacturing
@@ -30,7 +30,7 @@ You can find more information and a short video about the Symposium [here](https
 ![](documents/photos/flex.jpg)
 ![](documents/photos/led_plan.jpg)
 
-Visitng these factories allowed us to see the details of how electronics and different components are manufactured at scale. I was also able to establish good relationships with potential future collaborators and suppliers.
+Visitng these shops allowed us to see the details of how electronics and different components are manufactured at scale. I was also able to establish good relationships with potential future collaborators and suppliers.
 
 ### Electronics Market
 
@@ -41,28 +41,15 @@ We visited the biggest electronics Market in the world at Huaqiangbei. This is a
 
 ### TinyML Workshop
 
-The future of electronics and AI is at the edge! During this workshop we were able to engage with Seeed's startegic product line being created around EDGE AI.
+The future of electronics and AI is at the edge!
 
-For this we used the [XIAO-ESP32-S3-Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html). This tiny development board integrates an esp32 and a tiny camera module and it has the capability of running edge ML models for image recognition, speech and many other sensors. What our friends at Seeed have done here is truly remarkable.
+For this we used the [XIAO-ESP32-S3-Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html). This tiny development board integrates an esp32 and a tiny camera module and it has the capability of running edge ML models for image recognition, speech and many other sensors.
 
 These capabilities open up great opportunities for makers all around the world to give their projects AI capabilities without having to connect the to a cloud service. This could have great implications in terms of data security and privacy as well as to access to these types of technologies in remote areas such as forests, mountains or informal settlements. I think that this poster at Seeed's office summarizes the potential of this technology very well.
 
 ![](documents/photos/2001.jpg)
 
-## Seeed
-
-### Hack Day Presentations
-
-We were invited by Seeed to present our projects at their Hacker Space! We had a great time and were able to engage with the amazing maker community in Shenzhen. It was also incredibly interesting to hear all of the amazing work being done by people in the maker space and by my collgues from MIT and UC Berkeley.
-
-![](documents/photos/fablab.jpg)
-![](documents/photos/presentation.jpg)
-
-## Seeed Co-Create Program
-
-I've begun talks with Seeed to further develop the [Axol Water Sensors Project](https://github.com/AndresRicoM/axol) through their Co-Create program. I belive that Seeed's manufacturing capabilities, engineering and global recognizion will allow my project to reach the audiences of makers and researchers for whom it is specifically designed for. This partnership will enable for water research, specially within informal settlements, to be more accessible, something that I set as a goal in my [published work](https://www.nature.com/articles/s41598-023-46236-3).
-
-### General Changes to Architecture
+### General Changes to Architecture of Sensors
 
 As the system will be mass produced. I decided that optimizing it would be a great use of my time in Shenzhen. I aimed to have an architecture that was easy to replicate, manufacture at scale, easy to ship worldwide and cheap. Some of the major changes to the architecture are listed and explained below:
 
@@ -77,7 +64,7 @@ The ESP32-C3 XIAO has packed almost all the things that I need for my sensors wi
 
 ![](documents/xiao_schematic.png)
 
-I ended up analyzing the power requirements of the system, my current architecture and the XIAO's internal architecture (as seen above)(the blue square points to the regulator component which is responsible for most of the XIAO's deep sleep current consumption) and decided that my best bet for this design is to base the new modules on the [ESPRESSIF ESP32 MINI WROOM](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf). This module uses the ESP32-C3 chip which has USB peripherals and doe snot have an on-board regulator. This means that I can use the same [RT9080-33GJ5](https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9080-33GJ5/6161634?s=N4IgTCBcDaIEoBUCcAGAHCgtAZmwcQCkBWEAXQF8g) regulator that I used in my first design. This regulator has an extremely low idle current consumption of about 0.1uA! Due to the importance of battery life, I had to sacrifice using the XIAO along with many of the capabilities that it brings such as USBC and charging. I figured that if the sensors would consume such little power, replacing batteries would be more suitable than charging them. I think that a version of the XIAO that uses the [RT9080-33GJ5](https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9080-33GJ5/6161634?s=N4IgTCBcDaIEoBUCcAGAHCgtAZmwcQCkBWEAXQF8g) would be super cool to see! Maybe Seeed will make one soon.
+I ended up analyzing the power requirements of the system, my current architecture and the XIAO's internal architecture (as seen above)(the blue square points to the regulator component which is responsible for most of the XIAO's deep sleep current consumption) and decided that my best bet for this design is to base the new modules on the [ESPRESSIF ESP32 MINI WROOM](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf). This module uses the ESP32-C3 chip which has USB peripherals and doe snot have an on-board regulator. This means that I can use the same [RT9080-33GJ5](https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9080-33GJ5/6161634?s=N4IgTCBcDaIEoBUCcAGAHCgtAZmwcQCkBWEAXQF8g) regulator that I used in my first design. This regulator has an extremely low idle current consumption of about 0.1uA! Due to the importance of battery life, I had to sacrifice using the XIAO along with many of the capabilities that it brings such as USBC and charging. I figured that if the sensors would consume such little power, replacing batteries would be more suitable than charging them. I think that a version of the XIAO that uses the [RT9080-33GJ5](https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9080-33GJ5/6161634?s=N4IgTCBcDaIEoBUCcAGAHCgtAZmwcQCkBWEAXQF8g) would be super cool to see!
 
 ![](documents/mc_change.png)
 
@@ -116,10 +103,6 @@ This sensor measures conductivity in water to know TDS (Total Dissolved Solids).
 
 The new design will allow the sensor to be placed at the edge of a tank so that it is not in constant contact with water. This will allow for the sensor to be more robust and to be cheaper to manufacture. Below is the new schematic for the sensor.
 
-A second change is that I will be using a nice Grove conector from Seeed so that the device uses the [Grove TDS sensor](https://www.seeedstudio.com/Grove-TDS-Sensor-p-4400.html?queryID=c9b044c1923647ede5d84f3b413e7e5f&objectID=4400&indexName=bazaar_retailer_products)! As Seeed has optimized this design, it will be a great addition to my current design and it will keep costs optimal.
-
-![](documents/photos/grove_tds.jpg)
-
 Here is the new schematic!
 
 ![](documents/quality_schematic.png)
@@ -132,18 +115,6 @@ I will be testing the new designs and working on the new mechanical case designs
 ## Eagle Library for XIAOESP32-C3!
 
 As I realized that the Eagle library file does not have pads for the XIAO's battery, I've created an [Eagle library for the XIAOESP32-C3](https://github.com/AndresRicoM/XIAO_ESP32C3_Battery_EAGLE-) that includes the pads. This would be helpful for people prototyping their pcbs that nee to include battery connectivity to their projects. I hope that this library can be useful for other makers and engineers that are looking to use the XIAO in their designs!
-
-## SUSTech Collaborations Cooking
-
-### Satellite Project Collaboration (Pi)
-Pi is a Master's student at SUSTech that is very interested in multiple urban planning aspects. He is currently working a cool project that uses Satellite data to get estiamtes of water availibility in a given geography. I don't have a link to that work as it is not published yet.
-
-But we had some interesting conversations about combining sensor data from my water sensors with his availibility calculation so that we can get proper estimates (supply/demand) of water in informal settlements. I think that this could be a very interesting project to work on.
-
-We will try to kick this off in the next few months. I hope that scaling my sensors with the help of Seeed will allow us to get enough coverage of settlements to make this project a reality.
-
-### New Interfaces Project Collaboration SUSTech (Seungwoo)
-I was also very happy to see the great work that Seungwoo is doing with new interfaces. He is currently workiing on creating amazing pin array interfaces. Here is a link to his most recent [published work](https://dl.acm.org/doi/10.1145/3411764.3445454).
 
 
 ## Art, art and more art!
