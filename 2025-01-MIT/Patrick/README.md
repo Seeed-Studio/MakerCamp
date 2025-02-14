@@ -5,7 +5,7 @@ I loved visiting Shenzhen for the first time and exploring HQB, although I remem
 
 <img src="images/patrick_with_david.jpeg" width="400">
 
-### Lions
+### CollarID (Lions!)
 
 The goal of this trip is to focus on my CollarID project, a wearable for dogs and lions that tracks not only their movements but also their environments. The aim is to build a more comprehensive dataset to better understand how animal behavior relates to external events, such as wildfires, human activity, and the presence of other animals.
 ### HQB
