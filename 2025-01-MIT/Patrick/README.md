@@ -35,7 +35,9 @@ Given that I am designing a collar for both dogs and lions, I need custom parts 
 <img src="images/hotel_hack.jpeg" width="400">
 
 My hotel room became my quiet hacking oasis, where I often worked through the night, evaluating PCBAs I had just made in nearby factories. As great as it was, I did miss having full-sized test equipment, but I made do with the compact instruments I found in HQB.
-<img src="images/gaga.jpeg” width="400">
+
+<img src="images/gaga.jpeg" width="400">
+
 I also occasionally had a chance to step out to COCO Park and grab myself a healthy smoothie. =)
 ### Touring Seeed Studio
 
