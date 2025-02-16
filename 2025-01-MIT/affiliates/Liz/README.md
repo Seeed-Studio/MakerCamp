@@ -25,7 +25,7 @@ From top left to right:
 <img src="images/chinese_space_station_drone.jpeg" width="200"> <img src="images/fun_drone.jpeg" width="200">
 - drones were everywhere! I loved this butterfly and space station one, a creative take on what a drone represents.
 
-<img src="images/old_cameras.jpeg" width="200">
+<img src="images/old_cameras.jpg" width="200">
 - now that youngsters from all over the world (there were hordes of students searching for cameras in HQB) on the old cameras trend, it seems that vendors have dug up handheld cameras from the 90s and early 2000s. Theres dozens of booths selling them.
 
 <img src="images/fake_vp.jpeg" width="200">
@@ -65,7 +65,7 @@ During the symposium hackathon, I found a rare satellite phone in the markets an
 
 <img src="images/sat_phone.jpeg" width="200"> <img src="images/sat_phone_insides.jpeg" width="200">
 - the main board is a newer phone board, but the body is the original sat phone body
-<img src="images/showing_hackathon_idea.jpeg" width="300">
+<img src="images/showing_hackathon_idea.jpg" width="300">
 - showing off the idea to the symposium!
 
 ## Friends Along the Way
