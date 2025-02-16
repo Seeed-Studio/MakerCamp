@@ -50,14 +50,10 @@ Being in HQB and seeing so many super specific vendors - LEDs, connectors, ICs, 
 
 Visiting Seeed Studio's factory was a breakthrough moment - watching how PCB boards are made and how the assembly line is organized made so much click into place. Other factory visits that showcased how injection molds are made and flex PCBs are assembled added more pieces to the puzzle. All this inspired me to start putting together a [massive guide of learnings](https://elfin-guan-8f7.notion.site/The-Ultimate-Guide-to-Understanding-Consumer-Electronics-and-Making-Things-17ef7fbeb7fd80d5b5f8ea97d5715da5?pvs=4) to map out the entire consumer electronics supply chain, from raw materials to final shipping, including the history of computing devices. Did you know that consumer electronics really only started in Shenzhen in the late 80s? I visited the HQB history museum and was blown away by how much the ecosystem has grown. I want this guide to be a shared resource for everyone who's just starting out. If you want to help out, please reach out!
 
-<img src="images/connectors.jpeg" width="300">
-<img src="images/flex_pcbs.jpeg" width="300">
-<img src="images/injection_mold_stamp.jpeg" width="300">
+<img src="images/connectors.jpeg" width="300"> <img src="images/flex_pcbs.jpeg" width="300"> <img src="images/injection_mold_stamp.jpeg" width="300">
 - some of the puzzle pieces that make up modern consumer electronics - connectors, flex PCBs, injection molds (here showing the stamp and resultant mold).
 
-<img src="images/seeed_factory_production_process.jpeg" width="300">
-<img src="images/seeed_production_process.jpeg" width="300">
-<img src="images/seeed_factory.jpeg" width="300">
+<img src="images/seeed_factory_production_process.jpeg" width="300"> <img src="images/seeed_production_process.jpeg" width="300"> <img src="images/seeed_factory.jpeg" width="300">
 - Seeed Studio really explained the entire production process to us!
 
 <img src="images/shenzhen_timeline.jpeg" width="400">
@@ -88,7 +84,4 @@ Shenzhen arcades are next level.
 
 <img src="images/vr_selfie.jpeg" width="200">
 We got to go to many media art installations. My favorie was one where you had to wear a mixed reality headset.
-
-<img src="images/archeology.jpeg" width="200">
-We got a tour of SUSTech and got to see the archeology department's collection.
 
