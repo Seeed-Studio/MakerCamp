@@ -1,6 +1,7 @@
 ## Shenzhen Round 2
 
 The last time I visited Shenzhen was in the summer of 2019. At that time, I was working on designing the very first version of Project Captivates with David Ramsay—a smart eyeglass platform intended to measure human attention and audience engagement at events, at least that was before COVID hit and we had to pivot. It was nostalgic to have the opportunity to visit a second time with David and see how the city has changed.
+
 I loved visiting Shenzhen for the first time and exploring HQB, although I remember feeling a bit overwhelmed by all the stimuli. There was so much! You could build virtually anything and have access to almost any kind of factory. For this second visit, I intended to come in with a more thorough plan to execute and to make the most of my time.
 
 <img src="images/patrick_with_david.jpeg" width="400">
@@ -57,3 +58,5 @@ AIRS was very kind in hosting us and providing lab space to work in every day wh
 <img src="images/mcdonalds.jpeg" width="400">
 
 Shenzhen was an amazing experience, just as good as the first time around. I was surprised to see how quickly the city has grown since my last visit five years ago. There were far more EVs on the road, and paying for things virtually was significantly easier for foreigners. I truly can’t wait to come back in another five years to see how this beautiful city continues to evolve.
+
+I would also like to highlight Cedric Honnet and thank him for organizing this trip for all of us!
