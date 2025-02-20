@@ -1,8 +1,8 @@
-# Research at Scale – Shenzhen, January 2025
+# Research at Scale – Shenzhen, January 2025 Francisco Ramirez Serrano
 
 ---
 
-## Summary
+## Summary of this amazing experience!!!
 
 <p align="center">
   <img src="./images/city1.jpeg" alt="Wonderful lighting atmosphere of Shenzhen" width="300">
