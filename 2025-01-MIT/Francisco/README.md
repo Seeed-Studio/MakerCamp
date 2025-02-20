@@ -15,6 +15,11 @@ Third, **the variety of activities I took part in—factory visits, a hackathon,
 I flew over from Geneva as I had spent Christmas in Europe, with a layover in Paris. For the return, I flew directly from Hong Kong to Boston. This was the longest flight I’ve ever taken at **15 hours**. Flying into Hong Kong was easy.  
 
 ### **Tips for Travelers:**
+
+<p align="center">
+  <img src="./images/google_translate.jpeg" alt="Google Translate in action" width="120">
+</p>
+
 - **Get a CSL prepaid SIM card** at 7-Eleven in Hong Kong for about **$10 USD**. It works in **China, Hong Kong, and Macau**.
 - **Currency confusion?** The Hong Kong dollar (HKD) is worth **0.13 USD per 1 HKD**, so don’t panic if things seem expensive at the airport!
 - **Ferry to Shenzhen:** I took the ferry to and from Shenzhen and the Hong Kong airport, followed by an additional **50-minute Didi ride**.
@@ -36,7 +41,7 @@ To communicate with drivers, restaurant workers, and when negotiating, I highly 
 - **City Hotel’s location was perfect** – Great access to key areas and helpful staff.
 
 <p align="center">
-  <img src=".../images/google_translate.jpeg" alt="Google Translate in action" width="500">
+  <img src=".../images/photo1.jpg" alt="Google Translate in action" width="500">
 </p>
 
 ---
