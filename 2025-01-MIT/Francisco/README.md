@@ -124,131 +124,179 @@ The project demonstrated how **rapid manufacturing methods** can be applied to d
 
 ## 🏦 Academic University Visits
 
-<p align="center">
+During my recent travels across Shenzhen and Hong Kong, I had the chance to visit several universities renowned for their cutting-edge research in robotics, AI, and micro-engineering. I was excited to meet faculty members, tour their facilities, and learn about ongoing projects involving miniature and bio-inspired robots.
+
+<br>
+
+<div align="center">
+  <img src="./images/uni1.jpeg" alt="University Campus" width="350">
+  <p><em>An Inviting Campus Entrance</em></p>
+</div>
+
+I found each campus to have its own unique environment—some emphasized collaborative design spaces, while others fostered close-knit research teams. Regardless, the emphasis on innovation was consistent across all the schools I visited.
+
+<br>
+
+<div align="center">
   <table>
     <tr>
-      <td>
-        <p align="center">
-          <img src="./images/uni1.jpeg" alt="University Campus" width="300">
-        </p>
-        <p align="center"><em>University Campus</em></p>
+      <td align="center">
+        <img src="./images/uni2.jpeg" alt="Lecture Hall Visit" width="280">
+        <p><em>An impressive blend of buildings and nature</em></p>
       </td>
-      <td>
-        <p align="center">
-          <img src="./images/uni2.jpeg" alt="Lecture Hall Visit" width="300">
-        </p>
-        <p align="center"><em>Lecture Hall Visit</em></p>
+      <td align="center">
+        <img src="./images/uni3.jpeg" alt="Research Lab Tour" width="280">
+        <p><em>Library</em></p>
       </td>
     </tr>
     <tr>
-      <td>
-        <p align="center">
-          <img src="./images/uni3.jpeg" alt="Research Lab Tour" width="300">
-        </p>
-        <p align="center"><em>Research Lab Tour</em></p>
+      <td align="center">
+        <img src="./images/uni4.jpeg" alt="Networking with Faculty" width="280">
+        <p><em>Miniature of the University</em></p>
       </td>
-      <td>
-        <p align="center">
-          <img src="./images/uni4.jpeg" alt="Networking with Faculty" width="300">
-        </p>
-        <p align="center"><em>Networking with Faculty</em></p>
+      <td align="center">
+        <img src="./images/uni5.jpeg" alt="Exclusive University Event" width="280">
+        <p><em>Origami Robotic Insect Wing Exhibit</em></p>
       </td>
     </tr>
   </table>
-</p>
+</div>
 
-<p align="center">
-  <img src="./images/uni5.jpeg" alt="Exclusive University Event" width="300">
-</p>
-<p align="center"><em>Exclusive University Event</em></p>
+<br>
 
-- Universities we visited.  
-- Research labs and projects that caught my attention.
+### My Impressions of Shenzhen and Hong Kong Universities
+
+- **Southern University of Science and Technology (SUSTech), Shenzhen**  
+  I was impressed by their hands-on approach to robotics, microfabrication, and materials science. They have modern research facilities and ongoing partnerships with international institutions—this helps in pushing the boundaries of micro-scale robotics and advanced manufacturing techniques.
+
+- **Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)**  
+  AIRS stands out for its focus on AI-driven solutions in robotics. I learned about their autonomous systems and microrobotics projects, which often involve knowledge exchange with global research labs.
+
+- **The Hong Kong University of Science and Technology (HKUST)**  
+  Their robotics and automation labs are incredible. I saw demonstrations of micro aerial vehicles and small, agile robots that can be deployed in various industrial settings.
+
+
+<br>
+
+### Up Close with the Origami Robotic Insect Wing
+
+One of the most fascinating demonstrations I saw was the **origami robotic insect wing**. This tiny marvel is constructed using ultra-thin materials that can fold and unfold with high precision. The lightweight and flexible nature of origami-inspired wings allows for efficient flapping motions, closely mimicking the flight of real insects. Researchers at these universities, in tandem with labs at Harvard, are pushing the limits of what’s possible in terms of size, power consumption, and agility.
+
+
+I left these universities inspired and full of ideas. The innovation on display in Shenzhen and Hong Kong truly showcases the future of robotics—where technology becomes smaller, smarter, and more interconnected by the day.
 
 ---
 
 ## 🏭 Factory Visits
 
-<p align="center">
-  <img src="./images/bus1.jpeg" alt="Bus journeys to the factory last around 1 hour" width="300">
-</p>
-<p align="center"><em>Bus journeys to the factory last around 1 hour</em></p>
+During my time in Shenzhen and Dongguan, I decided to hop on a few local buses to explore the region’s vibrant manufacturing ecosystem. These trips often took around an hour, winding through industrial areas and bustling city streets—an experience in itself. I was eager to see how some of the world’s most efficient production lines operate behind the scenes.
 
-<p align="center">
+<br>
+
+<div align="center">
+  <img src="./images/bus1.jpeg" alt="Bus journeys to the factory last around 1 hour" width="320">
+  <p><em>Bus rides typically last around an hour, giving me time to prep for the upcoming factory tours.</em></p>
+</div>
+
+<br>
+
+### Behind the Scenes of Cutting-Edge Manufacturing
+
+Each factory I visited had its own specialty, whether it was precision assembly, automated systems, or testing and quality control. I was amazed to witness how these facilities leverage advanced machinery to speed up production while maintaining strict quality standards.
+
+<div align="center">
   <table>
     <tr>
-      <td>
-        <p align="center">
-          <img src="./images/machine2.jpeg" alt="Advanced Factory Machinery" width="300">
-        </p>
-        <p align="center"><em>Advanced Factory Machinery</em></p>
+      <td align="center">
+        <img src="./images/machine2.jpeg" alt="Advanced Factory Machinery" width="260">
+        <p><em>Advanced Factory Machinery</em></p>
       </td>
-      <td>
-        <p align="center">
-          <img src="./images/machine3.jpeg" alt="Production Line" width="300">
-        </p>
-        <p align="center"><em>Production Line</em></p>
+      <td align="center">
+        <img src="./images/machine3.jpeg" alt="Production Line" width="260">
+        <p><em>Production Line</em></p>
       </td>
-      <td>
-        <p align="center">
-          <img src="./images/machine4.jpeg" alt="Automated Manufacturing" width="300">
-        </p>
-        <p align="center"><em>Automated Manufacturing</em></p>
+      <td align="center">
+        <img src="./images/machine4.jpeg" alt="Automated Manufacturing" width="260">
+        <p><em>Automated Manufacturing</em></p>
       </td>
     </tr>
     <tr>
-      <td>
-        <p align="center">
-          <img src="./images/machine5.jpeg" alt="Precision Assembly" width="300">
-        </p>
-        <p align="center"><em>Precision Assembly</em></p>
+      <td align="center">
+        <img src="./images/machine5.jpeg" alt="Precision Assembly" width="260">
+        <p><em>Precision Assembly</em></p>
       </td>
-      <td>
-        <p align="center">
-          <img src="./images/machine6.jpeg" alt="Testing Equipment" width="300">
-        </p>
-        <p align="center"><em>Testing Equipment</em></p>
+      <td align="center">
+        <img src="./images/machine6.jpeg" alt="Testing Equipment" width="260">
+        <p><em>Testing Equipment</em></p>
       </td>
-      <td>
-        <p align="center">
-          <img src="./images/machine1.jpeg" alt="Quality Control Station" width="300">
-        </p>
-        <p align="center"><em>Quality Control Station</em></p>
+      <td align="center">
+        <img src="./images/machine1.jpeg" alt="Quality Control Station" width="260">
+        <p><em>Quality Control Station</em></p>
       </td>
     </tr>
   </table>
-</p>
+</div>
 
-<p align="center">
-  <img src="./images/bus1.jpeg" alt="Bus journeys to the factory last around 1 hour" width="300">
-</p>
-<p align="center"><em>Another glimpse of the long bus journeys</em></p>
+<br>
 
-<p align="center">
+I was particularly impressed by the automation technology in place—from robotic arms to conveyor systems that seamlessly move products down the line. Most factories I toured also included rigorous testing procedures and quality assurance labs, ensuring that every final product meets international standards.
+
+<br>
+
+<div align="center">
+  <img src="./images/bus1.jpeg" alt="Another glimpse of the long bus journeys" width="320">
+  <p><em>Another shot of the long rides—often a good time to reflect on the day’s visits.</em></p>
+</div>
+
+<br>
+
+### Specific Factory Highlights
+
+Along the way, I scheduled visits with a few companies that stood out:
+
+1. **Colofoo Technology Co., Ltd**  
+   - **Date & Time:** January 17, 14:00 (about 25 minutes)  
+   - **Location:** Office in Bantian, Shenzhen; Factory in Jihua, Shenzhen  
+   - **Product Focus:** Smart Rings  
+   - **Website:** [www.colofoo.com](http://www.colofoo.com)  
+   It was fascinating to see how they integrate electronics into such compact wearable devices. I got to observe the delicate assembly process and the testing methods they use to ensure durability and functionality.
+
+2. **SZ Maintex Intelligent Control**  
+   - **Date & Time:** January 17, 16:00 (about 40 minutes)  
+   - **Location:** Longgang, Shenzhen  
+   - **Product Focus:** Stepper Motors  
+   - **Website:** [http://www.maintexpt.com/en/](http://www.maintexpt.com/en/)  
+   I’ve always been interested in stepper motor design, and this visit did not disappoint. Their factory floor was highly automated, with rows of machines precisely winding motor coils. The highlight for me was seeing the real-time quality checks on each motor before packaging.
+
+3. **Guangdong Greendisplay**  
+   - **Date & Time:** January 16, 14:30 (about 55 minutes)  
+   - **Location:** Dongguan City, Guangdong Province  
+   - **Product Focus:** E-Paper Displays  
+   - **Website:** [http://www.greendisplay.cn](http://www.greendisplay.cn)  
+   E-paper technology has always intrigued me—lightweight, power-efficient, and easy on the eyes. At Greendisplay, I learned about the layering process of e-paper films and how they’re integrated into various consumer devices. It’s a meticulous operation, but the end products are incredibly versatile.
+
+<br>
+
+<div align="center">
   <table>
     <tr>
-      <td>
-        <p align="center">
-          <img src="./images/factory1.jpeg" alt="Factory Visit" width="300">
-        </p>
-        <p align="center"><em>Factory Visit</em></p>
+      <td align="center">
+        <img src="./images/factory1.jpeg" alt="Factory Visit" width="300">
+        <p><em>Exploring the assembly lines on foot</em></p>
       </td>
     </tr>
     <tr>
-      <td>
-        <p align="center">
-          <img src="./images/factory2.jpeg" alt="Factory Visit" width="300">
-        </p>
-        <p align="center"><em>Factory Visit</em></p>
+      <td align="center">
+        <img src="./images/factory2.jpeg" alt="Factory Visit" width="300">
+        <p><em>Inspecting the final stages of production</em></p>
       </td>
     </tr>
   </table>
-</p>
+</div>
 
-- How Shenzhen’s manufacturing ecosystem operates.  
-- Behind-the-scenes look at some of the most efficient production lines in the world.
+<br>
 
----
+Overall, these factory visits deepened my appreciation for the level of precision and speed at which Shenzhen and Dongguan’s manufacturers operate. It’s one thing to hear about China’s manufacturing prowess, but witnessing it firsthand—walking the production lines, chatting with engineers, and seeing the final products roll off the line—was truly eye-opening.
 
 ## 🎨 Artistic Visits
 
