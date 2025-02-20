@@ -99,19 +99,19 @@ The project demonstrated how **rapid manufacturing methods** can be applied to d
         <p align="center">
           <img src="./images/hci1.jpeg" alt="Hackathon Project 1" width="300">
         </p>
-        <p align="center"><em>Hackathon Project 1</em></p>
+        <p align="center"><em>Hackathon Final Wall View 1</em></p>
       </td>
       <td>
         <p align="center">
           <img src="./images/haci4.jpeg" alt="Hackathon Project 2" width="300">
         </p>
-        <p align="center"><em>Hackathon Project 2</em></p>
+        <p align="center"><em>View 2</em></p>
       </td>
       <td>
         <p align="center">
           <img src="./images/hci2.jpeg" alt="Hackathon Project 3" width="300">
         </p>
-        <p align="center"><em>Hackathon Project 3</em></p>
+        <p align="center"><em>View 3</em></p>
       </td>
     </tr>
   </table>
@@ -121,12 +121,6 @@ The project demonstrated how **rapid manufacturing methods** can be applied to d
   <img src="./images/hci3.jpeg" alt="Hackathon Final Presentation" width="500">
 </p>
 <p align="center"><em>Hackathon Final Presentation</em></p>
-
-- What we built.  
-- Key takeaways and experiences.  
-- The people I worked with.
-
----
 
 ## 🏦 Academic University Visits
 
