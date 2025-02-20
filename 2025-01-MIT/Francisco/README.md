@@ -36,7 +36,7 @@ To communicate with drivers, restaurant workers, and when negotiating, I highly 
 - **City Hotel’s location was perfect** – Great access to key areas and helpful staff.
 
 <p align="center">
-  <img src=".../images/photo1.jpg" alt="Google Translate in action" width="500">
+  <img src=".../images/google_translate.jpeg" alt="Google Translate in action" width="500">
 </p>
 
 ---
