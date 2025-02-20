@@ -1,6 +1,10 @@
 # Research at Scale – Shenzhen, January 2025
 
-## Summary  
+## Summary
+
+<p align="center">
+  <img src="./images/city1.jpeg" alt="Wonderful lighting atmosphere of Shenzhen" width="300">
+</p>  
 This trip was the highlight of my semester and, honestly, my time at MIT so far. I’m 27 years old, and I can confidently say this was a once-in-a-lifetime experience.  
 
 First, **Shenzhen is an incredibly technologically advanced city**—from drones delivering packages to insanely efficient manufacturing processes, cutting-edge robotics, and the super apps that handle everything from payments to transportation. The city's infrastructure and services are on another level.  
@@ -16,7 +20,7 @@ I flew over from Geneva as I had spent Christmas in Europe, with a layover in Pa
 
 ### **Tips for Travelers:**
 
-<p align="center">
+<p align="left" style="float: right; margin-left: 10px;">
   <img src="./images/google_translate.jpeg" alt="Google Translate in action" width="120">
 </p>
 
@@ -40,19 +44,49 @@ To communicate with drivers, restaurant workers, and when negotiating, I highly 
 - **Most service workers will help** – Don't hesitate to show text translations on your phone.
 - **City Hotel’s location was perfect** – Great access to key areas and helpful staff.
 
+
 <p align="center">
-  <img src=".../images/photo1.jpg" alt="Google Translate in action" width="500">
+  <img src=".../images/photo1.jpg" alt="Google Translate in action" width="150">
 </p>
+<p align="center"><em>Using Google Translate to communicate was key! Make sure to download the offline version!</em></p>
+
+
 
 ---
 
 ## 🔬 Seeed Studio Visit  
+
+<p align="center">
+  <img src="./images/seed1.jpeg" alt="Seeed Studio Entrance" width="300">
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/seed2.jpeg" alt="Seeed Studio Prototyping Lab" width="300"></td>
+      <td><img src="./images/seed3.jpeg" alt="Innovative Hardware Development at Seeed" width="300"></td>
+    </tr>
+  </table>
+</p>  
 - Insights from visiting Seeed Studio.  
 - Technologies and projects that stood out.  
 
 ---
 
 ## 💻 Hackathon  
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/hxi1.jpeg" alt="Hackathon Project 1" width="300"></td>
+      <td><img src="./images/haci4.jpeg" alt="Hackathon Project 2" width="300"></td>
+      <td><img src="./images/hci2.jpeg" alt="Hackathon Project 3" width="300"></td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <img src="./images/hci3.jpeg" alt="Hackathon Final Presentation" width="300">
+</p>  
 - What we built.  
 - Key takeaways and experiences.  
 - The people I worked with.  
@@ -60,12 +94,63 @@ To communicate with drivers, restaurant workers, and when negotiating, I highly 
 ---
 
 ## 🏦 Academic University Visits  
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/uni1.jpeg" alt="University Campus" width="300"></td>
+      <td><img src="./images/uni2.jpeg" alt="Lecture Hall Visit" width="300"></td>
+    </tr>
+    <tr>
+      <td><img src="./images/uni3.jpeg" alt="Research Lab Tour" width="300"></td>
+      <td><img src="./images/uni4.jpeg" alt="Networking with Faculty" width="300"></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="./images/uni5.jpeg" alt="Exclusive University Event" width="300">
+</p>  
 - Universities we visited.  
 - Research labs and projects that caught my attention.  
 
 ---
 
 ## 🏭 Factory Visits  
+
+<p align="center">
+  <img src="./images/bus1.jpeg" alt="Bus journeys to the factory last around 1 hour" width="300">
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/machine2.jpeg" alt="Advanced Factory Machinery" width="300"></td>
+      <td><img src="./images/machine3.jpeg" alt="Production Line" width="300"></td>
+      <td><img src="./images/machine4.jpeg" alt="Automated Manufacturing" width="300"></td>
+    </tr>
+    <tr>
+      <td><img src="./images/machine5.jpeg" alt="Precision Assembly" width="300"></td>
+      <td><img src="./images/machine6.jpeg" alt="Testing Equipment" width="300"></td>
+      <td><img src="./images/machine1.jpeg" alt="Quality Control Station" width="300"></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="./images/bus1.jpeg" alt="Bus journeys to the factory last around 1 hour" width="300">
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/factory1.jpeg" alt="Factory Visit" width="300"></td>
+    </tr>
+    <tr>
+      <td><img src="./images/factory2.jpeg" alt="Factory Visit" width="300"></td>
+    </tr>
+  </table>
+</p>  
 - How Shenzhen’s manufacturing ecosystem operates.  
 - Behind-the-scenes look at some of the most efficient production lines in the world.  
 
@@ -75,21 +160,125 @@ To communicate with drivers, restaurant workers, and when negotiating, I highly 
 - How art and technology merge in Shenzhen.  
 - Galleries, installations, or cultural experiences that stood out.  
 
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/art1.jpeg" alt="Futuristic Sand Robot" width="300"></td>
+      <td><img src="./images/art2.jpeg" alt="Animatronic Animal Souls" width="300"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Futuristic Sand Robot</em></td>
+      <td align="center"><em>Animatronic Animal Souls</em></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/art4.jpeg" alt="Dafen Art Village" width="300"></td>
+      <td><img src="./images/art6.jpeg" alt="Dafen Art Village" width="300"></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><em>Dafen Art Village</em></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/art3.jpeg" alt="Dafen Art Village" width="300"></td>
+    </tr>
+    <tr>
+      <td><img src="./images/art5.jpeg" alt="Dafen Art Village" width="300"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Dafen Art Village</em></td>
+    </tr>
+  </table>
+</p>
+      <td><img src="./images/art3.jpeg" alt="Dafen Art Village" width="300"></td>
+    </tr>
+    <tr>
+      <td><img src="./images/art5.jpeg" alt="Dafen Art Village" width="300"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Dafen Art Village</em></td>
+    </tr>
+  </table>
+</p>
+
 ---
 
+## Establishing Contacts
+
+<p align="center">
+  <img src="./images/contact1.jpeg" alt="Sample business card exchanged on the trip" width="300">
+</p>
+
 ## 🛋️ HQB (Huaqiangbei) Visits  
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/hqb1.jpeg" alt="Huaqiangbei Market Overview" width="300"></td>
+      <td><img src="./images/hqb3.jpeg" alt="Electronics Shopping at HQB" width="300"></td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <img src="./images/hqb2.jpeg" alt="Specialized Components in HQB" width="300">
+</p>  
 - Walking through the world’s largest electronics market.  
 - The crazy variety of components and hardware.  
 
 ---
 
 ## 🖥️ Scalable HCI Symposium  
+
+<p align="center">
+  <img src="./images/hci4.jpeg" alt="Scalable HCI Symposium event" width="300">
+</p>  
 - Topics covered.  
 - What I learned and how it ties into my PhD research.  
 
 ---
 
-## 🍜 Food, 🏃‍♂️ Sports, 🧨 Leisure & 🏥 Health  
+## 🍜 Food & Leisure  
+
+<p align="center">
+  <img src="./images/cat1.jpeg" alt="A cute cat found on the way" width="300">
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/food1.jpeg" alt="Delicious Food" width="300"></td>
+      <td><img src="./images/food2.jpeg" alt="Street Food Delights" width="300"></td>
+      <td><img src="./images/food3.jpeg" alt="Fine Dining Experience" width="300"></td>
+    </tr>
+  </table>
+</p>
+
+## 🏥 Health  
+<p align="center">
+  <img src="./images/hospital1.jpeg" alt="Healthcare Facilities in Shenzhen" width="300">
+</p>
+
+<p align="center">
+  <img src="./images/cat1.jpeg" alt="A cute cat found on the way" width="300">
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./images/food1.jpeg" alt="Delicious Food" width="300"></td>
+      <td><img src="./images/food2.jpeg" alt="Delicious Food" width="300"></td>
+      <td><img src="./images/food3.jpeg" alt="Delicious Food" width="300"></td>
+    </tr>
+  </table>
+</p>  
 - Best meals I had.  
 - Fun activities outside of research.  
 - How I stayed healthy while traveling.  
