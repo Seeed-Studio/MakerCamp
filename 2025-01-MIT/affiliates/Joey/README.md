@@ -21,7 +21,7 @@ I was ecstatic to return after such an inspiring time in 2024. This year, I brou
 <img src="media/invivo.gif" width="720">
 
 
-<img src="media/invivo-1.jpg" width="720">
+<img src="media/invivo-1.JPG" width="720">
 
 > Koi demoing In Vivo / In Vitro - Trial 1.4 to Patrick 
 
