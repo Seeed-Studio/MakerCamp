@@ -6,8 +6,8 @@ Thanks for making this happen, Cedric! We owe a lot to you for handling the logi
 
 # Travel
 
-It's been a while since I've been on this long of a flight. The ferry was cool!
-
+It's been a while since I've been on this long of a flight. The ferry was cool!![[PXL_20250103_112825496.jpg]]
+![[PXL_20250103_125447554.jpg]]
 # HCI Symposium
 
 We started our trip off with a busy week of HCI symposium. Among cool talks and projects (including introduction of this repo and its mission), some highlights were the HQB visit/tour, factory visits, Dafen art village, and the hackathon that finished the week off.
@@ -17,6 +17,11 @@ We started our trip off with a busy week of HCI symposium. Among cool talks and 
 I spent time with my friend Sami Kamkar hacking on a modular wall (discrete surface tiling) system for replacing drywall with functionality. Sami had mentioned that he was looking to remodel his place, and we both talked about how drywall was a pain. Crossing these pain points with my lab's work on discrete assembly, we played around with these ideas purely in the context of 2D surfaces rather than 3D.
 
 We started out with rigid 2.5D geometry lined with conductors on the rims as an initial prototype, then moved to a 2D sandwich approach involving flexures. It was a tight race to finish by the deadline, but we made it work and had a functioning 2x2 example to demo.
+![[PXL_20250111_163901920.jpg]]
+![[PXL_20250111_161321514.jpg]]
+
+
+
 
 Thoughts:
 - Thanks to Seeed and Chaihuo Fablab for space and fab resources!
@@ -52,6 +57,16 @@ Some highlights:
 - Specialty batteries
 - Cool switches
 - And of course, mini phones
+![[PXL_20250105_072708858.jpg]]
+![[PXL_20250105_073847788.jpg]]
+![[PXL_20250105_082319967.jpg]]
+![[PXL_20250105_084109944.jpg]]
+![[PXL_20250105_091401838.jpg]]
+![[PXL_20250105_090737686.jpg]]
+![[PXL_20250105_074224253.jpg]]
+![[PXL_20250110_150906755.jpg]]
+![[PXL_20250111_045016737.jpg]]
+![[PXL_20250111_065549748.jpg]]
 
 Each vendor sets their own hours within HQB, but most tend to be open until 6-8pm.
 
@@ -102,3 +117,4 @@ I developed a new type of tile for discrete assembly.
 - Unfortunately, I missed the drone show by a day, so I'll be back!
 
 # Can't Wait to Come Back!
+![[PXL_20250111_064041232.jpg]]
