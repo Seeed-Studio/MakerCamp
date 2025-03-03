@@ -5,11 +5,13 @@ Last November I learned that [Cedric Honnet](https://honnet.eu/) would host a co
 When I got accepted, I felt both excited and nervous. This is the dream of every engineer; how can we make the most of it? I decided worrying over such a question was useless. We would simply go, and see, and do. What follows is an account of the happenings.
 
 
-![yada](cedric.jpeg)
-
 <hr>
+
 # Shoutout to Cedric
 The Scalable HCI Summit was a masterclass in research community building, and [Cedric Honnet](http://honnet.eu/)'s leadership was totally responsible. He created a comfortable environment where cutting-edge ideas could be made and new friends were all around. Beyond the flawless logistics of coordinating multiple factory tours and gatherings, Cedric showed a great talent for bringing together the perfect mix of researchers. His thoughtful choice of participants sparked countless collaborations and meaningful connections that will likely shape the future of HCI research. And it all comes down to trust; researchers love to do whatever they want, and by baking in some of this time in the schedule, Cedric kept the conversations flowing and the attendees excited. He is a rare catch to have been able to coordinate this. 
+
+![yada](cedric.jpeg)
+
 <hr>
 
 ## Shopping
@@ -30,7 +32,7 @@ I did not expect certain parts to be so easy to find in Shenzhen, because I had 
 ![yada](hardtosource.png)
 
 ## Electronics development
-I thought that Having JLCPCB near the hotel would be essential for the development; but as it turns out, my main bottlenecked turned out to be testing. There were always so many fun things to do that I had trouble finding time to work on my research! Nevertheless, I ordered approximately a board every 4 days while in China. 
+I thought that having JLCPCB near the hotel would be essential for the development; but as it turns out, my main bottlenecked turned out to be testing. There were always so many fun things to do that I had trouble finding time to work on my research! Nevertheless, I ordered approximately a board every 4 days while in China. 
 
 ![yada](jlcorders.jpg)
 
