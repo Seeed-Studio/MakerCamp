@@ -5,7 +5,14 @@ During the Research at Scale 2025 residency in Shenzhen, I had the extraordinary
 
 
 
+RoboScope is a transformable, tangible-interface developed for the CityScope platform. This interface allows for on-demand, three-dimensional, manipulation and visualization of urban form. Like other CityScope interfaces, RoboScope has been designed to facilitate user understanding of urban data and simulations in a visual and tangible format.
+RoboScope  allows for on-demand, three-dimensional, visualization and manipulation of urban form. The interface is composed of an array of 3D pixels organized in a grid used to abstract the urban area under investigation. Each 3D pixel can be controlled volumetrically to represent topography and urban from, as well as represent urban characteristics via  illumination. In addition, interaction through push-pull manipulation allows users to update urban charactirestics in near real time.  
 
+![led](ezgif.com-gif-maker.gif.1400x1400.gif)
+
+The transformable area or zone is compressed by an array of 3D pixels that are used to abstract the massing of urban environments. In addition, each 3D pixel can be used to display information via illumination as well be manipulated through push /pull gestures.  
+
+![led](modules.gif.1400x1400.gif)
 
 
 
