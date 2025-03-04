@@ -124,7 +124,7 @@ We were able to see a good few exhibits and meet some attendees of the Symposium
 ## Cedric 
 I wanted to leave a quick note about Cedric Honnet, who is an MIT PhD student in Responsive Environments, and kept the program alive by raising funding, finding sponsors, and bringing together an amazing cohort of makers, hackers, and artists. He put so much care and effort into creating an environment to share ideas, skills, and passions in technology -- all while leading our trip in Shenzhen and sharing the true best eats and experiences from a certified local.
 <p align="center">
-  <img src="./images/cedric.jpg" width="600">
+  <img src="./images/cedric.JPEG" width="600">
 </p>
 <p align="center"><em>Cedric playing with a big light</em></p>
 ## Film
