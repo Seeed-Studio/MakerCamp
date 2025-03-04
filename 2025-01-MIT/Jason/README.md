@@ -1,7 +1,7 @@
 # My visit to Shenzhen
 I had the amazing opportunity to visit Shenzhen in January 2025 for the Research at Scale residency and the Scalable HCI Symposium. It was my first time in Southern China, and I had a blast. Here are some of the highlights documented below. Big thank you to Seeed Studio for hosting us and sponsoring our trip!
 <p align="center">
-  <img src="./images/images/img1.jpg" width="300">
+  <img src="./images/img1.jpg" width="300">
 </p>
 <p align="center"><em>MIT residents at Chaihuo Makerspace</em></p>
 
