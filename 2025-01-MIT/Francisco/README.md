@@ -248,12 +248,6 @@ Each factory I visited had its own specialty, whether it was precision assembly,
 I was particularly impressed by the automation technology in place—from robotic arms to conveyor systems that seamlessly move products down the line. Most factories I toured also included rigorous testing procedures and quality assurance labs, ensuring that every final product meets international standards.
 
 <br>
-
-<div align="center">
-  <img src="./images/bus1.jpeg" alt="Another glimpse of the long bus journeys" width="320">
-  <p><em>Another shot of the long rides—often a good time to reflect on the day’s visits.</em></p>
-</div>
-
 <br>
 
 ### Specific Factory Highlights
