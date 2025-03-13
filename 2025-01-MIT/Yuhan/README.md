@@ -35,7 +35,7 @@ Specifically, Lingdong designed the PCB for each units. This system consists of 
 
 Yuhan then designed a new version of the cell, making it able to transfer data through the port.
 
-![shell](media\shell.jpg)
+![shell](media/shell.jpg)
 
 
 The development of this project is still ongoing...
@@ -45,19 +45,19 @@ The development of this project is still ongoing...
 
 During the visit to AIRS Lab, Yuhan identified a self-assembly project that is similar to the form that they are working on. It is a megnatic modular robot that is actuated and can move around to form larger structures. Although the core information is different, Yuhan believe this project is of great value to consider and learn from while developing his project. 
 
-![airs](media\airs_robot.jpg)
+![airs](media/airs_robot.jpg)
 
 In order to make clear of the narration of the project, Yuhan, Lingdong and Francisco had a discussion over the topic of self-reproduction robot and self-growing robots. It is a very inspiring talk and made the direction of the Cellbot project to be more oriented towards the self-reproduction aspect of it. 
 
-![self-repsoduction](media\self-reproduction.jpg)
+![self-repsoduction](media/self-reproduction.jpg)
 
 
 ## Other activities
 
 Yuhan presented his work of interactive architecture at the AIRS
 
-![present](media\present.jpg)
+![present](media/present.jpg)
 
 Yuhan toured the 人才公园 with Lingdong and another friend, Holden.
 
-![tour](media\tour.jpg)
+![tour](media/tour.jpg)
