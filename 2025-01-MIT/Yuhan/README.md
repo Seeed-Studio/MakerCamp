@@ -35,7 +35,7 @@ Specifically, Lingdong designed the PCB for each units. This system consists of 
 
 Yuhan then designed a new version of the cell, making it able to transfer data through the port.
 
-![shell](media/shell.jpg)
+![shell](media/shell.png)
 
 
 The development of this project is still ongoing...
