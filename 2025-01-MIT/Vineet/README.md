@@ -110,10 +110,10 @@ My colleague Ryan and I have developed a self-sensing tendon actuator (preprint 
 At the SeeedStudio hackathon, I created an interactive installation titled "YOU ARE A CHICKEN," inspired by B.F. Skinner's behavioral experiments. Snowball, a baby chicken, interacted with a sensor triggering a chaotic, social media-like feed and receiving seed rewards. This playful setup highlighted the parallels between animal conditioning and human digital behaviors, offering a humorous yet profound reflection on our constant search for stimulation.
 
 <p align="center">
-  <img src="./images/IMG_5791.png" width="600">
+  <img src="./images/IMG_5791.jpg" width="600">
 </p>
 <p align="center">
-  <img src="./images/IMG_5792.png" width="600">
+  <img src="./images/IMG_5792.jpg" width="600">
 </p>
 
 ## Upcoming Project: Mapping HQB
