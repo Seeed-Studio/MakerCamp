@@ -44,13 +44,13 @@ This report lists some discoveries, explorations, tips, and observations:
 
 To prepare the plans for the symposium and residency, I usually go to Shenzhen a few weeks in advance. It gives time to document the evolution of the electronic market, visit manufacturers, and attend some events.
 
-This trip started by explorations with Paul Hamilton (AKA [ParkView](https://gitlab.com/parkview)), an old SZ _partner in crime_ since the [Noisebridge trips](https://www.noisebridge.net/wiki/NoisebridgeChinaTrip4) era. He also [organizes a trip](https://hackers-trip-to-shenzhen.blogspot.com) around the [SZ Maker Faire](https://www.shenzhenmakerfaire.com/) period (way too many awesome events - absolutely worth it), so we regularly exchange tips, or go discover together.
+This trip started with explorations with Paul Hamilton (AKA [ParkView](https://gitlab.com/parkview)), an old SZ _partner in crime_ since the [Noisebridge trips](https://www.noisebridge.net/wiki/NoisebridgeChinaTrip4) era. He also [organizes a trip](https://hackers-trip-to-shenzhen.blogspot.com) around the [SZ Maker Faire](https://www.shenzhenmakerfaire.com/) period (way too many awesome events - absolutely worth it), so we regularly exchange tips, or go discover together.
 
-One of the notable visits was in an AliExpress “office”, where the seller specializes in iPad [screen driver boards](https://archive.is/0cQaS). These drivers allow using the LCD panel of an iPad and making an HDMI / USB-C screen. Being there allowed getting a custom / recent firmware, and testing various versions of the hardware (difficult to see online).
+One of the notable visits was to an AliExpress “office”, where the seller specializes in iPad [screen driver boards](https://archive.is/0cQaS). These drivers allow using the LCD panel of an iPad and making an HDMI / USB-C screen. Being there allows getting a custom or recent firmware, and testing the visual differences with various versions of the hardware (difficult to see online).
 
 <img src="images/image12.jpg" width="379"> <img src="images/image23.jpg" width="283"> <img src="images/image6.jpg" width="288">
 <br>
-<em>Left: the aliexpress office. Middle: the seller updating a board. Right: The iPad screen shop (HQB).</em>
+<em>Left: the AliExpress office. Middle: the seller updating a board. Right: The iPad screen shop (HQB).</em>
 <br>
 
 Another SZ _partner in crime_ and ex-labmate, [Cayden Pierce](https://caydenpierce.com/), has built an international community focused on (smart) wearables and we gave presentations at the [Chaihuo](https://www.seeedstudio.com/chaihuo-makerspace): [https://mp.weixin.qq.com/s/QwoC7k2k9tg-HWNg1lntHQ](https://mp.weixin.qq.com/s/QwoC7k2k9tg-HWNg1lntHQ)
@@ -72,7 +72,7 @@ This event attracted people from all over the world, including Max Lobovsky ([Fo
 
 ### Keynotes
 
-The month-long Research-at-Scale residency starts by an open gathering that welcomes about a hundred of academic/industry researchers, hackers, artists, entrepreneurs, factory workers, and engineers, from everywhere:
+The month-long Research-at-Scale residency starts with an open gathering that welcomes about a hundred of academic/industry researchers, hackers, artists, entrepreneurs, factory workers, and engineers, from everywhere:
 [http://scalablehci.com](http://scalablehci.com)
 
 <img src="images/image4.jpg" width="950" alt="Symposium Attendees">
@@ -87,7 +87,7 @@ We obviously went to HQB to observe the evolution of the ecosystem. On the facto
 
 <img src="images/image9.jpg" width="551"> <img src="images/image49.jpg" width="399">
 
-On that day, we also went to visit injection molding factories and a 3d printing farm, but we went to visit many more after the symposium…
+On that day, we also went to visit injection molding factories and a 3D printing farm, but we went to visit many more after the symposium…
 
 ### Art village
 
@@ -95,7 +95,7 @@ Dafen is a historical neighborhood with hundreds of painting studios. It started
 
 <img src="images/image40.jpg" width="371"> <img src="images/image34.jpg" width="371"> <img src="images/image2.jpg" width="208">
 
-On the technical side, a novelty of that visit was the discovery of 2.5 printers that can replicate the volume of acrylic paint (left is real paint, middle and right pictures are printed):
+On the technical side, a novelty of that visit was the discovery of 2.5D printers that can replicate the volume of acrylic paint (left is real paint, middle and right pictures are printed):
 
 <img src="images/image16.jpg" width="251"> <img src="images/image44.jpg" width="452"> <img src="images/image37.jpg" width="247">
 
@@ -105,7 +105,7 @@ Our dear host [AIRS](https://airs.cuhk.edu.cn/article/998) / [SciArt Colab](http
 
 <img src="images/image25.jpg" width="475"> <img src="images/image15.jpg" width="475">
 
-After the introduction by our host, the [10 MIT residents](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/) presented their work, and they were followed by the closing keynotes by [David Ramsay](https://www.media.mit.edu/people/dramsay/overview/) and [Pedro De Oliveira](https://tisch.nyu.edu/about/directory/itp/637028675.html):
+The introduction by our host was followed by the [10 MIT residents](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/) presentations, then the closing keynotes by [David Ramsay](https://www.media.mit.edu/people/dramsay/overview/) and [Pedro De Oliveira](https://tisch.nyu.edu/about/directory/itp/637028675.html):
 
 <img src="images/image26.jpg" width="950" alt="MIT Residents Presentation">
 
@@ -125,7 +125,7 @@ Our dear host [Chaihuo](https://www.chaihuo.org/) welcomed us again for a wild w
 
 ### More manufacturers
 
-This year, some of us started with visits to micro camera factories, they make 0.8mm sensors that can fit inside veins, or inside textile fibers!
+This year, a few of us started with visits to micro camera factories. Some make 0.8mm sensors that can fit inside veins, or inside textile fibers!
 
 <img src="images/image18.jpg" width="475"> <img src="images/image5.jpg" width="475">
 
@@ -133,7 +133,7 @@ Another notable visit was this smart ring factory that started as a jewelry comp
 
 <img src="images/image11.jpg" width="475"> <img src="images/image39.jpg" width="475">
 
-Our dear host [Seeed](https://seeed.cc/) also welcomed us and it was good to see their environment sensor network system being tested outside (to compare plastics' resistances to UV, enclosure's resilience to humidity or wind, etc). Their indoor climbing wall was also a big hit.
+Our dear host [Seeed](https://seeed.cc/) also welcomed us for a visit, and it was good to see their environment sensor network system being tested outside over the years (comparing plastic resistance to UV, enclosure's resilience to humidity or wind, etc). Their indoor climbing wall was also a big hit.
 
 <img src="images/image8.jpg" width="475"> <img src="images/image13.jpg" width="475">
 
@@ -163,7 +163,7 @@ Last but not least, there are **mountains in the middle of Shenzhen**, with real
 
 ## 🇯🇵 Japanese visits
 
-MIT has a great alumni community in Japan, and sponsors too. We presented our work at the “[Media Lab Immersion Session Tokyo](https://www.media.mit.edu/events/media-lab-immersion-session-tokyo/)” and also went to Kyoto to visit [Murata Facility](https://www.media.mit.edu/posts/media-lab-immersion-session-murata-facility-visit/) (factories and R&D labs):
+MIT has a great alumni community in Japan, and sponsors too. We presented our work at the “[Media Lab Immersion Session Tokyo](https://www.media.mit.edu/events/media-lab-immersion-session-tokyo/)” and also went to Kyoto to visit [Murata Facilities](https://www.media.mit.edu/posts/media-lab-immersion-session-murata-facility-visit/) (factories and R&D labs):
 
 <img src="images/image22.jpg" width="950" alt="MIT event in Japan">
 
@@ -171,7 +171,7 @@ Most EEs know them for their capacitors, but this is a gigantic corporation (70k
 
 <img src="images/image46.jpg" width="490"> <img src="images/image19.jpg" width="460">
 
-With my research about electronics miniaturization, it was good to see some of the samples of the smallest components available in the market (008004 = 0.25 x 0.125 mm). We also presented our work to some of the factory workers, and it was great to see their interest in the demo sessions at the end:
+With my research about electronics miniaturization, it was good to see some of the samples of the smallest components available in the market (008004 = 0.25 x 0.125 mm). We also presented our work to some of the factory workers, and it was great to see their interest in the [FiberCircuits](https://media.mit.edu/projects/fibercircuits) demos at the end:
 
 <img src="images/image28.jpg" width="531"> <img src="images/image43.jpg" width="419">
 
