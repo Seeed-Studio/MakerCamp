@@ -28,6 +28,8 @@ Apart from the workshops, the students took a deep dive into the bustling HQB ma
 
 In addtion, they explored the city’s industrial achievement at the Shenzhen Industrial Exhibition Hall, visited Nantou Ancient City to learn how traditional spaces can be revitalized through innovative solutions.
 
+![](3.png)
+
 ![](https://www.seeedstudio.com/blog/wp-content/uploads/2025/03/02514093-42a3-4e77-b2ba-745c37d80feb-2048x1536.jpg)
 
 The Maker Camp in Shenzhen program encourages everyone to actively participate by documenting and sharing their Shenzhen experiences. You can find a vibrant documentation from the RP students on [**Seeed Studio’s GitHub Channel**](https://github.com/Seeed-Studio/MakerCamp) SOON!
