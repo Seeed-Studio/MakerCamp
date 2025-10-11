@@ -69,13 +69,32 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 
 After a decade of MIT-only participation, we experimented with a more open approach, welcoming 5 exceptional participants from other institutions, in academia and industry:
 
-- **[Amitabh Shrivastava](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Amitabh)** (NYU ITP / TinkerHouse)
-- **[Eli Silver](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Eli)** (Brown University)
-- **[Joey Verbeke](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Joey)** (Conscious Tech Co.)
-- **[Liz Dorman](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Liz)** (Humane Inc.)
-- **[Oliver Child](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Oliver)** (Bristol Uni.)
+<br><img align="left" src="https://github.com/user-attachments/assets/70c5834a-b537-4e9f-a395-3730770c52c0" height='120'>
+ **[Amitabh Shrivastava](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Amitabh)** (NYU ITP / TinkerHouse)
+   - **Keywords**: Programmable-Air, Holographic mask hackathon, Arts + Tech
+   - [Personal website](https://tinkrmind.me/)
 
-<br>
+<br><img align="left" src="https://github.com/user-attachments/assets/80d98675-190b-4d13-b5db-0b8fa035124c" height='120'>
+ **[Eli Silver](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Eli)** (Brown University)
+   - **Keywords**: Cable-driven gantry robot, AI camera system, Smart workspace
+   - [Personal website](https://elisilver.com/)
+
+<br><img align="left" src="https://github.com/user-attachments/assets/e660ed68-aa72-4cfe-ab90-f64c6c0d3fda" height='120'>
+ **[Joey Verbeke](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Joey)** (Conscious Tech Co.)
+   - **Keywords**: New Media Arts, Critical technology, Alternative academic structures
+   - [Personal website](http://joeyverbeke.com/)
+
+<br><img align="left" src="https://github.com/user-attachments/assets/573d74f3-b643-41c2-9ff3-66e801cfd18c" height='120'>
+ **[Liz Dorman](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Liz)** (Humane Inc.)
+   - **Keywords**: AI hardware, HCI research-industry bridge, AI-ified satellite phone
+   - [Personal website](https://www.lizwanders.world/)
+
+<br><img align="left" src="https://github.com/user-attachments/assets/7b45ddbd-266b-4433-a513-99a18e67f18e" height='120'>
+ **[Oliver Child](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Oliver)** (Bristol Uni.)
+   - **Keywords**: Personal fabrication, Printegrated Circuits, 3D-printed MIDI controller (TuneShroom)
+     - [Personal website](https://oliverchild.com/)
+
+<br><br><br>
 
 ![group photos](https://github.com/user-attachments/assets/5362d43d-85de-432c-ac26-512f0175ca06)
 
