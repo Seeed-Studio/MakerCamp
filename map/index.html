@@ -1,0 +1,636 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <title>map</title>
+    <link rel="stylesheet" href="https://a.amap.com/jsapi_demos/static/demo-center/css/demo-center.css" />
+    <style>
+        html,
+        body,
+        #container {
+            height: 100%;
+        }
+
+        .info {
+            width: 26rem;
+        }
+    </style>
+
+<body>
+
+    <div id='container'></div>
+    <!-- <div class="info">
+    <h4 id='status'></h4><hr>
+    <p id='result'></p><hr>
+    <p >由于众多浏览器已不再支持非安全域的定位请求，为保位成功率和精度，请升级您的站点到HTTPS。</p>
+</div> -->
+    <script type="text/javascript"
+        src="https://webapi.amap.com/maps?v=1.4.15&key=5a4fd49047dd9371da70daf8dd3be257"></script>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            var map = new AMap.Map('container', {
+                resizeEnable: true,
+                // center: [114.008974, 22.494906 ],
+                center: [114.085413, 22.544441],
+                zoom: 16,
+                lang: 'en'
+            });
+
+            // var map = new AMap.Map('container', {
+            //     resizeEnable: true
+            // });
+            AMap.plugin('AMap.Geolocation', function () {
+                var geolocation = new AMap.Geolocation({
+                    enableHighAccuracy: true,//是否使用高精度定位，默认:true
+                    timeout: 10000,          //超过10秒后停止定位，默认：5s
+                    buttonPosition: 'RB',    //定位按钮的停靠位置
+                    buttonOffset: new AMap.Pixel(10, 20),//定位按钮与设置的停靠位置的偏移量，默认：Pixel(10, 20)
+                    zoomToAccuracy: true,   //定位成功后是否自动调整地图视野到定位点
+
+                });
+                map.addControl(geolocation);
+                geolocation.getCurrentPosition(function (status, result) {
+                    if (status == 'complete') {
+                        onComplete(result)
+                    } else {
+                        onError(result)
+                    }
+                });
+            });
+            //解析定位结果
+            function onComplete(data) {
+                document.getElementById('status').innerHTML = '定位成功'
+                var str = [];
+                str.push('定位结果：' + data.position);
+                str.push('定位类别：' + data.location_type);
+                if (data.accuracy) {
+                    str.push('精度：' + data.accuracy + ' 米');
+                }//如为IP精确定位结果则没有精度信息
+                str.push('是否经过偏移：' + (data.isConverted ? '是' : '否'));
+                document.getElementById('result').innerHTML = str.join('<br>');
+            }
+            //解析定位错误信息
+            function onError(data) {
+                document.getElementById('status').innerHTML = '定位失败'
+                document.getElementById('result').innerHTML = '失败原因排查信息:' + data.message;
+            }
+
+            // Unified marker data array - easy to add/modify markers
+            // labelOffset defaults to [20, 20] if not specified
+            var allMarkers = [
+                // Electronic market locations
+                {
+                    position: [114.08699608938642, 22.54260653405832],
+                    title: "HQB Museum (B2)",
+                    address: "深圳市福田区华强北路1058号华强北现代之窗大厦五楼",
+                    images: ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvrH4V4jB60KjY1pnXVSa6mAm3J-YKtS70A&s"]
+                },
+                {
+                    position: [114.08756800938518, 22.54132787092848],
+                    title: "SEG Plaza",
+                    images: ["./assets/seg.jpg"]
+                },
+                {
+                    position: [114.08498483992268, 22.541137251425685],
+                    title: "Passive component reels (A2)",
+                    images: []
+                },
+                {
+                    position: [114.08491519141874, 22.541748362962036],
+                    title: "Tool building 4th floor (A3)",
+                    images: []
+                },
+                {
+                    position: [114.08610502002784, 22.540922825684046],
+                    title: "Component building (A3)",
+                    images: []
+                },
+                {
+                    position: [114.08609341194385, 22.541957426813916],
+                    title: "International LED building (A2)",
+                    images: []
+                },
+                {
+                    position: [114.08727150078714, 22.543751959061424],
+                    title: "Interesting cell phone market (B1)",
+                    images: []
+                },
+                {
+                    position: [114.08793505444521, 22.542196699994776],
+                    title: "Shipper alley (B2)",
+                    images: []
+                },
+                {
+                    position: [114.08812285265032, 22.542046376628377],
+                    title: "Survelance market L5+L6 (B2)",
+                    images: []
+                },
+                {
+                    position: [114.08807277312897, 22.5425956342888],
+                    title: "Survelance market L5+L6 (B2)",
+                    images: []
+                },
+                {
+                    position: [114.09222465677284, 22.540289770499545],
+                    title: "Cell phone components (B3,D3)",
+                    images: []
+                },
+                {
+                    position: [114.08997912197103, 22.54025915796669],
+                    title: "Cell phone components (B3,D3)",
+                    images: []
+                },
+                {
+                    position: [114.08988797480194, 22.54003721690049],
+                    title: "Soldering tools, behind (C3)",
+                    images: []
+                },
+                {
+                    position: [114.08645752677745, 22.540228545425126],
+                    title: "Second Hand Components Basement (A3)",
+                    images: []
+                },
+                {
+                    position: [114.08707568800273, 22.542031764685536],
+                    title: "Cameras L2+L3 (B2)",
+                    images: []
+                },
+                {
+                    position: [114.0880815250345, 22.541283224249533],
+                    title: "Wearables Mall (B3)",
+                    images: []
+                },
+                {
+                    position: [114.09071551556049, 22.540106938214265],
+                    title: "Tool Brothers (C3)",
+                    images: []
+                },
+
+                // General locations
+                {
+                    position: [113.813974, 22.624361],
+                    title: "Shenzhen Bao'an International Airport",
+                    anchor: 'bottom-left',
+                    images: []
+                },
+                {
+                    position: [113.941527, 22.311526],
+                    title: "Hong Kong International Airport",
+                    labelOffset: [-80, 20],
+                    images: []
+                },
+            ];
+
+            // Helper function to create info window content with images and address
+            function createInfoWindowContent(title, images, address) {
+                var content = '<div id="infowindow-content-' + Date.now() + '" class="infowindow-content">';
+                content += '<h3 class="infowindow-title">' + title + '</h3>';
+
+                if (address) {
+                    content += '<p class="infowindow-address">' + address + '</p>';
+                }
+
+                if (images && images.length > 0) {
+                    content += '<div class="infowindow-images-container">';
+                    images.forEach(function (imagePath, index) {
+                        var uniqueId = 'img-' + Date.now() + '-' + index;
+                        content += '<img id="' + uniqueId + '" src="' + imagePath + '" data-full-image="' + imagePath + '" ';
+                        content += 'alt="' + title + '" class="thumbnail-image" ';
+                        content += 'onclick="window.openImageModal(\'' + imagePath.replace(/'/g, "\\'") + '\')" />';
+                    });
+                    content += '</div>';
+                }
+
+                content += '</div>';
+                return content;
+            }
+
+            // Helper function to create a green marker icon
+            function createGreenMarkerIcon() {
+                // Create a green marker using AMap Icon with URL-encoded SVG
+                var svg = encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="25" height="34" viewBox="0 0 25 34"><path d="M12.5 0C5.596 0 0 5.596 0 12.5c0 7.904 12.5 21.5 12.5 21.5S25 20.404 25 12.5C25 5.596 19.404 0 12.5 0zm0 17c-2.485 0-4.5-2.015-4.5-4.5s2.015-4.5 4.5-4.5 4.5 2.015 4.5 4.5-2.015 4.5-4.5 4.5z" fill="#28a745"/></svg>');
+                var icon = new AMap.Icon({
+                    size: new AMap.Size(25, 34),
+                    image: 'data:image/svg+xml,' + svg,
+                    imageOffset: new AMap.Pixel(0, 0),
+                    imageSize: new AMap.Size(25, 34)
+                });
+                return icon;
+            }
+
+            // Function to open image modal (attached to window for global access)
+            window.openImageModal = function (imagePath) {
+                var modal = document.getElementById('imageModal');
+                var modalImg = document.getElementById('modalImage');
+
+                if (!modal) {
+                    // Create modal if it doesn't exist
+                    modal = document.createElement('div');
+                    modal.id = 'imageModal';
+                    modal.className = 'image-modal';
+                    modal.onclick = window.closeImageModal;
+
+                    var imgContainer = document.createElement('div');
+                    imgContainer.className = 'image-modal-container';
+
+                    var img = document.createElement('img');
+                    img.id = 'modalImage';
+                    img.className = 'image-modal-image';
+
+                    var closeBtn = document.createElement('span');
+                    closeBtn.innerHTML = '&times;';
+                    closeBtn.className = 'image-modal-close';
+                    closeBtn.onclick = function (e) {
+                        e.stopPropagation();
+                        window.closeImageModal();
+                    };
+
+                    imgContainer.appendChild(closeBtn);
+                    imgContainer.appendChild(img);
+                    modal.appendChild(imgContainer);
+                    document.body.appendChild(modal);
+                }
+
+                modalImg = document.getElementById('modalImage');
+                modalImg.src = imagePath;
+                modal.classList.add('image-modal-visible');
+                document.body.style.overflow = 'hidden'; // Prevent background scrolling
+            };
+
+            // Function to close image modal (attached to window for global access)
+            window.closeImageModal = function () {
+                var modal = document.getElementById('imageModal');
+                if (modal) {
+                    modal.classList.remove('image-modal-visible');
+                    document.body.style.overflow = 'auto'; // Restore scrolling
+                }
+            };
+
+            // Track currently open InfoWindow
+            var currentInfoWindow = null;
+
+            // Close modal and InfoWindow on Escape key
+            document.addEventListener('keydown', function (event) {
+                if (event.key === 'Escape') {
+                    // Close image modal if open
+                    window.closeImageModal();
+                    // Close InfoWindow if open
+                    if (currentInfoWindow) {
+                        currentInfoWindow.close();
+                        currentInfoWindow = null;
+                    }
+                }
+            });
+
+            // Helper function to add click handler to marker (for markers with images or address)
+            function addMarkerClickHandler(marker, title, images, address) {
+                // Don't add click handler if there are no images and no address
+                if ((!images || images.length === 0) && !address) {
+                    return;
+                }
+
+                var infoWindow = new AMap.InfoWindow({
+                    content: createInfoWindowContent(title, images, address),
+                    offset: new AMap.Pixel(0, -30)
+                });
+
+                marker.on('click', function () {
+                    // Close any previously open InfoWindow
+                    if (currentInfoWindow && currentInfoWindow !== infoWindow) {
+                        currentInfoWindow.close();
+                    }
+                    // Open new InfoWindow and track it
+                    infoWindow.open(map, marker.getPosition());
+                    currentInfoWindow = infoWindow;
+
+                    // Set up InfoWindow scrolling after it's opened
+                    setTimeout(function () {
+                        // Find the AMap InfoWindow DOM element
+                        var amapInfoWindow = document.querySelector('.amap-info-window');
+                        if (amapInfoWindow) {
+                            // Find the scrollable content div inside
+                            var scrollableDiv = amapInfoWindow.querySelector('.infowindow-content');
+                            if (scrollableDiv) {
+                                // Calculate proper height: use 80vh but ensure it's constrained
+                                var viewportHeight = window.innerHeight || document.documentElement.clientHeight;
+                                var maxHeight = Math.min(viewportHeight * 0.8, 600); // 80vh or 600px, whichever is smaller
+
+                                // Set explicit height constraint for scrolling to work (only maxHeight needs to be dynamic)
+                                scrollableDiv.style.setProperty('max-height', maxHeight + 'px');
+
+                                // Force a reflow to ensure styles are applied
+                                scrollableDiv.offsetHeight;
+                            }
+                        }
+                    }, 300);
+                });
+
+                // Track when InfoWindow is closed (by clicking map or other means)
+                infoWindow.on('close', function () {
+                    if (currentInfoWindow === infoWindow) {
+                        currentInfoWindow = null;
+                    }
+                });
+            }
+
+            // Helper function to create marker with optional green color if images exist
+            function createMarkerWithColor(position, labelConfig, hasImages, isClickable) {
+                var markerOptions = {
+                    map: map,
+                    position: position,
+                    label: labelConfig
+                };
+
+                if (hasImages) {
+                    markerOptions.icon = createGreenMarkerIcon();
+                }
+
+                var marker = new AMap.Marker(markerOptions);
+                return marker;
+            }
+
+            // Create all markers from the unified array
+            allMarkers.forEach(function (markerData) {
+                var images = markerData.images || [];
+                var hasImages = images && images.length > 0;
+                var address = markerData.address || null;
+                var hasAddress = !!address;
+                // Marker is clickable if it has images OR address
+                var isClickable = hasImages || hasAddress;
+
+                // Default labelOffset is [20, 20]
+                var labelOffset = markerData.labelOffset || [20, 20];
+
+                var labelConfig = {
+                    offset: new AMap.Pixel(labelOffset[0], labelOffset[1]),
+                    content: markerData.title
+                };
+
+                if (markerData.anchor) {
+                    labelConfig.anchor = markerData.anchor;
+                }
+
+                // Green marker if it has images (address-only markers stay blue but are still clickable)
+                var marker = createMarkerWithColor(
+                    markerData.position,
+                    labelConfig,
+                    hasImages,
+                    isClickable
+                );
+
+                // Add click handler if marker has images or address
+                if (isClickable) {
+                    addMarkerClickHandler(marker, markerData.title, images, address);
+                }
+            });
+
+
+
+
+
+            // var metroStations = [
+            //     "Huaqiang Road Exit A (A3)",
+            //     "Huaqiang North (A1)",
+            //     "Science Museum Exit C (D3)",
+            //     "Science Museum Exit B (D3)",
+            //     "Huaqiang North Exit E (B2)",
+            //     "Huaqiang North Exit D (B3)"
+            // ];
+
+
+            // var metroStationsCoords = [
+            //     [22.54068966201139, 114.08617909670981],
+            //     [22.542839948950196, 114.08654387713283],
+            //     [22.540387430044362, 114.09403260467842],
+            //     [22.54085316425655, 114.09336741684821],
+            //     [22.541913446931346, 114.08681746245634],
+            //     [22.541135576799817, 114.08686037780006],
+            // ]
+
+            // for (var i = 0; i < metroStationsCoords.length; i++) {
+            //     var marker = new AMap.Marker({
+            //         map: map,
+            //         position: [metroStationsCoords[i][1], metroStationsCoords[i][0]],
+            //         markerShape: 'circle',
+            //         label: {
+            //             offset: new AMap.Pixel(20, 20),
+            //             content: metroStations[i],
+            //             anchor:'bottom-left',
+            //         }
+            //     });
+            // }
+
+            // var nightMarkets = [
+            //     "Tata City (B2-B3)",
+            //     "Watch/Perfume (C3-C4)"
+            // ];
+
+            // var hotels = [
+            //     "Huaqiang Plaza (A2)",
+            //     "Maker Hotel (B3)",
+            //     "Chicago Suits International Hotel (D2)"
+            // ];
+
+            // var foodLocations = [
+            //     "Mall Basement (B2)",
+            //     "Mall Basement (B2)",
+            //     "BBQ (D4)",
+            //     "MacDonalds (C3)",
+            //     "Burger King + Manhar Food Court"
+            // ];
+
+
+
+        });
+
+        // wait for dom to load, then update zoom
+
+
+    </script>
+
+
+    <style>
+        #container {
+            min-height: 800px;
+        }
+
+        /* Style for info window thumbnail images */
+        .amap-info-content .thumbnail-image {
+            display: inline-block;
+            vertical-align: top;
+        }
+
+        /* Markers with images (green) should show pointer cursor */
+        .amap-marker {
+            cursor: pointer;
+        }
+
+        /* Markers without images should show default cursor - override via inline style set in JS */
+
+        /* Ensure InfoWindow can scroll */
+        .amap-info-window {
+            max-height: 80vh !important;
+            overflow: visible !important;
+            position: relative !important;
+        }
+
+        .amap-info-content {
+            max-height: 80vh !important;
+            overflow-y: auto !important;
+            overflow-x: hidden !important;
+            height: auto !important;
+            position: relative !important;
+        }
+
+        /* Ensure InfoWindow container sizes to content */
+        .amap-info-window-content-wrapper {
+            height: auto !important;
+            max-height: 80vh !important;
+        }
+
+        /* Make sure the scrollable div inside has proper constraints */
+        .amap-info-content>.infowindow-content {
+            max-height: 80vh !important;
+            overflow-y: auto !important;
+        }
+
+        /* InfoWindow content styles */
+        .infowindow-content {
+            padding: 10px;
+            max-width: min(520px, 90vw);
+            width: min(520px, 90vw);
+            min-width: 280px;
+            min-height: fit-content;
+            max-height: 80vh;
+            height: auto;
+            overflow-y: auto;
+            overflow-x: hidden;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .infowindow-title {
+            margin: 0 0 10px 0;
+            font-size: 16px;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        .infowindow-address {
+            margin: 0 0 10px 0;
+            font-size: 14px;
+            color: #666;
+            line-height: 1.4;
+            flex-shrink: 0;
+        }
+
+        .infowindow-images-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: flex-start;
+            flex: 1;
+            min-height: 0;
+        }
+
+        /* Thumbnail image styles */
+        .thumbnail-image {
+            flex: 1 1 240px;
+            min-width: 200px;
+            max-width: calc(100% - 10px);
+            height: 240px;
+            object-fit: cover;
+            border-radius: 4px;
+            cursor: pointer;
+            border: 2px solid #ddd;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+
+        .thumbnail-image:hover {
+            transform: scale(1.05);
+            border-color: #007bff;
+        }
+
+        /* Modal styles */
+        .image-modal {
+            display: none;
+            position: fixed;
+            z-index: 10000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.9);
+            cursor: pointer;
+            animation: fadeIn 0.3s;
+        }
+
+        .image-modal-visible {
+            display: block;
+        }
+
+        .image-modal-container {
+            position: relative;
+            margin: auto;
+            padding: 20px;
+            max-width: 90%;
+            max-height: 90%;
+            top: 50%;
+            transform: translateY(-50%);
+            text-align: center;
+        }
+
+        .image-modal-image {
+            max-width: 100%;
+            max-height: 85vh;
+            object-fit: contain;
+            border-radius: 8px;
+            animation: zoomIn 0.3s;
+        }
+
+        .image-modal-close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 10001;
+            line-height: 1;
+        }
+
+        .image-modal-close:hover {
+            color: #fff;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes zoomIn {
+            from {
+                transform: scale(0.8);
+            }
+
+            to {
+                transform: scale(1);
+            }
+        }
+    </style>
+
+
+</body>
+
+</html>
