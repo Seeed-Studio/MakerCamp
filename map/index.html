@@ -85,7 +85,7 @@
                 {
                     position: [114.08699608938642, 22.54260653405832],
                     title: "HQB Museum (B2)",
-                    address: "深圳市福田区华强北路1058号华强北现代之窗大厦五楼",
+                    info: "深圳市福田区华强北路1058号华强北现代之窗大厦五楼",
                     images: ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvrH4V4jB60KjY1pnXVSa6mAm3J-YKtS70A&s"]
                 },
                 {
@@ -184,13 +184,13 @@
                 },
             ];
 
-            // Helper function to create info window content with images and address
-            function createInfoWindowContent(title, images, address) {
+            // Helper function to create info window content with images and info
+            function createInfoWindowContent(title, images, info) {
                 var content = '<div id="infowindow-content-' + Date.now() + '" class="infowindow-content">';
                 content += '<h3 class="infowindow-title">' + title + '</h3>';
 
-                if (address) {
-                    content += '<p class="infowindow-address">' + address + '</p>';
+                if (info) {
+                    content += '<p class="infowindow-info">' + info + '</p>';
                 }
 
                 if (images && images.length > 0) {
@@ -285,15 +285,15 @@
                 }
             });
 
-            // Helper function to add click handler to marker (for markers with images or address)
-            function addMarkerClickHandler(marker, title, images, address) {
-                // Don't add click handler if there are no images and no address
-                if ((!images || images.length === 0) && !address) {
+            // Helper function to add click handler to marker (for markers with images or info)
+            function addMarkerClickHandler(marker, title, images, info) {
+                // Don't add click handler if there are no images and no info
+                if ((!images || images.length === 0) && !info) {
                     return;
                 }
 
                 var infoWindow = new AMap.InfoWindow({
-                    content: createInfoWindowContent(title, images, address),
+                    content: createInfoWindowContent(title, images, info),
                     offset: new AMap.Pixel(0, -30)
                 });
 
@@ -356,10 +356,10 @@
             allMarkers.forEach(function (markerData) {
                 var images = markerData.images || [];
                 var hasImages = images && images.length > 0;
-                var address = markerData.address || null;
-                var hasAddress = !!address;
-                // Marker is clickable if it has images OR address
-                var isClickable = hasImages || hasAddress;
+                var info = markerData.info || null;
+                var hasInfo = !!info;
+                // Marker is clickable if it has images OR info
+                var isClickable = hasImages || hasInfo;
 
                 // Default labelOffset is [20, 20]
                 var labelOffset = markerData.labelOffset || [20, 20];
@@ -373,7 +373,7 @@
                     labelConfig.anchor = markerData.anchor;
                 }
 
-                // Green marker if it has images (address-only markers stay blue but are still clickable)
+                // Green marker if it has images (info-only markers stay blue but are still clickable)
                 var marker = createMarkerWithColor(
                     markerData.position,
                     labelConfig,
@@ -381,9 +381,9 @@
                     isClickable
                 );
 
-                // Add click handler if marker has images or address
+                // Add click handler if marker has images or info
                 if (isClickable) {
-                    addMarkerClickHandler(marker, markerData.title, images, address);
+                    addMarkerClickHandler(marker, markerData.title, images, info);
                 }
             });
 
@@ -520,7 +520,7 @@
             flex-shrink: 0;
         }
 
-        .infowindow-address {
+        .infowindow-info {
             margin: 0 0 10px 0;
             font-size: 14px;
             color: #666;
