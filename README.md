@@ -3,10 +3,10 @@
 Maker Camp in Shenzhen, powered by [Seeed Studio](https://www.seeed.cc/) and [Chaihuo](https://seeed-studio.github.io/MakerCamp/Chaihuo) — Co-create meaningful and open source hardware projects in Shenzhen, explore tech ecosystem frontier, join maker network for scaling.
 <img src="./images/campcover.png" width="800"  alt="MakerCamp">
 
-# Index of shared findings 
+# Index of shared findings
 - Electronics
 - Mechanics
-- Assembly 
+- Assembly
 - Chipsets
 - Textile
 ## Open Manufacture Whitepaper
@@ -41,7 +41,7 @@ The students of the Department of Electrical and Electronic Engineering (DIEE), 
 
 ### Apr 2024:
 
-From June 24-28, 2024, SUSTech School of Design host the "AI in Design" Summer School. The program featured lectures, workshops, project showcases, field trips, and cultural tours in Shenzhen, welcoming undergraduate and early graduate students with a background or interest in design. 
+From June 24-28, 2024, SUSTech School of Design host the "AI in Design" Summer School. The program featured lectures, workshops, project showcases, field trips, and cultural tours in Shenzhen, welcoming undergraduate and early graduate students with a background or interest in design.
 
 => **[SUSTech School of Design](https://github.com/Seeed-Studio/MakerCamp/tree/main/2024-04-AI%20in%20Design%20Summer%20School)** <=
 
@@ -50,6 +50,14 @@ From June 24-28, 2024, SUSTech School of Design host the "AI in Design" Summer S
 Back for the yearly "Research At Scale" residency, 10 MIT researchers joined the Maker Camp program:
 
 => **[Massachusetts Institute of Technology](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/)** <=
+
+
+### Jan 2026:
+
+Back for the yearly "Research At Scale" residency, 10 MIT researchers joined the Maker Camp program:
+
+=> **[Massachusetts Institute of Technology](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/)** <=
+
 
 
 ### More by NYU, Tsinghua, Sydney Uni, etc:
