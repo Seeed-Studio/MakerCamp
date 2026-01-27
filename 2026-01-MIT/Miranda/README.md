@@ -58,7 +58,7 @@ By decapitating Labubus and reconstituing a new, less anthropomorphic form, we h
 We pay homage to Mary Shelley's Frankenstein, which is also a monster comprised of corpses.
 
 By presenting Labububot as an indisputably monstrous social robot we hope to call into question the monstrosity of other social robots, even those which are designed to look [cute and, therefore, trustworthy](https://journals.sagepub.com/doi/10.1177/17298806231168486).
-Further, we hope that analyzing social robots through the lens of monster theory will afford interesting insight into not only the design of social robots but also the philsophical question: what does it mean to be human?
+Further, we hope that analyzing social robots through the lens of monster theory will afford interesting insight into not only the design of social robots but also the philisophical question: what does it mean to be human?
 
 ## Future work
 * Cover Labububot in fur
