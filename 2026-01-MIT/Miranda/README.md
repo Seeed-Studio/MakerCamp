@@ -13,13 +13,11 @@ TODO
 *add video / image of labububot* 
 *labububot CAD image*
 
-demo!
-
 <!-- Labububot is made from a Seeed XIAO ESP32S3, a 6-DOF IMU, a Seeed Grove PWM driver, 12 servos, powered by two 4V batteries + a Buck converter, and comprised of quite a bit of PETG filament and various nuts and bolts.
 
 With the Labububot web controller you can visualize Labububot's orientation in real time by connecting via BLE. We hope to extend this to enable Labububot to semi-autonomously roll themself around. -->
 
-# Concept
+## Concept
 We envision Labububot as a playful critique of social robots and their forms.
 
 <!-- Roboticists claim that the dawn of ubiquitous robots is imminent. -->
@@ -53,7 +51,7 @@ We pay homage to Mary Shelley's Frankenstein, which is also a monster comprised 
 By presenting Labububot as an indisputably monstrous social robot we hope to call into question the monstrosity of other social robots, even those which are designed to look [cute and, therefore, trustworthy](https://journals.sagepub.com/doi/10.1177/17298806231168486).
 Further, we hope that analyzing social robots through the lens of monster theory will afford interesting insight into not only the design of social robots but also the philsophical question: what does it mean to be human?
 
-# Future work
+## Future work
 * Cover Labububot in fur
 * Controls: servo actuation -> rolling in a desired movement direction
 * Continue inquiry into monster theory, posthumanism, social robotics, refine interactions and submit Labububot to [ICSR Art / Design Competition](https://icsr2026.uk/competition/) or other art / robotics venue
@@ -66,13 +64,7 @@ Further, we hope that analyzing social robots through the lens of monster theory
 * 12 Labubus (decapitated)
 * A lot of PETG filament and access to as many 3D printers as possible :^)
 
-## Process
-* IMU + browser controller tests
-* digital twin
-* assembly
-* controls
-
-# Logistical advice for future generations
+## Logistical advice for future MIT residents
 * Begin the VISA process as soon as you can! If you're a US citizen, the nearest Chinese embassy is in New York. The process I went through went like this:
 1. Fill out the online form [here](https://consular.mfa.gov.cn/VISA/visa/visaform). I applied for a  L (tourist) visa valid for 120 months (10 years), max duration 90 days, multiple entry. Pro tip: it doesn't cost any extra money to max out the parameters like this on the tourist visa, so you may as well -- that way if you want to come back you won't have to go through this process again! Some people in the program applied for a student visa, using the invitation letter from SUSTech. It seems like either way is fine.
 2. Check the status of your application -- it usually takes around 2 days before you are "invited" to bring your passport in (in-person!) to the embassy.
