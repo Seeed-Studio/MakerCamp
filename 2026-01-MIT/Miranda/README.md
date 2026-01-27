@@ -2,11 +2,10 @@
 
 Here's what I worked on during my month in Shenzhen, as a part of the Research @ Scale residency.
 I am so incredibly grateful to all of the sponsors for giving me the opportunity to experience what has been truly one of best months of my life!
-During the first hectic week I had a lot of fun attending the Scalable HCI conference, visiting factories / Huaqiangbei / the UABB Biennale / AIRS, and getting settled into my apartment at Boyu and the makerspace at Chaihuo. I spent the rest of my time in Shenzhen making a whimsical art robot called Labububot, with fellow resident [Jake Read](https://ekswhyzee.com/).
+During the first hectic week I had a lot of fun attending the Scalable HCI conference, visiting factories / Huaqiangbei / the UABB Biennale / AIRS, and getting settled into my apartment at Boyu and the makerspace at Chaihuo. 
 
-# Labububot
-For more information, see [our Github repo](https://github.com/mirandali707/labububot). Please note that Labububot is a work in progress!
-
+I spent the rest of my time in Shenzhen making a whimsical art robot called Labububot, with fellow resident [Jake Read](https://ekswhyzee.com/).
+[More on Labububot here!](https://github.com/mirandali707/labububot)
 Labububot (they/them) is a 12-headed, spherical robot.
 
 https://github.com/user-attachments/assets/c3b5b5f4-7f28-4f24-a35f-e6e06569df5c
@@ -14,64 +13,6 @@ https://github.com/user-attachments/assets/c3b5b5f4-7f28-4f24-a35f-e6e06569df5c
 https://github.com/user-attachments/assets/790c8d50-3174-4930-8c23-f068ced3f498
 
 https://github.com/user-attachments/assets/d02e6ae4-7f6f-4bf3-8652-7b570cbcb863
-
-## Progress (reverse chronological)
-https://github.com/user-attachments/assets/87c9277f-5bdb-4059-a792-1e3758ac1689
-
-![](labububomb.jpg)
-
-![](labubu_guillotine.jpg)
-
-![](labubu_twins.jpg)
-
-![](bubu_half_proto.jpg)
-
-## Concept
-Labububot is a playful critique of social robots and their forms.
-
-<!-- Roboticists claim that the dawn of ubiquitous robots is imminent. -->
-Human-robot interaction research frequently begins with the claim that we will soon be surrounded by robots in our everyday lives, and as delivery drones and cleaning robots are already somewhat commonplace in Shenzhen, the claim feels substantial.
-
-If this is true, our world of human cyborgs will soon confront a new, baffling species, neither man nor animal, too agentic to be considered a machine, too mechanical to be considered an organism. From the field of monster theory:
-
-> "Jeffrey Weinstock explains that monsters ‘are things that should not be, but nevertheless are--and their existence raises vexing questions about humanity’s understanding of and place in the universe"
-> 
-> (Monsters: interdisciplinary explorations in monstrosity, Erle & Hendry 2020)
-
-We claim that social robots can be analyzed as monsters: for example, a disembodied, illuminated face that hides a camera, which blinks its digital eyes at you, records your speech, and metabolizes it through a large language model before playing back a synthesized "speech" waveform arguably "should not be" according to the laws of God or nature, but nevertheless is.
-
-![](furhat.jpg)
-
-... not to name names.
-
-Labubu is also, famously, a [monster](https://www.popmart.com/us/collection/11/the-monsters). 
-Labubu is also a classic example of [baby schema](https://pmc.ncbi.nlm.nih.gov/articles/PMC3260535/).
-
-> Ethologist Konrad Lorenz suggested that certain infant characteristics evoke a positive affective response in the human. He described the **baby schema** (‘Kindchenschema’) as a set of infantile physical features such as the large head, high and protruding forehead, large eyes, chubby cheeks, small nose and mouth, short and thick extremities and plump body shape, that is perceived as cute or cuddly and elicits caretaking behavior from other individuals (Lorenz 1943).
-> 
-> (Baby Schema in Infant Faces Induces Cuteness Perception and Motivation for Caretaking in Adults, Glocker et al 2012, emphases mine)
-
-![](labubuimg.jpeg)
-
-Baby schema is commonly employed in robot design to make social robots appear friendly.
-By decapitating Labubus and reconstituing a new, less anthropomorphic form, we hope to subvert the aesthetic norms of social robotics and evoke a less straightforward, more confusing set of feelings in the viewer.
-We pay homage to Mary Shelley's Frankenstein, which is also a monster comprised of corpses.
-
-By presenting Labububot as an indisputably monstrous social robot we hope to call into question the monstrosity of other social robots, even those which are designed to look [cute and, therefore, trustworthy](https://journals.sagepub.com/doi/10.1177/17298806231168486).
-Further, we hope that analyzing social robots through the lens of monster theory will afford interesting insight into not only the design of social robots but also the philosophical question: what does it mean to be human?
-
-## Future work
-* Cover Labububot in fur
-* Controls: servo actuation -> rolling in a desired movement direction
-* Continue inquiry into monster theory, posthumanism, social robotics, refine interactions and submit Labububot to [ICSR Art / Design Competition](https://icsr2026.uk/competition/) or other art / robotics venue
-
-## BOM
-* [Seeed Xiao ESP32](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
-* [Sparkfun 6-DOF IMU](https://www.sparkfun.com/sparkfun-6dof-imu-breakout-lsm6dsv16x-qwiic.html)
-* [Seeed Grove 16 channel PWM Driver](https://wiki.seeedstudio.com/Grove-16-Channel_PWM_Driver-PCA9685/)
-* 12 servos
-* 12 Labubus (decapitated)
-* A lot of PETG filament and access to as many 3D printers as possible :^)
 
 ## Logistical advice for future MIT residents
 * Begin the VISA process as soon as you can! If you're a US citizen, the nearest Chinese embassy is in New York. The process I went through went like this:
