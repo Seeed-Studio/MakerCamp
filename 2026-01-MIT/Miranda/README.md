@@ -9,26 +9,25 @@ For more information, see [our Github repo](https://github.com/mirandali707/labu
 
 Labububot (they/them) is a 12-headed, spherical robot.
 
-
-
-https://github.com/user-attachments/assets/d02e6ae4-7f6f-4bf3-8652-7b570cbcb863
-
-
-
+https://github.com/user-attachments/assets/c3b5b5f4-7f28-4f24-a35f-e6e06569df5c
 
 https://github.com/user-attachments/assets/790c8d50-3174-4930-8c23-f068ced3f498
 
+https://github.com/user-attachments/assets/d02e6ae4-7f6f-4bf3-8652-7b570cbcb863
 
-
+## Progress (reverse chronological)
 https://github.com/user-attachments/assets/87c9277f-5bdb-4059-a792-1e3758ac1689
 
+![](labububomb.jpg)
 
-https://github.com/user-attachments/assets/c3b5b5f4-7f28-4f24-a35f-e6e06569df5c
+![](labubu_guillotine.jpg)
 
+![](labubu_twins.jpg)
 
+![](bubu_half_proto.jpg)
 
 ## Concept
-We envision Labububot as a playful critique of social robots and their forms.
+Labububot is a playful critique of social robots and their forms.
 
 <!-- Roboticists claim that the dawn of ubiquitous robots is imminent. -->
 Human-robot interaction research frequently begins with the claim that we will soon be surrounded by robots in our everyday lives, and as delivery drones and cleaning robots are already somewhat commonplace in Shenzhen, the claim feels substantial.
