@@ -9,13 +9,23 @@ For more information, see [our Github repo](https://github.com/mirandali707/labu
 
 Labububot (they/them) is a 12-headed, spherical robot.
 
-TODO
-*add video / image of labububot* 
-*labububot CAD image*
 
-<!-- Labububot is made from a Seeed XIAO ESP32S3, a 6-DOF IMU, a Seeed Grove PWM driver, 12 servos, powered by two 4V batteries + a Buck converter, and comprised of quite a bit of PETG filament and various nuts and bolts.
 
-With the Labububot web controller you can visualize Labububot's orientation in real time by connecting via BLE. We hope to extend this to enable Labububot to semi-autonomously roll themself around. -->
+https://github.com/user-attachments/assets/d02e6ae4-7f6f-4bf3-8652-7b570cbcb863
+
+
+
+
+https://github.com/user-attachments/assets/790c8d50-3174-4930-8c23-f068ced3f498
+
+
+
+https://github.com/user-attachments/assets/87c9277f-5bdb-4059-a792-1e3758ac1689
+
+
+https://github.com/user-attachments/assets/c3b5b5f4-7f28-4f24-a35f-e6e06569df5c
+
+
 
 ## Concept
 We envision Labububot as a playful critique of social robots and their forms.
