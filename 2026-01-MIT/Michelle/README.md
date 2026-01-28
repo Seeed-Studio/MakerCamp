@@ -23,7 +23,6 @@
 > I have never seen such a Disney place of Hardware, with every components you could have imagined!!!!
 > Few of us also went to a place with a lot of motors as well.
 <br><br>
-![MK-photo-HQB](https://github.com/user-attachments/assets/a1cf8689-a237-4d1e-9ea5-8ef4f3b2a7e9)
 ![MK-Factory-look](https://github.com/user-attachments/assets/db4a7a92-4fed-46c5-a249-8cf7c3e74c49)
 <br><br>
 
@@ -40,10 +39,13 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 <br><br>
 
 > We just shipped components to factories for FPCBA, all thanks to Seeed.
-![Uploading MK-Final-Ship.png…]()
+<img width="1365" height="716" alt="MK-Final-FPC" src="https://github.com/user-attachments/assets/93e6000e-8776-4958-b5f0-fc1e2ec6d8c1" />
+
+<img width="1399" height="764" alt="MK-Final-Ship" src="https://github.com/user-attachments/assets/e38b69db-8312-40a9-8ea8-58983a9501ed" />
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="1365" height="716" alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
 
