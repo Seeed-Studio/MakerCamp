@@ -14,6 +14,7 @@
 > But soon, seeing so many very nice people at the Scalable HCI and few friends I knew from MIT, things started to get easier.
 
 <br><br>
+![MK-photo-HQB](https://github.com/user-attachments/assets/a1cf8689-a237-4d1e-9ea5-8ef4f3b2a7e9)
 ![b1d74e8c0036db91f2e8ba3b9b7b8f23](https://github.com/user-attachments/assets/c97bb3f5-f777-45fb-b5b4-c7617d9e7761)
 
 <img width="1304" height="639" alt="MK-factory" src="https://github.com/user-attachments/assets/448bcfdf-70af-444d-a6d6-1f1868ec5dea" />
@@ -34,9 +35,9 @@
 <br><br>
 
 > Yay! Testing worked, so I was also able to start with some Firmware stuff.
-<br><br>
+
 https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
-<br><br>
+
 
 > We just shipped components to factories for FPCBA, all thanks to Seeed.
 <img width="1365" height="716" alt="MK-Final-FPC" src="https://github.com/user-attachments/assets/93e6000e-8776-4958-b5f0-fc1e2ec6d8c1" />
@@ -45,6 +46,7 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="1365" height="716" alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
 
