@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Future Diary Phone (Prototype) — Shengtao</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; margin:0; color:#111;}
+    .wrap{max-width:920px; margin:0 auto; padding:24px;}
+    h1{font-size:28px; margin:0 0 8px;}
+    h2{font-size:18px; margin:28px 0 10px;}
+    p,li{line-height:1.55; font-size:15px;}
+    .muted{color:#555;}
+    .grid2{display:grid; grid-template-columns:1fr 1fr; gap:10px;}
+    .grid5{display:grid; grid-template-columns:repeat(5, 1fr); gap:8px;}
+    img{width:100%; height:auto; display:block; border-radius:6px;}
+    .hr{height:1px; background:#e8e8e8; margin:18px 0;}
+    a{color:#111; text-decoration:underline;}
+    .note{background:#f6f6f6; padding:12px 14px; border-radius:8px; font-size:14px;}
+    @media (max-width:760px){
+      .grid2{grid-template-columns:1fr;}
+      .grid5{grid-template-columns:repeat(2, 1fr);}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Future Diary Phone (Prototype) — Shengtao</h1>
+    <div class="muted">Shenzhen Residency Documentation</div>
+
+    <div class="hr"></div>
+
+    <h2>Overview</h2>
+    <p>
+      This is a prototype built during a residency in Shenzhen. It started from Huaqiangbei (repair/resale culture + old phone designs)
+      and the anime <i>Mirai Nikki (Future Diary)</i>. The first idea was “future prediction,” but the project later shifted toward a
+      keypad-based fortune/diary device with a rewriting trigger.
+    </p>
+
+    <h2>Huaqiangbei</h2>
+    <p>
+      I visited Huaqiangbei and saw many phone repair and phone resale stores. The Huaqiangbei Museum collects phones from around the 2000s
+      (flip phones, feature phones, early mobile products). These phones are not used anymore, but their form factor and button-driven interaction
+      are still impressive.
+    </p>
+
+    <div class="grid2">
+      <img src="1.png" alt="1" />
+      <img src="2.png" alt="2" />
+    </div>
+    <div style="height:10px"></div>
+    <img src="3.png" alt="3" />
+    <div style="height:10px"></div>
+
+    <!-- 4–8 in one row -->
+    <div class="grid5">
+      <img src="4.png" alt="4" />
+      <img src="5.png" alt="5" />
+      <img src="6.png" alt="6" />
+      <img src="7.png" alt="7" />
+      <img src="8.png" alt="8" />
+    </div>
+
+    <div style="height:10px"></div>
+    <img src="9.png" alt="9" />
+
+    <div class="hr"></div>
+
+    <h2>Reference: Mirai Nikki (Future Diary)</h2>
+    <p>
+      In the story, the protagonist receives a phone that gets messages about future events. The messages arrive irregularly.
+    </p>
+    <img src="10.png" alt="10" />
+    <p>Video: <a href="1.mp4">Open 1.mp4</a></p>
+
+    <div class="hr"></div>
+
+    <h2>Prototype V0: GPS + time → “future diary” messages</h2>
+    <ul>
+      <li>Input: GPS location + current time</li>
+      <li>Send to an LLM API</li>
+      <li>Output: future diary messages shown on the screen</li>
+    </ul>
+    <img src="11.png" alt="11" />
+    <p class="note">
+      The “future” was not accurate and often felt like random generation, so I reframed it as a fortune/oracle device instead of a prediction tool.
+    </p>
+    <img src="12.png" alt="12" />
+    <img src="13.png" alt="13" />
+    <img src="14.png" alt="14" />
+
+    <div class="hr"></div>
+
+    <h2>Interaction: keypad functions</h2>
+    <p>I added a keypad and mapped keys to functions:</p>
+    <ul>
+      <li><b>1</b>: today’s luck + lucky color — <a href="fortune.mp4">fortune.mp4</a></li>
+      <li><b>3</b>: warning — <a href="warning.mp4">warning.mp4</a></li>
+      <li><b>4</b>: summarize previous diary entries</li>
+      <li><b>6</b>: tomorrow’s possible events — <a href="tomorrow.mp4">tomorrow.mp4</a></li>
+    </ul>
+    <img src="15.png" alt="15" />
+    <img src="17.png" alt="17" />
+
+    <div class="hr"></div>
+
+    <h2>Rewriting</h2>
+    <p>
+      If travel distance changes a lot, the diary result updates (the “future” is rewritten). This is rule-based for now.
+    </p>
+    <p>Video: <a href="2.mp4">2.mp4</a> · <a href="Rewrite.mp4">Rewrite.mp4</a></p>
+
+    <div class="hr"></div>
+
+    <h2>Voice interaction (attempt)</h2>
+    <p>
+      I tried voice interaction but it was not reliable in this iteration. I plan to solve it later.
+    </p>
+    <img src="16.png" alt="16" />
+    <p>System components + wiring diagram:</p>
+    <img src="18.png" alt="18" />
+
+    <div class="hr"></div>
+
+    <h2>Next step</h2>
+    <ul>
+      <li>Physical form factor (retro-future look)</li>
+      <li>Better inputs for “future diary” without turning it into surveillance</li>
+    </ul>
+    <img src="19.png" alt="19" />
+    <p class="muted">More inputs might include occupation, personality traits, and other personal context.</p>
+
+  </div>
+</body>
+</html>
