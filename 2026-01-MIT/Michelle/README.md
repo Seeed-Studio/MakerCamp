@@ -13,9 +13,9 @@
 > and coming from more software background, it was a very nervous and intimidating decision to make.
 > Arriving at China, forgetting about the VPN, and definitely not familiar with the entire WeChat and Allipay ecosystem, and arriving a day late due to my other commitments, it was definitely not a easy start.
 > But soon, seeing so many very nice people at the Scalable HCI and few friends I knew from MIT, things started to get easier.
+<img width="100%" alt="MK-factory" src="https://github.com/user-attachments/assets/b2ecaaa0-6b35-47f7-9660-0dbcafce0b95" />
+<img width="100%"  alt="motor-factory" src="https://github.com/user-attachments/assets/74722be0-0b93-41a3-b103-9dab298343e9" />
 
-<img width="100%"  alt="MK-factory" src="https://github.com/user-attachments/assets/448bcfdf-70af-444d-a6d6-1f1868ec5dea" />
-<img width="100%"  alt="motor-factory" src="https://github.com/user-attachments/assets/c77fb7e2-ade4-440e-9c68-a5a0bb32b1be" />
 ![MK-photo-HQB](https://github.com/user-attachments/assets/a1cf8689-a237-4d1e-9ea5-8ef4f3b2a7e9)
 <img width="1001" height="516" alt="Screenshot 2026-01-28 at 7 40 36 PM" src="https://github.com/user-attachments/assets/19c81377-d60d-4fea-97e7-07e630345d70" />
 
@@ -73,6 +73,7 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="100%"  alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
 
