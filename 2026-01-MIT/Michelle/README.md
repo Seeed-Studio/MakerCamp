@@ -29,9 +29,11 @@
 <br><br>
 
 ## CHAPTER 2: Smart Ring For Behavior Change.
-<img width="796" height="418" alt="xiao-family" src="https://github.com/user-attachments/assets/d83215d5-d202-4ee5-bc22-c541bf8b2d29" />
 
-![b1d74e8c0036db91f2e8ba3b9b7b8f23](https://github.com/user-attachments/assets/c97bb3f5-f777-45fb-b5b4-c7617d9e7761)
+<img src= "https://github.com/user-attachments/assets/3773102c-a62c-405b-b461-c3ab23f529bf"
+     alt= "PROJECT"
+     width="100%" />
+
 
 <img src="https://github.com/user-attachments/assets/0d1deccc-16b7-4798-aaec-7eb7ebd772e5"
      alt="MK-wiring-prototype"
@@ -53,10 +55,15 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 ## NEXT CHAPTERS AHEAD.
 ## THANK YOU EVERYONE AND SEEED
-<img width="698" height="394" alt="Screenshot 2026-01-28 at 7 48 37 PM" src="https://github.com/user-attachments/assets/3773102c-a62c-405b-b461-c3ab23f529bf" />
+
+<img width="796" height="418" alt="xiao-family" src="https://github.com/user-attachments/assets/d83215d5-d202-4ee5-bc22-c541bf8b2d29" />
+
+![b1d74e8c0036db91f2e8ba3b9b7b8f23](https://github.com/user-attachments/assets/c97bb3f5-f777-45fb-b5b4-c7617d9e7761)
+
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="1365" height="716" alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
 
