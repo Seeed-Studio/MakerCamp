@@ -12,9 +12,9 @@ A modular strip of camera modules that can be bent and flexed while recording sy
 
 Inspired by [_Scene Collages and Flexible Camera Arrays_](https://www.cs.columbia.edu/CAVE/projects/scene_collage/) (Nomura, Zhang, Nayar — Columbia/Sony, 2007), which used 20 FireWire cameras on bendable plastic sheets to create Hockney-style photo collages. This project reimagines that concept with modern $14 microcontroller camera modules.
 
-|                                                            |                                                  |
-| ---------------------------------------------------------- | ------------------------------------------------ |
-| ![Flexible camera array from 2007](images/camera-2008.png) | ![Scene collage output](images/collage-2008.png) |
+|                                                                      |                                                  |
+| -------------------------------------------------------------------- | ------------------------------------------------ |
+| ![Flexible camera array from 2007](modular-flex-cam/camera-2008.png) | ![Scene collage output](images/collage-2008.png) |
 
 _Images from the original research. See the [demo video](https://www.youtube.com/watch?v=K5lhNkCXhaM)._
 
@@ -33,7 +33,7 @@ The system captures 24fps video from multiple angles simultaneously (<1ms sync a
 
 I spent most of my time debugging ESP32-S3 firmware—getting it to record reliably and sync files over WiFi proved harder than expected. Never made it to a custom PCB. But the design crystallized through the process, and I have all the parts spec'd out for a future build.
 
-![Flexible mat with ESP32](images/magnet-mat-with-esp32.jpeg)
+![Flexible mat with ESP32](modular-flex-cam/magnet-mat-with-esp32.jpeg)
 _Proof of concept: flexible ferrous mat with magnetically attached plastic bags. One bag has a XIAO ESP32S3 inside to prove the magnets are strong enough. Imagine the rest are camera modules too._
 
 ### Bill of Materials
@@ -66,13 +66,13 @@ I found a vendor in Shenzhen that can produce custom lenticular prints—optiona
 
 The first batch: animated web banners from the late 90s and early 2000s, sourced from [Banner Depot 2000](https://banner-depot-2000.net/), a project I built with [R.L. Huang](http://lewei.me/). These banners were designed to loop—lenticular animation brings them back to life off-screen.
 
-![Banner ad frames](images/lenticular-banner-ads-frames.png)
+![Banner ad frames](lenticulars-cards/lenticular-banner-ads-frames.png)
 _Frames extracted from early web banner GIFs_
 
 Each sticker has three elements: the Banner Depot 2000 logo, the banner ad (vertically interlaced for animation), and a QR code linking to the banner's metadata on the site. I made 5 different banners, 100 stickers each.
 
 <video controls width="100%" muted>
-  <source src="videos/banner-lenticular.mp4" type="video/mp4">
+  <source src="lenticulars-cards/banner-lenticular.mp4" type="video/mp4">
 </video>
 
 _Lenticular stickers in action_
@@ -83,7 +83,7 @@ An animated business card for MIT Media Lab. The animation is a Box2D physics si
 
 (I'm not showing the full card here—it has my personal contact info and I'd rather not publish that on GitHub forever.)
 
-![Lenticular frames](images/lenticular-ml-frames.png)
+![Lenticular frames](lenticulars-cards/lenticular-ml-frames.png)
 _12 frames for the lenticular print_
 
 ### Vendor Notes
