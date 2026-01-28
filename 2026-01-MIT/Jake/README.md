@@ -14,6 +14,14 @@ As part of my thesis work, I needed to finish an [accelerometer module.](https:/
 
 ![knuckles](images/knuckles.png)
 
+| | |
+| --- | --- |
+| ![](images/preview_back.jpg) | ![](images/preview_front.jpg) |
+| ![](images/2026-01-13_pic-0065.jpg) | ![](images/2026-01-13_pic-0067.jpg)
+
+![tweezies](images/2026-01-13_pic-0047.jpg)  
+> PCBA ! My shaky hands could never tweeze those 0402's.    
+
 ![reflow](images/2026-01-13_pic-0052.jpg) 
 > Accelerometer module in the oven at Seeed.
 
@@ -22,10 +30,6 @@ Watching this circuit go together at Seeed was awesome, although I was surprised
 <video controls width="100%" muted="true">
   <source src="videos/2026-01-13_vid-0016-timecrop.mp4" type="video/mp4">
 </video>
-
-| | |
-| --- | --- |
-| ![](images/2026-01-13_pic-0065.jpg) | ![](images/2026-01-13_pic-0067.jpg)
 
 I've been able to bring this board online and next week it will be integrated into my machine controllers to help better estimate machine kinematic [models](https://jakeread.github.io/thesis/06_00_models-motion.html) and stiffnesses - and hopefully detect chatter in CNC machining. 
 
