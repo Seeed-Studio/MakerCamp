@@ -37,6 +37,10 @@ Tips for your documentation:
    - **Keywords**: TODO
    - [Personal website](TODO)
 
+<br><img align="left" src="Jake/images/pfp_500.jpg" height='120'>
+ **[Jake Read](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake)**
+   - **Keywords**: Machine Control, Motor Control, Modular Embedded Systems
+   - [Personal website](https://ekswhyzee.com/2026/01/20/shenzhen.html)
 
 
 ## Example reports from 2025:
