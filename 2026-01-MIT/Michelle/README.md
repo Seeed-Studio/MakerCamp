@@ -1,4 +1,4 @@
-<img width="1001" height="516" alt="Screenshot 2026-01-28 at 7 40 36 PM" src="https://github.com/user-attachments/assets/19c81377-d60d-4fea-97e7-07e630345d70" /># First Shenzhen Experience and New Hardware Adventure with Awesome People!
+# First Shenzhen Experience and New Hardware Adventure with Awesome People!
 
 ## CHAPTER 1: How It All Started.
 > It was a decision made just five days before it happened,
@@ -17,6 +17,8 @@
 <img width="100%"  alt="MK-factory" src="https://github.com/user-attachments/assets/448bcfdf-70af-444d-a6d6-1f1868ec5dea" />
 <img width="100%"  alt="motor-factory" src="https://github.com/user-attachments/assets/c77fb7e2-ade4-440e-9c68-a5a0bb32b1be" />
 ![MK-photo-HQB](https://github.com/user-attachments/assets/a1cf8689-a237-4d1e-9ea5-8ef4f3b2a7e9)
+<img width="1001" height="516" alt="Screenshot 2026-01-28 at 7 40 36 PM" src="https://github.com/user-attachments/assets/19c81377-d60d-4fea-97e7-07e630345d70" />
+
 > I would say beyond the ScalableHCI, the most eye-opening experience was the HQB.
 > I have never seen such a Disney place of Hardware, with every components you could have imagined!!!!
 > Few of us also went to a place with a lot of motors as well.
@@ -26,12 +28,15 @@
 > During the first week of factory visits, and getting adjusted to Shenzhen, I met my amazing collaborator Yuxiang after giving a talk about rings (and frequently encountering from our apartment), and very supportive Seeed family including Ellie and Violet.
 > We were able to start from sourcing components, testing, designing PCBs, and getting an FPC prototype !
 <br><br>
+<img width="1012" height="618" alt="Screenshot 2026-01-28 at 8 08 21 PM" src="https://github.com/user-attachments/assets/3ed20a04-851f-4ac0-8cba-1f9defd7e72e" />
 
 
 <img src= "https://github.com/user-attachments/assets/3773102c-a62c-405b-b461-c3ab23f529bf"
      alt= "PROJECT"
      width="100%" />
      
+<img width="1423" height="702" alt="Screenshot 2026-01-28 at 8 09 12 PM" src="https://github.com/user-attachments/assets/9f078ccb-7f01-49d2-8bdb-fc809331158d" />
+
 <img src="https://github.com/user-attachments/assets/0d1deccc-16b7-4798-aaec-7eb7ebd772e5"
      alt="MK-wiring-prototype"
      width="100%" />
@@ -40,7 +45,7 @@
      alt="MK-design-ring"
      width="100%" />
      
-![MK-3d-printer](https://github.com/user-attachments/assets/4399052f-de2e-4878-b9b3-31558c6e1dc0)
+<img width="100%"  alt="MK-3d-printer" src="https://github.com/user-attachments/assets/4399052f-de2e-4878-b9b3-31558c6e1dc0" />
 
 
 Testing worked, so I was also able to start with some Firmware stuff.
@@ -61,11 +66,14 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 <img src= ="https://github.com/user-attachments/assets/9335107f-d4d4-48f3-b2ee-664bb49d9093"
      alt= "CHI 2026"
      width="100%" />
-     
+
+<img width="511" height="161" alt="Screenshot 2026-01-28 at 8 11 02 PM" src="https://github.com/user-attachments/assets/33273024-4a60-4dae-8eb8-8505990c9668" />
+
 <img width= "100%"  alt="Screenshot 2026-01-28 at 8 06 27 PM" src="https://github.com/user-attachments/assets/34fb6484-18fb-4309-b661-3a39ea01684f" />
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="100%"  alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
 
