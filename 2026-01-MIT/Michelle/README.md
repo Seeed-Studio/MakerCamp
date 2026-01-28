@@ -1,4 +1,4 @@
-# First Shenzhen Experience, New Hardware Adventure, and Awesome People!
+# First Shenzhen Experience and New Hardware Adventure with Awesome People!
 
 ## CHAPTER 1: How It All Started.
 > It was a decision made just five days before it happened,
@@ -13,10 +13,11 @@
 > and coming from more software background, it was a very nervous and intimidating decision to make.
 > Arriving at China, forgetting about the VPN, and definitely not familiar with the entire WeChat and Allipay ecosystem, and arriving a day late due to my other commitments, it was definitely not a easy start.
 > But soon, seeing so many very nice people at the Scalable HCI and few friends I knew from MIT, things started to get easier.
+<img width="100%" alt="MK-factory" src="https://github.com/user-attachments/assets/b2ecaaa0-6b35-47f7-9660-0dbcafce0b95" />
+<img width="100%"  alt="motor-factory" src="https://github.com/user-attachments/assets/74722be0-0b93-41a3-b103-9dab298343e9" />
 
-<img width="100%"  alt="MK-factory" src="https://github.com/user-attachments/assets/448bcfdf-70af-444d-a6d6-1f1868ec5dea" />
-<img width="100%"  alt="motor-factory" src="https://github.com/user-attachments/assets/c77fb7e2-ade4-440e-9c68-a5a0bb32b1be" />
-![MK-photo-HQB](https://github.com/user-attachments/assets/a1cf8689-a237-4d1e-9ea5-8ef4f3b2a7e9)
+<img width="100%" height="516" alt="Screenshot 2026-01-28 at 7 40 36 PM" src="https://github.com/user-attachments/assets/19c81377-d60d-4fea-97e7-07e630345d70" />
+
 > I would say beyond the ScalableHCI, the most eye-opening experience was the HQB.
 > I have never seen such a Disney place of Hardware, with every components you could have imagined!!!!
 > Few of us also went to a place with a lot of motors as well.
@@ -31,6 +32,11 @@
      alt= "PROJECT"
      width="100%" />
 
+<img width="100%" alt="havFun" src="https://github.com/user-attachments/assets/a0a50387-1f65-4a50-84b8-0f135ae32c0a" />
+<img width="1384" height="707" alt="Screenshot 2026-01-28 at 8 30 06 PM" src="https://github.com/user-attachments/assets/4416e070-91ea-4499-b292-b1ee9dbd943b" />
+
+<img width="1423" height="702" alt="Screenshot 2026-01-28 at 8 09 12 PM" src="https://github.com/user-attachments/assets/9f078ccb-7f01-49d2-8bdb-fc809331158d" />
+
 
 <img src="https://github.com/user-attachments/assets/0d1deccc-16b7-4798-aaec-7eb7ebd772e5"
      alt="MK-wiring-prototype"
@@ -40,11 +46,14 @@
      alt="MK-design-ring"
      width="100%" />
      
-![MK-3d-printer](https://github.com/user-attachments/assets/4399052f-de2e-4878-b9b3-31558c6e1dc0)
+<img width="100%"  alt="MK-3d-printer" src="https://github.com/user-attachments/assets/4399052f-de2e-4878-b9b3-31558c6e1dc0" />
 
 
 Testing worked, so I was also able to start with some Firmware stuff.
+
 https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
+
+<img width="100%" alt="Screenshot 2026-01-28 at 8 29 52 PM" src="https://github.com/user-attachments/assets/29905cef-67c2-408a-ab80-a5e9e129a80c" />
 
 > We just shipped components to factories for FPCBA, all thanks to Seeed.
 <img width="100%"  alt="MK-Final-FPC" src="https://github.com/user-attachments/assets/93e6000e-8776-4958-b5f0-fc1e2ec6d8c1" />
@@ -56,11 +65,19 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 <img width="100%" alt="xiao-family" src="https://github.com/user-attachments/assets/d83215d5-d202-4ee5-bc22-c541bf8b2d29" />
 
-![b1d74e8c0036db91f2e8ba3b9b7b8f23](https://github.com/user-attachments/assets/c97bb3f5-f777-45fb-b5b4-c7617d9e7761)
+<img width="100%"  alt="Screenshot 2026-01-28 at 8 06 27 PM" src="https://github.com/user-attachments/assets/34fb6484-18fb-4309-b661-3a39ea01684f" />
 
+<img width="563" height="223" alt="Screenshot 2026-01-28 at 8 28 50 PM" src="https://github.com/user-attachments/assets/8be0d6ee-e196-420c-8468-fc658e5474fe" />
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="100%"  alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+![b1d74e8c0036db91f2e8ba3b9b7b8f23](https://github.com/user-attachments/assets/c97bb3f5-f777-45fb-b5b4-c7617d9e7761)
+
+
+
+
+
+
 
 
 
