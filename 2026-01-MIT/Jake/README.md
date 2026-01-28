@@ -16,7 +16,9 @@ As part of my thesis work, I needed to finish an [accelerometer module.](https:/
 
 Watching this circuit go together at Seeed was awesome, although I was surprised at the volume required to move from PCBA-by-hand onto the PNP machines. 
 
-![](videos/2026-01-13_vid-0016-timecrop.mp4)
+<video controls width="100%" muted="true">
+  <source src="videos/2026-01-13_vid-0016-timecrop.mp4" type="video/mp4">
+</video>
 
 I've been able to bring this board online and next week it will be integrated into my machine controllers to help better estimate machine kinematic [models](https://jakeread.github.io/thesis/06_00_models-motion.html) and stiffnesses - and hopefully detect chatter in CNC machining. 
 
@@ -28,7 +30,9 @@ Machine control begins with motor control, and I've been working on [closed loop
 
 To get a better sense of how this might work, Seeed hooked me up with a visit to a motor factory. Docs from that visit are [in this post](https://ekswhyzee.com/2026/01/20/shenzhen.html) (about 70% down). It was a joy to see how the motor-sausage is made, and was really valuable for me to understand how to better interact with plants like this in the future. 
 
-![](videos/2026-01-16_vid-0005.mp4)
+<video controls width="100%" muted="true">
+  <source src="videos/2026-01-16_vid-0005.mp4" type="video/mp4">
+</video>
 
 ### Labubus
 
@@ -36,6 +40,13 @@ A worthy sidequest, I helped Miranda to build the [mf labububot](https://github.
 
 ![](images/2026-01-11_labubu-cad.png)
 ![](../Miranda/labubu_guillotine.jpg) 
-![](videos/2026-01-17_vid-0009.mp4)
-![](videos/2026-01-17_vid-0010.mp4)
+
+<video controls width="100%" muted="true">
+  <source src="videos/2026-01-17_vid-0009.mp4" type="video/mp4">
+</video>
+
+<video controls width="100%" muted="true">
+  <source src="videos/2026-01-17_vid-0010.mp4" type="video/mp4">
+</video>
+
 ![](images/2026-01-18_pic-0008.jpg)
