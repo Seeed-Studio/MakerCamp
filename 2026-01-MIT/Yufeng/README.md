@@ -12,9 +12,9 @@ A modular strip of camera modules that can be bent and flexed while recording sy
 
 Inspired by [_Scene Collages and Flexible Camera Arrays_](https://www.cs.columbia.edu/CAVE/projects/scene_collage/) (Nomura, Zhang, Nayar — Columbia/Sony, 2007), which used 20 FireWire cameras on bendable plastic sheets to create Hockney-style photo collages. This project reimagines that concept with modern $14 microcontroller camera modules.
 
-|                                                                      |                                                  |
-| -------------------------------------------------------------------- | ------------------------------------------------ |
-| ![Flexible camera array from 2007](modular-flex-cam/camera-2008.png) | ![Scene collage output](images/collage-2008.png) |
+|                                                                      |                                                            |
+| -------------------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Flexible camera array from 2007](modular-flex-cam/camera-2008.png) | ![Scene collage output](modular-flex-cam/collage-2008.png) |
 
 _Images from the original research. See the [demo video](https://www.youtube.com/watch?v=K5lhNkCXhaM)._
 
