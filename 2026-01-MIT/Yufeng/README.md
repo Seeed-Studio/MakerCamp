@@ -31,7 +31,7 @@ The system captures 24fps video from multiple angles simultaneously (<1ms sync a
 
 ### What I actually got done
 
-I spent most of my time debugging ESP32-S3 firmware—getting it to record reliably and sync files over WiFi proved harder than expected. Never made it to a custom PCB. But the design crystallized through the process, and I have all the parts spec'd out for a future build.
+I spent most of my time debugging ESP32-S3 firmware—getting it to record reliably and sync files over WiFi proved harder than expected. Never made it to a custom PCB. But the design crystallized through the process, and I have all the parts spec'd out. I'll bring this to life next semester back at MIT.
 
 ![Flexible mat with ESP32](modular-flex-cam/magnet-mat-with-esp32.jpeg)
 _Proof of concept: flexible ferrous mat with magnetically attached plastic bags. One bag has a XIAO ESP32S3 inside to prove the magnets are strong enough. Imagine the rest are camera modules too._
@@ -71,7 +71,7 @@ _Frames extracted from early web banner GIFs_
 
 Each sticker has three elements: the Banner Depot 2000 logo, the banner ad (vertically interlaced for animation), and a QR code linking to the banner's metadata on the site. I made 5 different banners, 100 stickers each.
 
-[Lenticular stickers in action](lenticulars-cards/banner-lenticular.mp4)
+![Lenticular stickers in action](lenticulars-cards/banner-lenticular.gif)
 
 _Lenticular stickers in action_
 
@@ -145,6 +145,8 @@ _Building exterior model for context_
 - 3D math for proper streetview-style projection not yet implemented
 - Camera alignment is imperfect—people were moving during capture, so the scene wasn't truly stationary
 
+I'll take more pictures in my last few days here and process them with a better algorithm later.
+
 ---
 
 ## Other Things
@@ -157,4 +159,6 @@ Shenzhen, and China in general, is a great distraction. There's so much you _can
 
 ## Acknowledgments
 
-Thanks to Seeed Studio and Cedric for hosting, [Jon Bo](https://jon.bo/) for the HQB project inspiration, and the 2026-01-MIT cohort for the company.
+Thanks to Seeed Studio and Chaihuo Space for hosting, [Jon Bo](https://jon.bo/) for the HQB project inspiration, and the 2026-01-MIT cohort for being an amazing group.
+
+Making hardware in Shenzhen is important, but not as important as the friends we make along the way.
