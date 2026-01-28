@@ -14,7 +14,7 @@ Additionally, I made extremely important connections to fellow engineers/makers/
 
 ## Schematic Design and Development
 
-My first goal this month was to design and fabricate an embedded system with the following capabilities:
+My primary objective this month was to design and fabricate an embedded system with the following capabilities:
 * Read in the analog output of two EC5-5 Soil Moisture sensors
 * Enter a deep sleep state to optimize power consumption when not actively sensing
 * Operate off a small battery
@@ -27,12 +27,7 @@ The main components on the schematic above are:
 * LoRa Module: WIO-SX1262
 * LDO's: TLV70233DBVR, TPS7A0320PDBVR, TLV70225DBVR
 
-I did a deep dive into each subsystem of the PCB, evaluating options and ultimately selecting final componentes. (See video below). A lot of my time in the design phase was spent choosing my microcontroller. One of my major objectives this trip was to make the leap from the world of Arduino modules to placing bare-metal MCU's on my own PCBs. Getting an opportunity to do a deep dive into the STM32 family was extremely valuable, both for this design, and in the name of expanding my understanding of the microcontroller selction process.
-
-<video controls width="1000">
-    <source src="media/video1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+I did a deep dive into each subsystem of the PCB, evaluating options and ultimately selecting final componentes. A lot of my time in the design phase was spent choosing my microcontroller. One of my major objectives this trip was to make the leap from the world of Arduino modules to placing bare-metal MCU's on my own PCBs. Getting an opportunity to do a deep dive into the STM32 family was extremely valuable, both for this design, and in the name of expanding my understanding of the microcontroller selction process.
 
 Shout out to Jake Read for doing a late night schematic review with me! He helped me work through a number of issues that I hadn't spotted previously.
 
@@ -40,7 +35,7 @@ Shout out to Jake Read for doing a late night schematic review with me! He helpe
 
 ![Soil Node Schematic](media/image2.jpg "Soil Node Schematic")
 
-PCB routing is clearly both an art and a science. I spent many hours lost in the act of weaving traces in and out of my board. Given that my only other experience with routing came from taking "How to Make Almost Anything" last semester, I had only ever routed one-sided boards, which I then milled myself (see below). Making the jump to designing a 2-layer board was extremely freeing, now that I was no longer limited by the unique constraints of DIY milled PCBs.
+PCB routing is an art and a science. I spent many hours lost in the act of weaving traces in and out of my board. Given that my only other experience with routing came from taking "How to Make Almost Anything" last semester, I had only ever routed one-sided boards, which I then milled myself (see below). Making the jump to designing a 2-layer board was extremely freeing, now that I was no longer limited by the unique constraints of DIY milled PCBs.
 
 ![HTMAA Circuit](media/image8.jpg "HTMAA Circuit")
 
@@ -67,18 +62,25 @@ Thanks to this fellowship, I had a unique opportunity to go and see my PCB being
 
 ![PCB Assembly](media/image12.jpg "PCB Assembly")
 
-Despite not sharing a common spoken language, we were able to work through questions as they came up. For example, I had forgotten to specify the polarity of the diode on my board. Using google translate, electrical diagrams and hand gestures, were were able to figure everythign out then and there. Normally, this would have resulted in emails going back and forth across a 13 hour time difference, invetably causing delays in production.
+Despite not sharing a common spoken language, we were able to work through questions as they came up. For example, I had forgotten to specify the polarity of the diode on my board. Using google translate, electrical diagrams and hand gestures, we were able to figure everything out then and there. Normally, an error on my schematic would have resulted in a back and forth over email, across a 13 hour time difference, invetably causing delays in production. Being there in person meant that we could quickly address the problems and keep things moving.
 
 ![Soil Node Schematic](media/image7.jpg "Soil Node Schematic")
 
 Being able to solve problems in real-time was far more efficient. I also appreciated being able to actually build a connection with the people doing this work, as opposed to this being an anonymous process.
 
-![HTMAA Circuit](media/image9.jpg "HTMAA Circuit")
+![Schematic Error Correction](media/image9.jpg "Schematic Error Correction")
+
+## Enclosure Design
+
+Finally, I had a very productive meeting at Seeed headquarters with Eric, Phoebe, Violet and Janet to discuss the ins and outs of enclosure design for outdoor sensing applications. Seeing a variety of Seeed's systems helped me understand important best practices. Ultimately, I decided to implant my electronics into one of Seeed's enclosures which will make for a very well integrated design.
+
+![Enclosure Design Review](media/image14.jpg "Enclosure Design Review")
 
 ## Future Directions
 
 I am so excited to continue working with Seeed on future projects! There professionalism, efficiency and kindness was unmatched. Next time I come to Shenzhen, I will be able to hit the ground running, now that I have the right connections and a better understanding of how things work. I am particularly excited to work through an entire hardware maturation process in the future from initial prototype to more refined product.
 
-Finally, a huge thank you to Cedric and Ellie for all of your organizational efforts. To Eric and Zinn for funding the fellowship (!!!). And to Phoebe, Dana, Jiang Dan and Wang Bing for helping me get my PCB assembled in record breaking time! See you all soon, I hope.
+Finally, a huge thank you to Cedric Honnet and Ellie Cai for all of your organizational efforts. To Eric Pan and Zinn Liu for funding the fellowship (!!!). Thanks to Phoebe Qian, Dana Liao, Linus Liao, Jiang Dan and Wang Bing for helping me get my PCB fabricated in record breaking time! And to Eric/Phoebe (once again), Violet Su and Janet Zhang for reviewing enclosure options with me. See you all soon, I hope!
 
 ![Research at Scale Group](media/image10.jpg "Research at Scale Group")
+
