@@ -1,4 +1,4 @@
-First Shenzhen Experience, New Hardware Adventure, and Awesome People!
+# First Shenzhen Experience, New Hardware Adventure, and Awesome People!
 
 > It was a decision made just five days before it happened,
 > but it led to so much fun and very engaging learning experience, with
@@ -44,5 +44,6 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="1365" height="716" alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
