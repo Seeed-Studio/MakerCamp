@@ -1,98 +1,86 @@
 # Future Diary Phone (Prototype) — Shengtao
 
-## Context
-I visited Huaqiangbei and saw many phone repair / resale stores. One place stood out: the Huaqiangbei Museum. It collects phones from around the 2000s (flip phones, feature phones, etc.). These products are not used anymore, but their form factor and button-based interaction are still interesting to me.
-
-![Huaqiangbei / museum](assets/img/01.png)
-![Old phones collection](assets/img/02.png)
-![Flip phones details](assets/img/03.png)
-
-This reminded me of the anime **Mirai Nikki (Future Diary)**. In the story, the main character has a phone that receives messages about what will happen in the future.
-
-![Mirai Nikki reference](assets/img/04.png)
-
-So during this residency, I decided to build a **Future Diary Phone**. This is a prototype.
+## Overview
+This is a prototype built during the residency in Shenzhen. It started from Huaqiangbei (repair / resale culture + old phone designs) and the anime *Mirai Nikki (Future Diary)*. The first idea was “future prediction,” but the project later shifted toward a keypad-based fortune / diary device with a rewriting trigger.
 
 ---
 
-## Idea V0: “Predict the future” with GPS + time
-Initial idea:
-- Input: GPS location + time
+## Huaqiangbei
+I went to Huaqiangbei and saw many phone repair and phone resale stores. A place that caught my attention was the Huaqiangbei Museum. It collects phones from around the 2000s (flip phones, feature phones, early mobile products). These phones are not used anymore, but their form factor and button-driven interaction are still impressive.
+
+<img src="1.png" width="49%" />
+<img src="2.png" width="49%" />
+
+<img src="3.png" width="49%" />
+<img src="9.png" width="49%" />
+
+<!-- 4–8 in one row -->
+<div>
+  <img src="4.png" width="19%" />
+  <img src="5.png" width="19%" />
+  <img src="6.png" width="19%" />
+  <img src="7.png" width="19%" />
+  <img src="8.png" width="19%" />
+</div>
+
+---
+
+## Reference: Mirai Nikki (Future Diary)
+This reminded me of the anime *Mirai Nikki (Future Diary)*. In the story, the protagonist receives a phone that gets messages about future events. The messages arrive irregularly.
+
+<img src="10.png" width="70%" />
+
+---
+
+## Prototype V0: GPS + time → “future diary” messages
+I started with a simple pipeline:
+- Input: GPS location + current time
 - Send to an LLM API
-- Output: future diary messages on the screen (pushed occasionally)
+- Output: future diary messages shown on the screen
 
-![System sketch](assets/img/05.png)
-![Prototype setup](assets/img/06.png)
-![Early UI test](assets/img/07.png)
+However, the “future” was not accurate. It often felt like random generation. That made me rethink the direction.
 
-Problem:
-The “future” was not accurate. It felt like random generation. It was interesting sometimes, but not reliable.
-
-![Example outputs](assets/img/08.png)
-![More outputs](assets/img/09.png)
-
-That made me rethink the project. Instead of “prediction”, I treated it more like a **fortune / oracle device**.
+<img src="11.png" width="49%" />
+<img src="12.png" width="49%" />
 
 ---
 
-## Interaction: keypad input → different functions
-I connected a keypad and mapped keys to functions. This made the device more interactive and less dependent on “accurate prediction”.
+## Interaction: keypad functions (fortune / oracle mode)
+I added a keypad and mapped keys to different functions. This made the device more interactive and less dependent on “accurate future prediction”.
 
 Current mapping:
-- Press **1** → today’s luck + lucky color
-- Press **3** → warnings for today
-- Press **4** → summary of previous diary entries
-- Press **6** → tomorrow’s possible events
+- Press **1**: today’s luck + lucky color  
+- Press **3**: warning / things to watch out for today  
+- Press **4**: summarize previous future diary entries  
+- Press **6**: tomorrow’s possible events  
 
-![Keypad integration](assets/img/10.png)
-![Key mapping notes](assets/img/11.png)
-![UI screenshots](assets/img/12.png)
-![More UI screenshots](assets/img/13.png)
+<img src="13.png" width="49%" />
+<img src="14.png" width="49%" />
 
-This version feels closer to a “fortune machine” than a forecasting device.
-
----
-
-## Rewriting: future changes when your movement changes
-I added a rewriting mechanism:
-- If travel distance changes a lot, the future diary should update (the “future” is rewritten).
-- This is a simple rule-based trigger for now.
-
-![Rewriting logic](assets/img/14.png)
-![Movement test](assets/img/15.png)
-![Before/after rewrite](assets/img/16.png)
+<img src="15.png" width="49%" />
+<img src="16.png" width="49%" />
 
 ---
 
-## Voice interaction (attempt, failed)
-I tried to add voice input, but didn’t finish it in this iteration. Main issues were stability and audio pipeline reliability. I want to solve this later.
+## Rewriting: future changes when movement changes
+I added a rewriting feature:
+- If travel distance changes a lot, the diary result should update (the “future” is rewritten).
+- This is a rule-based trigger for now.
 
-![Voice hardware test](assets/img/17.png)
-![Notes / debugging](assets/img/18.png)
-
----
-
-## Next: physical design + input question
-Next step is the form factor. I want a retro-future look (old phone feeling + “future device” behavior).
-
-![Form sketches](assets/img/19.png)
-![Reference images](assets/img/20.png)
-![Enclosure test](assets/img/21.png)
-
-Main open question:
-What kinds of inputs can actually make “future” meaningful?
-GPS + time is too weak. I want to explore other inputs, but also avoid turning this into surveillance.
-
-![Input brainstorm](assets/img/22.png)
-![More notes](assets/img/23.png)
+<img src="17.png" width="49%" />
+<img src="18.png" width="49%" />
 
 ---
 
-## Extra process photos / visits (optional)
-![Visit photo](assets/img/24.png)
-![Market photo](assets/img/25.png)
-![Prototype detail](assets/img/26.png)
-![More detail](assets/img/27.png)
-![Testing](assets/img/28.png)
-![Final prototype shot](assets/img/29.png)
-![Closing image](assets/img/30.png)
+## Voice interaction (attempt)
+I also tried to add voice interaction, but it did not work reliably in this iteration. I plan to solve it later.
+
+<img src="19.png" width="49%" />
+<img src="20.png" width="49%" />
+
+---
+
+## Next step
+Next I will focus on:
+- the physical form factor (retro-future look)
+- what kinds of inputs could make the “future diary” more meaningful (without turning it into surveillance)
