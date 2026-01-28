@@ -71,9 +71,7 @@ _Frames extracted from early web banner GIFs_
 
 Each sticker has three elements: the Banner Depot 2000 logo, the banner ad (vertically interlaced for animation), and a QR code linking to the banner's metadata on the site. I made 5 different banners, 100 stickers each.
 
-<video controls width="100%" muted>
-  <source src="lenticulars-cards/banner-lenticular.mp4" type="video/mp4">
-</video>
+[Lenticular stickers in action](lenticulars-cards/banner-lenticular.mp4)
 
 _Lenticular stickers in action_
 
