@@ -29,12 +29,12 @@
 <br><br>
 <img width="1012" height="618" alt="Screenshot 2026-01-28 at 8 08 21 PM" src="https://github.com/user-attachments/assets/3ed20a04-851f-4ac0-8cba-1f9defd7e72e" />
 
-
 <img src= "https://github.com/user-attachments/assets/3773102c-a62c-405b-b461-c3ab23f529bf"
      alt= "PROJECT"
      width="100%" />
 
-     
+<img width="100%" alt="havFun" src="https://github.com/user-attachments/assets/a0a50387-1f65-4a50-84b8-0f135ae32c0a" />
+
 <img width="1423" height="702" alt="Screenshot 2026-01-28 at 8 09 12 PM" src="https://github.com/user-attachments/assets/9f078ccb-7f01-49d2-8bdb-fc809331158d" />
 
 
@@ -64,16 +64,16 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 ![b1d74e8c0036db91f2e8ba3b9b7b8f23](https://github.com/user-attachments/assets/c97bb3f5-f777-45fb-b5b4-c7617d9e7761)
 
-<img src= ="https://github.com/user-attachments/assets/9335107f-d4d4-48f3-b2ee-664bb49d9093"
-     alt= "CHI 2026"
-     width="100%" />
 
 <img width="511" height="161" alt="Screenshot 2026-01-28 at 8 11 02 PM" src="https://github.com/user-attachments/assets/33273024-4a60-4dae-8eb8-8505990c9668" />
+
+<img width="612" height="324" alt="compressed-CHI" src="https://github.com/user-attachments/assets/473a5389-7b2f-4754-8c3c-d3879c1d3cd6" />
 
 <img width= "100%"  alt="Screenshot 2026-01-28 at 8 06 27 PM" src="https://github.com/user-attachments/assets/34fb6484-18fb-4309-b661-3a39ea01684f" />
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="100%"  alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
 
