@@ -1,4 +1,4 @@
-# First Shenzhen Experience, New Hardware Adventure, and Awesome People!
+<img width="1001" height="516" alt="Screenshot 2026-01-28 at 7 40 36 PM" src="https://github.com/user-attachments/assets/19c81377-d60d-4fea-97e7-07e630345d70" /># First Shenzhen Experience and New Hardware Adventure with Awesome People!
 
 ## CHAPTER 1: How It All Started.
 > It was a decision made just five days before it happened,
@@ -27,11 +27,11 @@
 > We were able to start from sourcing components, testing, designing PCBs, and getting an FPC prototype !
 <br><br>
 
+
 <img src= "https://github.com/user-attachments/assets/3773102c-a62c-405b-b461-c3ab23f529bf"
      alt= "PROJECT"
      width="100%" />
-
-
+     
 <img src="https://github.com/user-attachments/assets/0d1deccc-16b7-4798-aaec-7eb7ebd772e5"
      alt="MK-wiring-prototype"
      width="100%" />
@@ -58,9 +58,15 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 ![b1d74e8c0036db91f2e8ba3b9b7b8f23](https://github.com/user-attachments/assets/c97bb3f5-f777-45fb-b5b4-c7617d9e7761)
 
+<img src= ="https://github.com/user-attachments/assets/9335107f-d4d4-48f3-b2ee-664bb49d9093"
+     alt= "CHI 2026"
+     width="100%" />
+     
+<img width= "100%"  alt="Screenshot 2026-01-28 at 8 06 27 PM" src="https://github.com/user-attachments/assets/34fb6484-18fb-4309-b661-3a39ea01684f" />
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="100%"  alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
 
