@@ -33,8 +33,10 @@
 <img src= "https://github.com/user-attachments/assets/3773102c-a62c-405b-b461-c3ab23f529bf"
      alt= "PROJECT"
      width="100%" />
+
      
 <img width="1423" height="702" alt="Screenshot 2026-01-28 at 8 09 12 PM" src="https://github.com/user-attachments/assets/9f078ccb-7f01-49d2-8bdb-fc809331158d" />
+
 
 <img src="https://github.com/user-attachments/assets/0d1deccc-16b7-4798-aaec-7eb7ebd772e5"
      alt="MK-wiring-prototype"
@@ -72,6 +74,7 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="100%"  alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
+
 
 
 
