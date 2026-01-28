@@ -67,11 +67,12 @@ https://github.com/user-attachments/assets/d33b0c7d-00b2-47d6-bbd1-fecc08d38d24
 
 <img width="100%"  alt="Screenshot 2026-01-28 at 8 06 27 PM" src="https://github.com/user-attachments/assets/34fb6484-18fb-4309-b661-3a39ea01684f" />
 
-<img width="563" height="223" alt="Screenshot 2026-01-28 at 8 28 50 PM" src="https://github.com/user-attachments/assets/8be0d6ee-e196-420c-8468-fc658e5474fe" />
+<img width="100%" alt="Screenshot 2026-01-28 at 8 28 50 PM" src="https://github.com/user-attachments/assets/8be0d6ee-e196-420c-8468-fc658e5474fe" />
 
 > Ending with infinite fruits from Spa Decompression, I'm still dreaming of.
 <img width="100%"  alt="MK-fruits" src="https://github.com/user-attachments/assets/c7b51bd7-a11c-4063-917a-b818662d06c4" />
 ![b1d74e8c0036db91f2e8ba3b9b7b8f23](https://github.com/user-attachments/assets/c97bb3f5-f777-45fb-b5b4-c7617d9e7761)
+
 
 
 
