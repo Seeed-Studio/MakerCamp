@@ -1,6 +1,8 @@
-<img width="1853" height="1050" alt="image" src="https://github.com/user-attachments/assets/5e4f7b1b-0b88-4cff-9103-f603169292bf" />
 ### Shenzhen Recap
-from Darcy Neal
+   
+from the lens of Darcy Neal
+   
+
 [links.darcyneal.com](https://www.links.darcyneal.com)
 
 Shenzhen was amazing. I will definitely be spending more time here in the future, and am so glad I got to join the residency!
@@ -63,9 +65,8 @@ The components get progressively smaller as the assembly carries on, so students
 There's even some 0201 sample footprints for students to practice with! 
 
 
-<img width="1853" height="1050" alt="image" src="https://github.com/user-attachments/assets/502cf46e-f44f-4f52-89ec-7aa20a2dbd2d" />
-
-<img width="1853" height="1050" alt="image" src="https://github.com/user-attachments/assets/e9d2466d-2180-4548-9a84-627292948d9c" />
+<img width="826" height="918" alt="image" src="https://github.com/user-attachments/assets/41fc8c9c-ba07-43ba-8ce4-7e5b6f9f747e" />
+<img width="1407" height="1808" alt="image" src="https://github.com/user-attachments/assets/2bbb0c82-354a-4b7d-9140-d50c6845a58e" />
 
 ### Joulebug Pendant
 
@@ -88,3 +89,4 @@ The design will fit together with tabs and be soldered shut. The drawings themse
 for each part. Even with this technique, the firehorse file itself is so complicated that it still crashes Kicad periodically, 
 which I find quite symbolic. I hope to simplify and send off these designs soon so I can commemorate this special year. 
 <img width="941" height="315" alt="Screenshot 2026-01-28 at 6 32 38 PM" src="https://github.com/user-attachments/assets/23b7b1c3-71f4-482d-a321-69ae44205834" />
+
