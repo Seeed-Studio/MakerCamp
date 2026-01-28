@@ -8,11 +8,10 @@ This is a prototype built during the residency in Shenzhen. It started from Huaq
 ## Huaqiangbei
 I went to Huaqiangbei and saw many phone repair and phone resale stores. A place that caught my attention was the Huaqiangbei Museum. It collects phones from around the 2000s (flip phones, feature phones, early mobile products). These phones are not used anymore, but their form factor and button-driven interaction are still impressive.
 
-<img src="1.png" width="49%" />
-<img src="2.png" width="49%" />
+<img src="1.png" width="100%" />
+<img src="2.png" width="100%" />
 
-<img src="3.png" width="49%" />
-<img src="9.png" width="49%" />
+<img src="3.png" width="100%" />
 
 <!-- 4–8 in one row -->
 <div>
@@ -22,13 +21,13 @@ I went to Huaqiangbei and saw many phone repair and phone resale stores. A place
   <img src="7.png" width="19%" />
   <img src="8.png" width="19%" />
 </div>
-
+<img src="9.png" width="100%" />
 ---
 
 ## Reference: Mirai Nikki (Future Diary)
 This reminded me of the anime *Mirai Nikki (Future Diary)*. In the story, the protagonist receives a phone that gets messages about future events. The messages arrive irregularly.
 
-<img src="10.png" width="70%" />
+<img src="10.png" width="100%" />
 
 ---
 
@@ -84,3 +83,4 @@ I also tried to add voice interaction, but it did not work reliably in this iter
 Next I will focus on:
 - the physical form factor (retro-future look)
 - what kinds of inputs could make the “future diary” more meaningful (without turning it into surveillance)
+
