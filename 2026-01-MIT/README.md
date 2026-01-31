@@ -4,7 +4,6 @@ During the yearly [Research At Scale](https://www.media.mit.edu/posts/research-a
 
 The research residency started with the <u><a href="https://scalablehci.com/">Scalable HCI Symposium</a></u>, a 1-week accelerated introduction of the Shenzhen ecosystem, organized in collaboration with <u><a href="https://designschool.sustech.edu.cn/">SUSTech</a></u> and <u><a href="https://airs.cuhk.edu.cn/article/998">AIRS</a></u>.
 
-
 <!--
 Here is a video overview made in collaboration with <u><a href="https://designschool.sustech.edu.cn/">SUSTech</a></u> and <u><a href="https://airs.cuhk.edu.cn/article/998">AIRS</a></u>:
 
@@ -13,59 +12,65 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 </a>
 -->
 
-
 <br>
-
 
 ## Main cohort reports:
 
 Tips for your documentation:
 
-
-1) prepare a 120 x 120 pixel photo, then you can:
+1. prepare a 120 x 120 pixel photo, then you can:
 
 - either put it in your personal folder and use the URL below...
 
 - or drag and drop it on this file from the github interface, and it will give you an ID (see YourPhotoID below and the examples underneath):
 
-
-2) Your folders and personal README.md files are already there, you just need to edit them using the examples below (keep it concise, focusing on what you prototyped/built):
-
+2. Your folders and personal README.md files are already there, you just need to edit them using the examples below (keep it concise, focusing on what you prototyped/built):
 
 <br><img align="left" src="https://github.com/user-attachments/assets/YourPhotoID" height='120'>
- **[Your Name](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/YourName)**
-   - **Keywords**: TODO
-   - [Personal website](TODO)
+**[Your Name](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/YourName)**
+
+- **Keywords**: TODO
+- [Personal website](TODO)
 
 <br><img align="left" src="Jake/images/pfp_500.jpg" height='120'>
- **[Jake Read](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake)**
-   - **Keywords**: Machine Control, Motor Control, Modular Embedded Systems
-   - [Personal website](https://ekswhyzee.com/2026/01/20/shenzhen.html)
+**[Jake Read](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake)**
+
+- **Keywords**: Machine Control, Motor Control, Modular Embedded Systems
+- [Personal website](https://ekswhyzee.com/2026/01/20/shenzhen.html)
+
+<br><img align="left" src="Yufeng/assets/pfp_500.jpg" height='120'>
+**[Yufeng Zhao](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Yufeng)**
+
+- **Keywords**: Modular Camera Arrays, Lenticular Printing, 360° OCR
+- [Personal website](https://yufengzhao.com)
 
 <br>
 
 ## Example reports from 2025:
 
 <br><img align="left" src="https://github.com/user-attachments/assets/0f16c4e8-e80c-4008-9430-99b7acefeb9e" height='120'>
- **[Andy Kong](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Andy)**
-   - **Keywords**: Ultra-Low Power Wearables, Interactive Implants
-   - [Personal website](https://andykong.org)
+**[Andy Kong](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Andy)**
+
+- **Keywords**: Ultra-Low Power Wearables, Interactive Implants
+- [Personal website](https://andykong.org)
 
 <br><img align="left" src="https://github.com/user-attachments/assets/e06a942a-2259-4804-b576-55f4e33288ff" height='120'>
- **[Jason Hou](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Jason)**
-   - **Keywords**: Bio-Engineering, Ultrasound Imaging, Artistic Exploration
-   - [Personal website](https://conformabledecoders.media.mit.edu/people/jasonhou.html)
+**[Jason Hou](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Jason)**
+
+- **Keywords**: Bio-Engineering, Ultrasound Imaging, Artistic Exploration
+- [Personal website](https://conformabledecoders.media.mit.edu/people/jasonhou.html)
 
 <br><img align="left" src="https://github.com/user-attachments/assets/2111aca8-479a-4905-bdce-033b7b5f744e" height='120'>
- **[Lingdong Huang](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Lingdong)**
-   - **Keywords**: Creative Technology, Musical Interfaces, Serendipitous Prototyping
-   - [Personal website](https://lingdong.works)
+**[Lingdong Huang](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Lingdong)**
+
+- **Keywords**: Creative Technology, Musical Interfaces, Serendipitous Prototyping
+- [Personal website](https://lingdong.works)
 
 <br><img align="left" src="https://github.com/user-attachments/assets/0825ab0d-a98c-4f7a-9b03-d9723ed98072" height='120'>
- **[Patrick Chwalek](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Patrick)**
-   - **Keywords**: Embedded Hardware, Environmental Sensing, Animal Tracking
-   - [Personal website](https://patrickchwalek.com)
+**[Patrick Chwalek](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Patrick)**
 
+- **Keywords**: Embedded Hardware, Environmental Sensing, Animal Tracking
+- [Personal website](https://patrickchwalek.com)
 
 <br><br>
 
@@ -78,9 +83,10 @@ After a decade of MIT-only participation, we experimented with a more open appro
 Here is an example from 2025:
 
 <br><img align="left" src="https://github.com/user-attachments/assets/80d98675-190b-4d13-b5db-0b8fa035124c" height='120'>
- **[Eli Silver](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Eli)** (Brown University)
-   - **Keywords**: Cable-driven gantry robot, AI camera system, Smart workspace
-   - [Personal website](https://elisilver.com/)
+**[Eli Silver](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Eli)** (Brown University)
+
+- **Keywords**: Cable-driven gantry robot, AI camera system, Smart workspace
+- [Personal website](https://elisilver.com/)
 
 <br>
 
