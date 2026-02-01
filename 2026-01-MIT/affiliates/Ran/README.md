@@ -68,11 +68,11 @@ I also attended several workshops conducted by fellow residents, where I learned
 - I also learned an entirely new skill in CJ Pais’s sewing workshop. With his patient guidance, I made my first zippered bag and, more importantly, learned the process well enough to repeat it independently. I even went on to make a second bag using washable paper! 
 
 ## Acknowledgements
-I would like to sincerely thank Cedric Honnet for organizing such an inspiring residency and for inviting me to take part. My thanks also go to Chaihuo Makerspace for hosting us, and to Ellie Cai for taking such thoughtful care of us throughout our time working there.
+I would like to sincerely thank Cedric Honnet for organizing such an inspiring residency and for inviting me to take part. My thanks also go to Chaihuo Makerspace for hosting us, and to Ellie Cai for taking such thoughtful care of us throughout our time working there. I am also grateful to Seeed for their technical support and for providing discounts for PCBA production. 
 
-I am also grateful to Seeed for their technical support and for providing discounts for PCBA production. Finally, I would like to thank my supervisor, Madeline Balaam, for her generous support of my residency trip.
-
+Finally, I would like to thank my supervisor, Madeline Balaam, for her generous support of my residency trip.
 My residency was funded by the European Union (ERC, Intimate Touch, 101043637). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.
 
 Shenzhen, I’ll definitely be back. Hopefully soon!
+
 
