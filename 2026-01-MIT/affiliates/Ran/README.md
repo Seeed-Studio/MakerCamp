@@ -22,7 +22,7 @@ Visiting factories and Huaqiangbei was a unique and eye-opening experience. It w
 
 ## From Research Prototype to Research Product
 ![tactorbots](images/tactorbots.png)
-Taking the opportunity of the researcher scale residency, I aim to optimize my [TactorBots](https://www.ranzhourobot.com/#/tactorbots/) toolkit. TactorBots is an open-sourced haptic toolkit to empower designers to explore emotional robotic touch. It contains eight plug-and-play wearable tactor modules that render a series of social gestures in a machinery way. Our specialized web GUI allows easy control, modification, and storage of tactile patterns to support fast prototyping.
+Taking the opportunity of the research at scale residency, I aim to optimize my [TactorBots](https://www.ranzhourobot.com/#/tactorbots/) toolkit. TactorBots is an open-sourced haptic toolkit to empower designers to explore emotional robotic touch. It contains eight plug-and-play wearable tactor modules that render a series of social gestures in a machinery way. Our specialized web GUI allows easy control, modification, and storage of tactile patterns to support fast prototyping.
 
 ### TactorBots 1.0 - Manually fixed PCB
 ![manufacturing](images/tactorbots_1.0.png)
@@ -74,5 +74,6 @@ Finally, I would like to thank my supervisor, Madeline Balaam, for her generous 
 My residency was funded by the European Union (ERC, Intimate Touch, 101043637). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.
 
 Shenzhen, I’ll definitely be back. Hopefully soon!
+
 
 
