@@ -57,16 +57,12 @@ I was also able to source a variety of conductive soft materials on Taobao:
 ![IMG_8757](https://github.com/user-attachments/assets/a61892d3-6879-4066-8329-cf1eb05cbc30)
 
 
-I also made another housing board for my XIAO board:
-
-![IMG_8678 2](https://github.com/user-attachments/assets/22ccd2a0-d166-4290-b526-901e7b6fca86)
-
-
 For more project updates, please visit my website willayang.com. 
 
 # Thank you x 1000
 
 I'd like to say thank you to ScalableHCI, SUSTECH, AIRS, and Seeed for hosting such a fun visit and program in Shenzhen! Huge thank you to Seungwoo, Zinn, and Cedric for organizing. A special shoutout to Cedric. He’s been constantly taking care of the big group and creating an inviting, inspiring environment for people from different communities! I had a truly unique and amazing experience and would love to come back again! 
+
 
 
 
