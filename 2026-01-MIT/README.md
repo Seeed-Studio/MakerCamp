@@ -88,9 +88,16 @@ Here is an example from 2025:
 - **Keywords**: Cable-driven gantry robot, AI camera system, Smart workspace
 - [Personal website](https://elisilver.com/)
 
+
 <br>
 
 TODO: add new affiliates!
+
+<br><img align="left" src="affiliates/Ran/images/ran-photo.png" height='120'>
+**[Ran Zhou](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Ran)** (KTH Royal Institute of Technology)
+
+- **Keywords**: Expressive Robotic Touch, Haptic Design Toolkits, Tangible Interaction
+- [Personal website](https://www.ranzhourobot.com/)
 
 <br><br><br>
 
