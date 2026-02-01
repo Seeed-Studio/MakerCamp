@@ -45,11 +45,11 @@ https://doi.org/10.1145/3772318.3790357
 
 My main goal is to make a soft blade for capacitive sensing. The blade needs to be very soft and safe to touch even while spinning at high speed. One great thing about making this in Shenzhen is being able to quickly test and iterate on material softness.
 
+![IMG_8675](https://github.com/user-attachments/assets/a0b45b1b-3e28-4670-ba66-bae891e4e988)
+
 ![IMG_8677 2](https://github.com/user-attachments/assets/e7566c36-a9e6-43cf-ba8f-be7fd66d9e7d)
 
 ![IMG_8682](https://github.com/user-attachments/assets/a15c6a19-f35b-4435-abbe-bb0273c74adf)
-
-![IMG_8675](https://github.com/user-attachments/assets/a0b45b1b-3e28-4670-ba66-bae891e4e988)
 
 
 I was also able to source a variety of conductive soft materials on Taobao:
@@ -62,6 +62,7 @@ For more project updates, please visit my website willayang.com.
 # Thank you x 1000
 
 I'd like to say thank you to ScalableHCI, SUSTECH, AIRS, and Seeed for hosting such a fun visit and program in Shenzhen! Huge thank you to Seungwoo, Zinn, and Cedric for organizing. A special shoutout to Cedric. He’s been constantly taking care of the big group and creating an inviting, inspiring environment for people from different communities! I had a truly unique and amazing experience and would love to come back again! 
+
 
 
 
