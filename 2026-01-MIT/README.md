@@ -99,7 +99,15 @@ TODO: add new affiliates!
 - **Keywords**: Expressive Robotic Touch, Haptic Design Toolkits, Tangible Interaction
 - [Personal website](https://www.ranzhourobot.com/)
 
+
+
+<br><img align="left" src="https://github.com/user-attachments/assets/fce77257-87be-4378-97da-36e97a614f25" height='120'>
+**[Willa Yang](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Willa)** (University of Chicago)
+
+- **Keywords**: Environmental Augmentation, Mid-Air Touch Display, Tangible Interaction
+- [Personal website](https://willayang.com)
 <br><br><br>
+
 
 <!--
 ![group photos](https://github.com/user-attachments/assets/5362d43d-85de-432c-ac26-512f0175ca06)
