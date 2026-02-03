@@ -20,13 +20,13 @@ I'm [CJ](https://cjpais.com). I'm an open source developer, working on [Handy](h
 
 My main project at the residency was prototyping hardware for a 'handy button'. It would be a dedicated speech-to-text device that you could plug into any computer and have it type for you by speaking.
 
-Basically I've found out through making Handy, software can be hard and annoying so what if you could sidestep the whole thing by putting speech-to-text into a dedicated hardware device? Essentially a voice keyboard—plug it in, talk to it, it types.
+Basically I've found out through making Handy, software can be hard and annoying so what if you could sidestep the whole thing by putting speech-to-text into a dedicated hardware device? Essentially a voice keyboard. Plug it in, press a button, talk and it types whatever you say.
 
-Technically speaking this would look like
+**Technically speaking this would look like:**
 
 speak -> microphone -> speech to text model -> turn transcription into keypresses with keyboard HID output -> computer
 
-There basically were 2 main tasks.
+**There basically were 2 main tasks:**
 1. What hardware/software combo would provide a good user experience? What even is a good user experience?
 2. What form factor would be fun and interesting?
 
@@ -78,7 +78,7 @@ The makerspace had a sewing machine, but it was in pretty bad shape. I bought so
 
 Once it was running, I led a small sewing workshop. The project: a simple zippered bag that teaches the basics—working with zippers and sewing boxed corners. A good intro for anyone who hasn't sewn before.
 
-![zpppered bag](zpp.jpg)
+![zpppered bag](zpp.JPG)
 
 ---
 
