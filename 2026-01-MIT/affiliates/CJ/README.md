@@ -78,7 +78,7 @@ The makerspace had a sewing machine, but it was in pretty bad shape. I bought so
 
 Once it was running, I led a small sewing workshop. The project: a simple zippered bag that teaches the basics—working with zippers and sewing boxed corners. A good intro for anyone who hasn't sewn before.
 
-![zpppered bag](zpp.JPG)
+![zpppered bag](zpp.jpeg)
 
 ---
 
