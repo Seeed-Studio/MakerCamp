@@ -16,7 +16,7 @@ I'm [CJ](https://cjpais.com). I'm an open source developer, working on [Handy](h
 
 ### Handy Button — Hardware Speech-to-Text
 
-![octopus lamp handy button](octo-speech.png)
+![octopus lamp handy button](octo-speech.jpeg)
 
 My main project at the residency was prototyping hardware for a 'handy button'. It would be a dedicated speech-to-text device that you could plug into any computer and have it type for you by speaking.
 
