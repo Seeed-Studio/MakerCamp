@@ -1,4 +1,4 @@
-![CJ Profile](IMG_3057.jpeg)
+![CJ Profile](cj.jpeg)
 
 I'm [CJ](https://cjpais.com). I'm an open source developer, working on [Handy](https://handy.computer). My main curiosity coming to Shenzhen was understanding the pipeline from idea to prototype to small-scale production to manufacturing at scale—and how this process can become more accessible to people. I've made a bunch of random things over the years. Surfboards, backpacks, bike bags, garments, software, the list goes on. I was really curious about how things are made in the world especially moving up from the single person make a thing mentality.
 
