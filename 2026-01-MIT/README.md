@@ -44,6 +44,12 @@ Tips for your documentation:
 - **Keywords**: Modular Camera Arrays, Lenticular Printing, 360° OCR
 - [Personal website](https://yufengzhao.com)
 
+<br><img align="left" src="Ben/media/headshot_f25_small.jpg" height='120'>
+**[Ben Weiss](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Ben)**
+
+- **Keywords**: Environmental Sensing, Climate Solutions, Marine Robotics
+- [Personal website](https://www.benweiss-portfolio.com/)
+  
 <br>
 
 ## Example reports from 2025:
