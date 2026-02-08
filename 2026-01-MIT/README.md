@@ -37,7 +37,7 @@ Tips for your documentation:
 
 - **Keywords**: Architecture, Generative AI Hardware, Context-Aware
 - [Personal website](www.shengtao.space)
-- 
+  
 <br><img align="left" src="Jake/images/pfp_500.jpg" height='120'>
 **[Jake Read](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake)**
 
