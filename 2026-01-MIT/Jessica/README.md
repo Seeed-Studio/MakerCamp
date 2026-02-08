@@ -7,10 +7,10 @@ Here are some good birds I met.
 
 |  |  |
 |---|---|
-| ![bulbul](imgs/bulbul.JPG) | ![dove](imgs/myra.JPG) |
-|  ![herons](imgs/herons.JPG) | ![laughing](imgs/laughing.JPG) |
-| ![myra](imgs/dove.JPG) | ![robin](imgs/robin.JPG) |
-| ![wagtail](imgs/wagtail.JPG) | ![whiteeye](imgs/whiteeye.JPG) |
+| ![bulbul](imgs/bulbul.jpg) | ![dove](imgs/myra.jpg) |
+|  ![herons](imgs/herons.jpg) | ![laughing](imgs/laughing.jpg) |
+| ![myra](imgs/dove.jpg) | ![robin](imgs/robin.jpg) |
+| ![wagtail](imgs/wagtail.jpg) | ![whiteeye](imgs/whiteeye.jpg) |
 
 The first week was the symposium, which was non-stop, including the essential Shenzhen things, like seeing a factory doing injection molding, visiting Seeed, and an HQB visit.
 
@@ -46,18 +46,18 @@ Early on, I looked through the materials available in the makerspace and connect
 The idea is that it's something I can tuck in the palm of my hand while live coding, and then switch between typing and manipulating. I usually use a MIDI controller with dials for this. (I do not like using a mouse.
 
 
-![toobig](imgs/typing.png)
+![toobig](imgs/typing.jpg)
 (photo credit 天洋)
 
 As a prototype, I crammed this into a palm-shaped model I built last year for the How to Make class. It took a while to fix the geometry, and then it took a while to figure out how I wanted to place everything.
 
 I spent some time revising the 3D model I had in my final project for How to Make Almost Anything, because it already had a pleasing shape to wear in your palm. I hollowed it out again, put in the new devices, and then tried to simplify the shape. My process here is long: I print out one (only an hour), put it in my palm, and try to notice how many things are wrong with it: the pins on the Xiao stuck through too far, so I needed to make room for those. There is an awkward part in the geometry on my palm. Then I revise and print another copy.
 
-![several](imgs/several.jpeg)
+![several](imgs/several.jpg)
 
 I dislike my model a lot. It doesn't seem to be how Fusion wants me to make it. Lofts don't loft, rails don't help, and splitting objects rarely works because of odd intersections.
 
-![several](imgs/badgeometry.png)
+![several](imgs/badgeometry.jpg)
 
 I looked at how much of my space was taken up by chunky guys: Grove uses a large connector (which is probably great for environmental sensors) that I was working around.
 
@@ -65,10 +65,10 @@ I could make a little board that skips the connectors and put the sensors all on
 
 I haven't milled or assembled the board yet, but when I'm done, it should be able to fit nicely on a Xiao with plenty of room to spare on the board. Tiles are very cool!
 
-![layout](imgs/layout.png)
+![layout](imgs/layout.jpg)
 
 
-![future](imgs/future.jpeg)
+![future](imgs/future.jpg)
 
 
 ### PCB Art
@@ -88,15 +88,13 @@ Since this is my page, I'm going to put pictures of my own visuals, but every pe
 ![pink](imgs/pink.jpg)
 (photo credit Nico!)
 
-![color](imgs/color.png)
+![color](imgs/color.jpg)
 (photo credit 一笑)
 
 ![pick](imgs/pick.jpg)
 (photo credit Nico!)
 
-![cedric](imgs/cedric.jpeg)
+![cedric](imgs/cedric.jpg)
 
-
-Someone caught 90 seconds of me typing. I'm glad it looked as intense as it feels.
 
 It was an unbelievable venue and a really nice night. Thanks everyone for making it happen!
