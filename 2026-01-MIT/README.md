@@ -112,7 +112,6 @@ TODO: add new affiliates!
 
 - **Keywords**: Environmental Augmentation, Mid-Air Touch Display, Tangible Interaction
 - [Personal website](https://willayang.com)
-<br>
 
 <br><img align="left" src="affiliates/CJ/cj.jpeg" height='120'>
 **[CJ Pais](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/CJ)**
