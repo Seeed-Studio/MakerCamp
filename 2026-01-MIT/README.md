@@ -55,7 +55,13 @@ Tips for your documentation:
 
 - **Keywords**: Environmental Sensing, Climate Solutions, Marine Robotics
 - [Personal website](https://www.benweiss-portfolio.com/)
-  
+
+<br><img align="left" src="Miranda/miranad.jpg" height='120'>
+**[Miranda Li](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Miranda)**
+
+- **Keywords**: Critical HRI, Monster Theory
+- [Personal website (very out of date)](https://mirandali707.github.io/)
+
 <br>
 
 ## Example reports from 2025:
