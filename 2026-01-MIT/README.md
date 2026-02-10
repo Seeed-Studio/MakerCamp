@@ -68,7 +68,13 @@ Tips for your documentation:
 - **Keywords**: Robotics, HRI, Mobility
 - [Personal website ](https://jonny-cohen.com/)
 
-<br>
+
+<br><img align="left" src="Jessica/imgs/jessica.jpg" height='120'>
+**[Jessica Stringham](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Jessica)**
+
+- **Keywords**: Realtime Visuals in Rust, Controllers, Birds
+- [Personal website](https://thisxorthat.art/)
+
 
 ## Example reports from 2025:
 
