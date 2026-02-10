@@ -44,6 +44,12 @@ Tips for your documentation:
 - **Keywords**: Machine Control, Motor Control, Modular Embedded Systems
 - [Personal website](https://ekswhyzee.com/2026/01/20/shenzhen.html)
 
+<br><img align="left" src="Michelle/images/michelle-profile-id.png" height='120'>
+**[Minsol Michelle Kim](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Michelle)**
+
+- **Keywords**: Wearable Sensing for Health and Wellness, Human-Computer Interaction, Multimodal AI
+- [Personal website](https://www.media.mit.edu/people/minsol/overview/)
+
 <br><img align="left" src="Yufeng/assets/pfp_500.jpg" height='120'>
 **[Yufeng Zhao](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Yufeng)**
 
