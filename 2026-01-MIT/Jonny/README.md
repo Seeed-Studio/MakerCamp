@@ -1,5 +1,7 @@
 # Research at Scale in Shenzhen 2026 | Jonny Cohen 
 
+![headshot](images/headshot.png)
+
 **Introduction**
 Hi Everyone, my name is Jonny Cohen and I am a second year MIT Media Lab masters student in the [City Science Group](https://www.media.mit.edu/groups/city-science/overview/). My work is focused at the intersection of mobility and social robotics.
 
@@ -98,3 +100,4 @@ The below motor is reacting to the photodiode
 Shenzhen is an extremely interesting place. I feel lucky to have been selected to participate in this residency. Big thank you to Seeed and the other sponsors for making this happen. Another very big thank you to Cedric, Zinn, and Seungwoo for organizing this awesome program.
 
 Hoping to be back soon!
+
