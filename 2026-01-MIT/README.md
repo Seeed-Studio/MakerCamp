@@ -62,7 +62,7 @@ Tips for your documentation:
 - **Keywords**: Critical HRI, Monster Theory
 - [Personal website (very out of date)](https://mirandali707.github.io/)
 
-- <br><img align="left" src="Jonny/images/headshot.png" height='120'>
+<br><img align="left" src="Jonny/images/headshot.png" height='120'>
 **[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/jonny)**
 
 - **Keywords**: Robotics, HRI, Mobility
