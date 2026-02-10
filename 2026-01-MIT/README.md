@@ -85,7 +85,7 @@ Tips for your documentation:
 <br><img align="left" src="Sam/images/headshot.png" height='120'>
 **[Sam Chin](https://github.com/Seeed-Studio/MakerCamp/blob/main/2026-01-MIT/Sam/README.md)**
 
-- **Keywords**: Electronics, Ceramics, Interactive Art, Haptics
+- **Keywords**: Electronics, Interactive Ceramics, Haptics
 - [Personal website](https://samch.in)
 
 ## Example reports from 2025:
