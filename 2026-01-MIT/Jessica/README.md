@@ -3,7 +3,7 @@
 This month in Shenzhen was several eye-opening and learning curves.
 It was my first time in China, so I spent a good amount of time sorting out phone numbers and Didi and WeChat and Alipay and Taobao, along with the metro, how to feed myself as a vegetarian, and the good birdwatching spots.
 
-Here are some good birds I met.
+I think since the rest of the cohort and cohorts past have posted great pictures of HQB and the factories, here is a unique contribution of some good birds I met around the makerspace.
 
 |  |  |
 |---|---|
@@ -98,3 +98,4 @@ Since this is my page, I'm going to put pictures of my own visuals, but every pe
 
 
 It was an unbelievable venue and a really nice night. Thanks everyone for making it happen!
+
