@@ -37,7 +37,7 @@ Tips for your documentation:
 
 - **Keywords**: Architecture, Generative AI Hardware, Context-Aware
 - [Personal website](https://www.shengtao.space/)
-  
+
 <br><img align="left" src="Jake/images/pfp_500.jpg" height='120'>
 **[Jake Read](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake)**
 
@@ -81,6 +81,12 @@ Tips for your documentation:
 - **Keywords**: Realtime Visuals in Rust, Controllers, Birds
 - [Personal website](https://thisxorthat.art/)
 
+
+<br><img align="left" src="Sam/images/headshot.png" height='120'>
+**[Sam Chin](https://github.com/Seeed-Studio/MakerCamp/blob/main/2026-01-MIT/Sam/README.md)**
+
+- **Keywords**: Electronics, Ceramics, Interactive Art, Haptics
+- [Personal website](https://samch.in)
 
 ## Example reports from 2025:
 
