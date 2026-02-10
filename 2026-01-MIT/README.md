@@ -66,7 +66,7 @@ Tips for your documentation:
 **[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/jonny)**
 
 - **Keywords**: Robotics, HRI, Mobility
-- [Personal website ](https://jonny-cohen.com)
+- [Personal website ](https://jonny-cohen.com/)
 
 <br>
 
