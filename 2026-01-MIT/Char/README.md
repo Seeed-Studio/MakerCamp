@@ -2,7 +2,7 @@
 
 ## Performance at Shenzhen Robot Theater
 
-I collaborated with [Loay Yari](https://yari4embedded.com) to create custom hardware for a performance at the Shenzhen Robot Theater.
+I collaborated with [Loay Yari](https://www.linkedin.com/in/loay-yari-50156042/?originalSubdomain=cn) to create custom hardware for a performance at the Shenzhen Robot Theater.
 
 ![Performance 1](media/1.gif)
 ![Performance 2](media/2.gif)
@@ -31,7 +31,7 @@ Using Cedric's idea, I experimented with laser cutting to manufacture PCB boards
 
 From the PCB's perspective, I made some tests for larger traces.
 
-![PCB POV](media/11.png)
+<!-- ![PCB POV](media/11.png) -->
 
 ![Larger traces test](media/12.png)
 
