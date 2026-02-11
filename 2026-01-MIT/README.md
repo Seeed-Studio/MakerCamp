@@ -27,7 +27,7 @@ Tips for your documentation:
 2. Your folders and personal README.md files are already there, you just need to edit them using the examples below (keep it concise, focusing on what you prototyped/built):
 
 <br><img align="left" src="https://github.com/user-attachments/assets/YourPhotoID" height='120'>
-**[Your Name](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/YourName)**
+**[Your Name](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/YourName)**
 
 - **Keywords**: TODO
 - [Personal website](TODO)
@@ -45,7 +45,7 @@ Tips for your documentation:
 - [Personal website](https://ekswhyzee.com/2026/01/20/shenzhen.html)
 
 <br><img align="left" src="Michelle/images/michelle-profile-id.png" height='120'>
-**[Minsol Michelle Kim](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Michelle)**
+**[Minsol Michelle Kim](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Michelle)**
 
 - **Keywords**: Wearable Sensing for Health and Wellness, Human-Computer Interaction, Multimodal AI
 - [Personal website](https://www.media.mit.edu/people/minsol/overview/)
@@ -57,7 +57,7 @@ Tips for your documentation:
 - [Personal website](https://yufengzhao.com)
 
 <br><img align="left" src="Char/media/bio.png" height='120'>
-**[Char Stiles](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Char)**
+**[Char Stiles](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Char)**
 
 - **Keywords**: Laser cutting, DIY PCB, Wearable for performance
 - [Personal website](https://charstiles.com)
@@ -69,20 +69,20 @@ Tips for your documentation:
 - [Personal website](https://www.benweiss-portfolio.com/)
 
 <br><img align="left" src="Miranda/miranad.jpg" height='120'>
-**[Miranda Li](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Miranda)**
+**[Miranda Li](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Miranda)**
 
 - **Keywords**: Critical HRI, Monster Theory
 - [Personal website (very out of date)](https://mirandali707.github.io/)
 
 <br><img align="left" src="Jonny/images/headshot.png" height='120'>
-**[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/jonny)**
+**[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny)**
 
 - **Keywords**: Robotics, HRI, Mobility
 - [Personal website ](https://jonny-cohen.com/)
 
 
 <br><img align="left" src="Jessica/imgs/jessica.jpg" height='120'>
-**[Jessica Stringham](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Jessica)**
+**[Jessica Stringham](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jessica)**
 
 - **Keywords**: Realtime Visuals in Rust, Controllers, Birds
 - [Personal website](https://thisxorthat.art/)
