@@ -56,6 +56,12 @@ Tips for your documentation:
 - **Keywords**: Modular Camera Arrays, Lenticular Printing, 360° OCR
 - [Personal website](https://yufengzhao.com)
 
+<br><img align="left" src="Char/media/bio.png" height='120'>
+**[Char Stiles](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Char)**
+
+- **Keywords**: Laser cutting, DIY PCB, Wearable for performance
+- [Personal website](https://charstiles.com)
+
 <br><img align="left" src="Ben/media/headshot_f25_small.jpg" height='120'>
 **[Ben Weiss](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Ben)**
 
