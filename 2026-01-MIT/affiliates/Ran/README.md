@@ -17,7 +17,7 @@ My research focuses on developing new methodologies, tools, and theories that en
 Scalable HCI has clearly become a legitimate conference! With over 200 attendees, inspiring keynotes, demos, and posters, the symposium had a strong energy throughout. I was especially happy to reconnect with friends and meet new people in such a semi-academic vibe.
 
 ## Manufacturing Visit
-![manufacturing](images/manufacturing.png)
+![manufacturing](images/manufacturing.jpg)
 Visiting factories and Huaqiangbei was a unique and eye-opening experience. It was fascinating to see how injection molding and PCBs are made in practice. While I had previously seen SMT processes in videos, watching machines match, pick, and precisely place tiny components onto PCB surfaces in person was still astonishing. The equipment itself was also much more compact than I had imagined. What struck me most was the level of detail involved in every manufacturing process, particularly the rapid steps in testing and verification. This is very different from how we typically create and fabricate research prototypes.
 
 ## From Research Prototype to Research Product
@@ -47,10 +47,10 @@ While sharing my progress in Shenzhen on Instagram story, the original electrica
 The original TactorBots enclosures were printed in clear PLA using FDM printing on a glass bed. During this residency, I experimented with clear resin printing for the first time, and the results were surprisingly good. This motivated me to push one example module toward true product-level quality. While visiting Huaqiangbei, I discovered a new type of magnet-based watch strap. I ordered straps in orange and white and redesigned the TactorBots case to integrate with the new belt connectors. To maximize quality, I printed the cases using 0.2 mm nozzles on a Bambu A1 Mini, using the highest-quality print settings, and carefully assembled all components. Together, these changes brought the module much closer to a polished, product-like artifact. I consider TactorBots 1.0 to be a highly complete research prototype. Through this process, however, I came to better understand the potential and the additional work required for it to evolve into a scalable research product.
 
 ## Material exploration
-![manufacturing](images/films.png)
+![manufacturing](images/films.jpg)
 Another project I have been working on during the residency focused on exploring different materials for prototyping haptic HASEL (Hydraulically Amplified Soft Electrostatic) actuators. Thanks to Ellie Cai, who helped me receive a lot of packages before I arrived at the makerspace, I was able to start experimenting immediately. I explored a range of heat-sealable films, including 8 kg BOPP plastic, elastic, and non-elastic TPU films in various thicknesses.
 
-![manufacturing](images/heat-sealing.png)
+![manufacturing](images/heat-sealing.jpg)
 Within the makerspace, I tried multiple fabrication approaches. These included freehand heat sealing using a soldering iron, as well as heat sealing directly with 3D printer nozzles. I experimented with the fancy Bambu H2C (Thanks, Aaron Rau!) and also with a Bambu A1 Mini, adapting it to work with materials such as Teflon film and Kapton film.
 
 ![manufacturing](images/face_mask.gif)
@@ -58,7 +58,7 @@ Within the makerspace, I tried multiple fabrication approaches. These included f
 This exploration is still at an early stage, but I tried with unconventional forms, such as face masks that are worn on the ear, which showed potential for producing subtle and intriguing tactile sensations on the face. I will continue my exploration by bringing those materials and lessons back. 
 
 ## Workshops
-![manufacturing](images/workshops.png)
+![manufacturing](images/workshops.jpg)
 I also attended several workshops conducted by fellow residents, where I learned different perspectives and skills:
 
 - Darcy Neal’s Art PCB workshop was an eye-opening experience that revealed the creative possibilities of PCB design beyond engineering and functionality. It encouraged me to think of circuit boards as a design canvas

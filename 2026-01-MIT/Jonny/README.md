@@ -50,7 +50,7 @@ I went to HK to visit
 ![UBTech](images/uptech.png)
 ![Street](images/street.png)
 
-![DJI](images/DJI.png)
+![DJI](images/dji.png)
 
 
 **Building Art Actuator**

@@ -18,7 +18,7 @@ Over the summer I worked for a company called Baochip, which has developed a new
 
 There are already a bunch of Xiaos that exist—look at this picture I took. I also use Xiaos frequently in my own work!
 
-![Xiao on murata](images/examplexiao1.png) ![Xiao on ceramic](images/examplexiao2.png)
+![Xiao on murata](images/examplexiao1.jpg) ![Xiao on ceramic](images/examplexiao2.png)
 
 ## The Concept: Xiǎobāo
 
@@ -54,7 +54,7 @@ The CSP package posed an interesting challenge: you can't place two via-in-pads 
 
 After that, I got to do something fun: I reviewed my design with Linus (he said his English name is after Linus Torvalds, the founder of Linux), the engineer who designed my favorite Xiao—the Xiao ESP32-S3. It was a solid design review, and it was cool to meet the person who designed something I use so frequently in my work.
 
-<img src="images/linus.png" alt="Linus" />
+<img src="images/linus.jpg" alt="Linus" />
 
 ## Current Status
 

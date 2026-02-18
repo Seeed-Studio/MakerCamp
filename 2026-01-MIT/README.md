@@ -10,91 +10,97 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 <a href="https://scalablehci.com/assets/video25.mp4" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/b1618a4b-6325-4c41-84af-56d2ef4d9835" alt="Watch the video" width="600px" />
 </a>
--->
 
 <br>
+-->
 
-## Main cohort reports:
+## MIT cohort:
 
 
-<br><img align="left" src="Ben/media/headshot_f25_small.jpg" height='120'>
+![Full group photo](assets/all_MIT.jpg)
+
+<br> 
+
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Ben"><img align="left" src="assets/ben.jpg" height='120'></a>
 **[Ben Weiss](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Ben)**
 
 - **Keywords**: Environmental Sensing, Climate Solutions, Marine Robotics
 - [Personal website](https://www.benweiss-portfolio.com/)
 
+<br>
 
-
-<br><img align="left" src="Char/media/bio.png" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Char"><img align="left" src="assets/char.jpg" height='120'></a>
 **[Char Stiles](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Char)**
 
 - **Keywords**: Laser cutting, DIY PCB, Wearable for performance
 - [Personal website](https://charstiles.com)
 
+<br>
 
-
-<br><img align="left" src="Jake/images/pfp_500.jpg" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake"><img align="left" src="assets/jake.jpg" height='120'></a>
 **[Jake Read](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake)**
 
 - **Keywords**: Machine Control, Motor Control, Modular Embedded Systems
 - [Personal website](https://ekswhyzee.com/2026/01/20/shenzhen.html)
 
+<br>
 
-
-<br><img align="left" src="Jessica/imgs/jessica.jpg" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jessica"><img align="left" src="assets/jessica.jpg" height='120'></a>
 **[Jessica Stringham](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jessica)**
 
 - **Keywords**: Realtime Visuals in Rust, Controllers, Birds
 - [Personal website](https://thisxorthat.art/)
 
+<br>
 
-
-<br><img align="left" src="Jonny/images/headshot.png" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny"><img align="left" src="assets/jonny.jpg" height='120'></a>
 **[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny)**
 
 - **Keywords**: Robotics, HRI, Mobility
 - [Personal website ](https://jonny-cohen.com/)
 
+<br>
 
-
-<br><img align="left" src="Michelle/images/michelle-profile-id.png" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Michelle"><img align="left" src="assets/michelle.jpg" height='120'></a>
 **[Minsol Michelle Kim](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Michelle)**
 
 - **Keywords**: Wearable Sensing for Health and Wellness, HCI, Multimodal AI
 - [Personal website](https://www.media.mit.edu/people/minsol/overview/)
 
+<br>
 
-
-<br><img align="left" src="Miranda/miranad.jpg" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Miranda"><img align="left" src="assets/miranda.jpg" height='120'></a>
 **[Miranda Li](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Miranda)**
 
 - **Keywords**: Critical HRI, Monster Theory
 - [Personal website (very out of date)](https://mirandali707.github.io/)
 
+<br>
 
-
-<br><img align="left" src="Sam/images/headshot.png" height='120'>
-**[Sam Chin](https://github.com/Seeed-Studio/MakerCamp/blob/main/2026-01-MIT/Sam/README.md)**
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Sam"><img align="left" src="assets/sam.jpg" height='120'></a>
+**[Sam Chin](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Sam)**
 
 - **Keywords**: Electronics, Interactive Ceramics, Haptics
 - [Personal website](https://samch.in)
 
+<br>
 
-
-<br><img align="left" src="Shengtao/images/pfp_500.jpg" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Shengtao"><img align="left" src="assets/shengtao.jpg" height='120'></a>
 **[Shengtao Shen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Shengtao)**
 
 - **Keywords**: Architecture, Generative AI Hardware, Context-Aware
 - [Personal website](https://www.shengtao.space/)
 
+<br>
 
-
-<br><img align="left" src="Yufeng/assets/pfp_500.jpg" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Yufeng"><img align="left" src="assets/yufeng.jpg" height='120'></a>
 **[Yufeng Zhao](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Yufeng)**
 
 - **Keywords**: Modular Camera Arrays, Lenticular Printing, 360° OCR
 - [Personal website](https://yufengzhao.com)
 
+
+<br><br>
 
 
 
@@ -103,37 +109,43 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 
 ## Affiliate cohort reports:
 
-After a decade of MIT-only participation, we experimented with a more open approach, welcoming exceptional participants from other institutions, in academia and industry.
+After a decade of MIT-only participation, we experimented with a more open approach, welcoming exceptional participants from other institutions, in academia and industry:
 
 
 
-<br><img align="left" src="affiliates/CJ/cj.jpeg" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/CJ"><img align="left" src="assets/affiliate_cj.jpg" height='120'></a>
 **[CJ Pais](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/CJ)**
 
 - **Keywords**: Open Source Software, Speech To Text, Maker, Curious
 - [Personal website](https://cjpais.com)
 
+<br>
 
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Darcy"><img align="left" src="assets/affiliates_darcy.jpg" height='120'></a>
+**[Darcy Neal](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Darcy)**
 
-<br><img align="left" src="affiliates/Ran/images/ran-photo.png" height='120'>
+- **Keywords**: Creative PCB Design, EMF Explorer, Kicad Workshops
+- [Personal website](https://darcyneal.com)
+
+<br>
+
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Ran"><img align="left" src="assets/affiliate_ran.jpg" height='120'></a>
 **[Ran Zhou](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Ran)** (KTH Royal Institute of Technology)
 
 - **Keywords**: Expressive Robotic Touch, Haptic Design Toolkits, Tangible Interaction
 - [Personal website](https://www.ranzhourobot.com/)
 
+<br>
 
-
-<br><img align="left" src="https://github.com/user-attachments/assets/fce77257-87be-4378-97da-36e97a614f25" height='120'>
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Willa"><img align="left" src="assets/affiliate_willa.jpg" height='120'></a>
 **[Willa Yang](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Willa)** (University of Chicago)
 
 - **Keywords**: Environmental Augmentation, Mid-Air Touch Display, Tangible Interaction
 - [Personal website](https://willayang.com)
 
+<br><br>
 
+![Full group photo](assets/all_residents.jpg)
 
 <br><br><br>
 
-
-<!--
-![group photos](https://github.com/user-attachments/assets/5362d43d-85de-432c-ac26-512f0175ca06)
--->
