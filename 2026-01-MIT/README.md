@@ -16,51 +16,6 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 
 ## Main cohort reports:
 
-Tips for your documentation:
-
-1. prepare a 120 x 120 pixel photo, then you can:
-
-- either put it in your personal folder and use the URL below...
-
-- or drag and drop it on this file from the github interface, and it will give you an ID (see YourPhotoID below and the examples underneath):
-
-2. Your folders and personal README.md files are already there, you just need to edit them using the examples below (keep it concise, focusing on what you prototyped/built):
-
-<br><img align="left" src="https://github.com/user-attachments/assets/YourPhotoID" height='120'>
-**[Your Name](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/YourName)**
-
-- **Keywords**: TODO
-- [Personal website](TODO)
-
-<br><img align="left" src="Shengtao/images/pfp_500.jpg" height='120'>
-**[Shengtao Shen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Shengtao)**
-
-- **Keywords**: Architecture, Generative AI Hardware, Context-Aware
-- [Personal website](https://www.shengtao.space/)
-
-<br><img align="left" src="Jake/images/pfp_500.jpg" height='120'>
-**[Jake Read](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake)**
-
-- **Keywords**: Machine Control, Motor Control, Modular Embedded Systems
-- [Personal website](https://ekswhyzee.com/2026/01/20/shenzhen.html)
-
-<br><img align="left" src="Michelle/images/michelle-profile-id.png" height='120'>
-**[Minsol Michelle Kim](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Michelle)**
-
-- **Keywords**: Wearable Sensing for Health and Wellness, Human-Computer Interaction, Multimodal AI
-- [Personal website](https://www.media.mit.edu/people/minsol/overview/)
-
-<br><img align="left" src="Yufeng/assets/pfp_500.jpg" height='120'>
-**[Yufeng Zhao](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Yufeng)**
-
-- **Keywords**: Modular Camera Arrays, Lenticular Printing, 360° OCR
-- [Personal website](https://yufengzhao.com)
-
-<br><img align="left" src="Char/media/bio.png" height='120'>
-**[Char Stiles](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Char)**
-
-- **Keywords**: Laser cutting, DIY PCB, Wearable for performance
-- [Personal website](https://charstiles.com)
 
 <br><img align="left" src="Ben/media/headshot_f25_small.jpg" height='120'>
 **[Ben Weiss](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Ben)**
@@ -68,17 +23,22 @@ Tips for your documentation:
 - **Keywords**: Environmental Sensing, Climate Solutions, Marine Robotics
 - [Personal website](https://www.benweiss-portfolio.com/)
 
-<br><img align="left" src="Miranda/miranad.jpg" height='120'>
-**[Miranda Li](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Miranda)**
 
-- **Keywords**: Critical HRI, Monster Theory
-- [Personal website (very out of date)](https://mirandali707.github.io/)
 
-<br><img align="left" src="Jonny/images/headshot.png" height='120'>
-**[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny)**
+<br><img align="left" src="Char/media/bio.png" height='120'>
+**[Char Stiles](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Char)**
 
-- **Keywords**: Robotics, HRI, Mobility
-- [Personal website ](https://jonny-cohen.com/)
+- **Keywords**: Laser cutting, DIY PCB, Wearable for performance
+- [Personal website](https://charstiles.com)
+
+
+
+<br><img align="left" src="Jake/images/pfp_500.jpg" height='120'>
+**[Jake Read](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jake)**
+
+- **Keywords**: Machine Control, Motor Control, Modular Embedded Systems
+- [Personal website](https://ekswhyzee.com/2026/01/20/shenzhen.html)
+
 
 
 <br><img align="left" src="Jessica/imgs/jessica.jpg" height='120'>
@@ -88,37 +48,56 @@ Tips for your documentation:
 - [Personal website](https://thisxorthat.art/)
 
 
+
+<br><img align="left" src="Jonny/images/headshot.png" height='120'>
+**[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny)**
+
+- **Keywords**: Robotics, HRI, Mobility
+- [Personal website ](https://jonny-cohen.com/)
+
+
+
+<br><img align="left" src="Michelle/images/michelle-profile-id.png" height='120'>
+**[Minsol Michelle Kim](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Michelle)**
+
+- **Keywords**: Wearable Sensing for Health and Wellness, HCI, Multimodal AI
+- [Personal website](https://www.media.mit.edu/people/minsol/overview/)
+
+
+
+<br><img align="left" src="Miranda/miranad.jpg" height='120'>
+**[Miranda Li](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Miranda)**
+
+- **Keywords**: Critical HRI, Monster Theory
+- [Personal website (very out of date)](https://mirandali707.github.io/)
+
+
+
 <br><img align="left" src="Sam/images/headshot.png" height='120'>
 **[Sam Chin](https://github.com/Seeed-Studio/MakerCamp/blob/main/2026-01-MIT/Sam/README.md)**
 
 - **Keywords**: Electronics, Interactive Ceramics, Haptics
 - [Personal website](https://samch.in)
 
-## Example reports from 2025:
 
-<br><img align="left" src="https://github.com/user-attachments/assets/0f16c4e8-e80c-4008-9430-99b7acefeb9e" height='120'>
-**[Andy Kong](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Andy)**
 
-- **Keywords**: Ultra-Low Power Wearables, Interactive Implants
-- [Personal website](https://andykong.org)
+<br><img align="left" src="Shengtao/images/pfp_500.jpg" height='120'>
+**[Shengtao Shen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Shengtao)**
 
-<br><img align="left" src="https://github.com/user-attachments/assets/e06a942a-2259-4804-b576-55f4e33288ff" height='120'>
-**[Jason Hou](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Jason)**
+- **Keywords**: Architecture, Generative AI Hardware, Context-Aware
+- [Personal website](https://www.shengtao.space/)
 
-- **Keywords**: Bio-Engineering, Ultrasound Imaging, Artistic Exploration
-- [Personal website](https://conformabledecoders.media.mit.edu/people/jasonhou.html)
 
-<br><img align="left" src="https://github.com/user-attachments/assets/2111aca8-479a-4905-bdce-033b7b5f744e" height='120'>
-**[Lingdong Huang](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Lingdong)**
 
-- **Keywords**: Creative Technology, Musical Interfaces, Serendipitous Prototyping
-- [Personal website](https://lingdong.works)
+<br><img align="left" src="Yufeng/assets/pfp_500.jpg" height='120'>
+**[Yufeng Zhao](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Yufeng)**
 
-<br><img align="left" src="https://github.com/user-attachments/assets/0825ab0d-a98c-4f7a-9b03-d9723ed98072" height='120'>
-**[Patrick Chwalek](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/Patrick)**
+- **Keywords**: Modular Camera Arrays, Lenticular Printing, 360° OCR
+- [Personal website](https://yufengzhao.com)
 
-- **Keywords**: Embedded Hardware, Environmental Sensing, Animal Tracking
-- [Personal website](https://patrickchwalek.com)
+
+
+
 
 <br><br>
 
@@ -126,20 +105,15 @@ Tips for your documentation:
 
 After a decade of MIT-only participation, we experimented with a more open approach, welcoming exceptional participants from other institutions, in academia and industry.
 
-<br>
-
-Here is an example from 2025:
-
-<br><img align="left" src="https://github.com/user-attachments/assets/80d98675-190b-4d13-b5db-0b8fa035124c" height='120'>
-**[Eli Silver](https://seeed-studio.github.io/MakerCamp/2025-01-MIT/affiliates/Eli)** (Brown University)
-
-- **Keywords**: Cable-driven gantry robot, AI camera system, Smart workspace
-- [Personal website](https://elisilver.com/)
 
 
-<br>
+<br><img align="left" src="affiliates/CJ/cj.jpeg" height='120'>
+**[CJ Pais](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/CJ)**
 
-TODO: add new affiliates!
+- **Keywords**: Open Source Software, Speech To Text, Maker, Curious
+- [Personal website](https://cjpais.com)
+
+
 
 <br><img align="left" src="affiliates/Ran/images/ran-photo.png" height='120'>
 **[Ran Zhou](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Ran)** (KTH Royal Institute of Technology)
@@ -155,12 +129,7 @@ TODO: add new affiliates!
 - **Keywords**: Environmental Augmentation, Mid-Air Touch Display, Tangible Interaction
 - [Personal website](https://willayang.com)
 
-<br><img align="left" src="affiliates/CJ/cj.jpeg" height='120'>
-**[CJ Pais](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/CJ)**
 
-- **Keywords**: Open Source Software, Speech To Text, Maker, Curious
-- [Personal website](https://cjpais.com)
-<br>
 
 <br><br><br>
 
