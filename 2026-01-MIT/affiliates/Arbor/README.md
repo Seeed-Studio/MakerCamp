@@ -40,7 +40,7 @@ It was a big LED screen, but not the biggest I would encounter...
 
 Ran a workshop for people to try *Splinter* themselves.
 
-<video controls width="50%">
+<video controls width="40%">
  <source src="https://github.com/user-attachments/assets/ea5bc3f7-9c43-488a-a637-484df48e203b">
 </video>
 
@@ -128,6 +128,7 @@ Wrapped up the residency with talks at 2 different hackerspaces about *Splinter*
 
 # Thank you
 Best part of the residency was the people! Grateful for the great generosity, passion, and energy of all those involved. Special thanks to Char, Darcy, Evan, Jonny, Kelin, Matt, Sam, Sydney, Zinn and of course Cedric!
+
 
 
 
