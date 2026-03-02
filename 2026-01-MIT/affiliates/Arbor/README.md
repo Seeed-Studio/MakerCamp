@@ -56,7 +56,7 @@ Some works participants made during the workshop with *Splinter*:
 
 # 🤖 PCB Design with Seeed
 
-The main thing I learned this residency was how to make a PCB. I had 0 experience with PCB design coming in, but I was inspired by the incredibly knowledgeable and helpful residents and [Darcy's](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Darcy) KiCad workshop, I worked with Seeed Studio to make my first PCB!
+The main thing I learned was how to make a PCB. I had 0 experience with PCB design coming in, but was inspired by the incredibly knowledgeable and helpful residents and [Darcy's](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Darcy) KiCad workshop, I worked with Seeed Studio to make my first PCB!
 
 <img width="625" height="318" alt="image" src="https://github.com/user-attachments/assets/4d91af4a-fb55-49f4-a2c6-f578d124b104" />
 
@@ -128,6 +128,7 @@ Wrapped up the residency with talks at 2 different hackerspaces about *Splinter*
 
 # Thank you
 Best part of the residency was the people! Grateful for the great generosity, passion, and energy of all those involved. Special thanks to Char, Darcy, Evan, Jonny, Kelin, Matt, Sam, Sydney, Zinn and of course Cedric!
+
 
 
 
