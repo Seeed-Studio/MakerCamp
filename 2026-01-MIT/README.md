@@ -111,6 +111,13 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 
 After a decade of MIT-only participation, we experimented with a more open approach, welcoming exceptional participants from other institutions, in academia and industry:
 
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Arbor"><img align="left" src="assets/affiliate_arbor.jpg" height='120'></a>
+**[Arbor](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Arbor)**
+
+- **Keywords**: Novel Input + Sensing, Light, Media Art, TouchDesigner, Tools for Creative Expression
+- [Personal website](https://derrekchow.com/)
+
+<br>
 
 
 <a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/CJ"><img align="left" src="assets/affiliate_cj.jpg" height='120'></a>
