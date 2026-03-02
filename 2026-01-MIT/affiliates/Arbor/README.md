@@ -8,7 +8,7 @@ I'm Arbor, an artist and HCI researcher interested in novel interfaces and immer
 
 # 📷 *Splinter* @ Scalable HCI
 
-I made a program in TouchDesigner called *Splinter* which lets you quickly take and arrange screenshots onto a digital canvas. It lets you easily and expressively cut-up and remix digital media. I shared this as a poster and demo at the Scalable HCI conference.
+I made a program in TouchDesigner called *Splinter* which lets you quickly take screenshots and arrange them on a digital canvas. It lets you easily and expressively cut-up and remix digital media. I shared this as a poster and demo at the Scalable HCI conference.
 
 <img src="https://derrekchow.com/assets/papers/splinter_poster_scalable25.png" width="70%"/>
 
@@ -104,7 +104,7 @@ https://github.com/user-attachments/assets/b1dfae90-7578-4f5f-ab34-87553ddadffd
 
 ---
 
-# Talk @ 📷 TroubleMakers & 🤖 Chaihou Makerspace
+# Talks @ 📷 TroubleMakers & 🤖 Chaihou Makerspace
 
 Wrapped up the residency with talks at 2 different hackerspaces about *Splinter* and *Points of Contact*.
 
@@ -116,4 +116,5 @@ Wrapped up the residency with talks at 2 different hackerspaces about *Splinter*
 
 # Thank you
 Best part of the residency was the people! Grateful for the great generosity, passion, and energy of all those involved. Special thanks to Char, Darcy, Evan, Jonny, Kelin, Matt, Sam, Sydney, Zinn and of course Cedric!
+
 
