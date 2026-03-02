@@ -12,9 +12,9 @@ I made a program in TouchDesigner called *Splinter* which lets you quickly take 
 
 <img src="https://derrekchow.com/assets/papers/splinter_poster_scalable25.png" width="70%"/>
 
-https://github.com/user-attachments/assets/72b4671a-43b3-406c-a9a9-20b58112eae5
+<video src="https://github.com/user-attachments/assets/72b4671a-43b3-406c-a9a9-20b58112eae5"></video>
 
-https://github.com/user-attachments/assets/601b12c9-4c6e-4d09-bb79-064448bf8194
+<video src="https://github.com/user-attachments/assets/601b12c9-4c6e-4d09-bb79-064448bf8194"></video>
 
 ---
 
@@ -26,9 +26,9 @@ The piece plays with the display as a giant light source so it was cool to see h
 
 ## 🔈 Sound ON!
 
-https://github.com/user-attachments/assets/fa99a356-8c9f-479b-a5f9-f689532f422d
+<video src="https://github.com/user-attachments/assets/fa99a356-8c9f-479b-a5f9-f689532f422d"></video>
 
-https://github.com/user-attachments/assets/9e10a040-968c-43a3-b56f-1319a23bf4b9
+<video src="https://github.com/user-attachments/assets/9e10a040-968c-43a3-b56f-1319a23bf4b9"></video>
 
 It was a big LED screen, but not the biggest I would encounter...
 
@@ -38,7 +38,7 @@ It was a big LED screen, but not the biggest I would encounter...
 
 Ran a workshop for people to try *Splinter* themselves.
 
-https://github.com/user-attachments/assets/ea5bc3f7-9c43-488a-a637-484df48e203b
+<video src="https://github.com/user-attachments/assets/ea5bc3f7-9c43-488a-a637-484df48e203b"></video>
 
 Some works participants made during the workshop with *Splinter*:
 
@@ -66,9 +66,9 @@ The main thing I learned this residency was how to make a PCB. I had 0 experienc
 
 The boards are for a project called *Points of Contact*, which are portable lights which copy different lighting patterns that are shined onto them. One goal is a DIY and straightforward portable lighting system, which can bypass typical barriers of lighting systems being expensive and technically inaccessible in terms of equipment and infrastructure. Another is to be able to hijack spaces with impromptu light installations, as shown below:
 
-https://github.com/user-attachments/assets/b68f90f5-ddc3-40a2-bc9b-d016ca46b0de
+<video src="https://github.com/user-attachments/assets/b68f90f5-ddc3-40a2-bc9b-d016ca46b0de"></video>
 
-https://github.com/user-attachments/assets/15cbe01c-72bc-4eb8-b404-6fc6278f20b9
+<video src="https://github.com/user-attachments/assets/15cbe01c-72bc-4eb8-b404-6fc6278f20b9"></video>
 
 Special thanks to Nico from Seeed for collaborating on designing and making these PCBs.
 
@@ -78,7 +78,7 @@ Special thanks to Nico from Seeed for collaborating on designing and making thes
 
 As a side exploration of using light as a control input, I collab'ed with another resident [Jonny](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny) to make a simple but fun light-controlled motor. I hope to explore more of this kind of light-based tangible interaction in the future.
 
-https://github.com/user-attachments/assets/649d2d4f-6b73-496f-950e-3ae6fd866418
+<video src="https://github.com/user-attachments/assets/649d2d4f-6b73-496f-950e-3ae6fd866418"></video>
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/67d525b3-c2ee-4940-aca7-309ebe564b27" />
 
@@ -92,9 +92,9 @@ https://github.com/user-attachments/assets/649d2d4f-6b73-496f-950e-3ae6fd866418
 
 ## 🔈 Sound ON!
 
-https://github.com/user-attachments/assets/ac3a8d85-b110-4486-98d9-0d35d8fbd852
+<video src="https://github.com/user-attachments/assets/ac3a8d85-b110-4486-98d9-0d35d8fbd852"></video>
 
-https://github.com/user-attachments/assets/b1dfae90-7578-4f5f-ab34-87553ddadffd
+<video src="https://github.com/user-attachments/assets/b1dfae90-7578-4f5f-ab34-87553ddadffd"></video>
 
 ![](https://assets.derrekchow.com/diffusion/robot_image-1.jpg)
 
@@ -116,5 +116,6 @@ Wrapped up the residency with talks at 2 different hackerspaces about *Splinter*
 
 # Thank you
 Best part of the residency was the people! Grateful for the great generosity, passion, and energy of all those involved. Special thanks to Char, Darcy, Evan, Jonny, Kelin, Matt, Sam, Sydney, Zinn and of course Cedric!
+
 
 
