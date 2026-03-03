@@ -131,7 +131,7 @@ After a decade of MIT-only participation, we experimented with a more open appro
 <a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Darcy"><img align="left" src="assets/affiliates_darcy.jpg" height='120'></a>
 **[Darcy Neal](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/affiliates/Darcy)**
 
-- **Keywords**: Creative PCB Design, EMF Explorer, Kicad Workshops
+- **Keywords**: Creative PCB Design, Environmental Sensing, EMF Explorer, Kicad Workshops
 - [Personal website](https://darcyneal.com)
 
 <br>
