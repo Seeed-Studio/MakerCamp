@@ -24,13 +24,9 @@ The piece plays with the display as a giant light source so it was cool to see h
 
 ![](https://assets.derrekchow.com/diffusion/uabb_image-1.jpg)
 
-<video controls>
- <source src="https://github.com/user-attachments/assets/fa99a356-8c9f-479b-a5f9-f689532f422d">
-</video>
+<video controls src="https://github.com/user-attachments/assets/fa99a356-8c9f-479b-a5f9-f689532f422d"></video>
 
-<video controls>
- <source src="https://github.com/user-attachments/assets/9e10a040-968c-43a3-b56f-1319a23bf4b9">
-</video>
+<video controls src="https://github.com/user-attachments/assets/9e10a040-968c-43a3-b56f-1319a23bf4b9"></video>
 
 It was a big LED screen, but not the biggest I would encounter...
 
@@ -134,6 +130,7 @@ Wrapped up the residency with talks at 2 different hackerspaces about *Splinter*
 
 # Thank you
 Best part of the residency was the people! Grateful for the great generosity, passion, and energy of all those involved. Special thanks to Char, Darcy, Evan, Jonny, Kelin, Matt, Sam, Sydney, Zinn and of course Cedric!
+
 
 
 
