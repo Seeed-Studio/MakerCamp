@@ -36,9 +36,7 @@ It was a big LED screen, but not the biggest I would encounter...
 
 Ran a workshop for people to try *Splinter* themselves.
 
-<video controls width="40%">
- <source src="https://github.com/user-attachments/assets/ea5bc3f7-9c43-488a-a637-484df48e203b">
-</video>
+<video controls width="40%" src="https://github.com/user-attachments/assets/ea5bc3f7-9c43-488a-a637-484df48e203b"></video>
 
 Some works participants made during the workshop with *Splinter*:
 
@@ -66,19 +64,13 @@ The main thing I learned was how to make a PCB. I had 0 experience with PCB desi
 
 The boards are for a project called *Points of Contact*, which are portable lights which copy different lighting patterns that are shined onto them. 
 
-<video controls width="100%">
- <source src="https://github.com/user-attachments/assets/9cd63252-db76-447d-9e33-31ad42c567b5">
-</video>
+<video controls width="100%" src="https://github.com/user-attachments/assets/9cd63252-db76-447d-9e33-31ad42c567b5"></video>
 
 One goal is a DIY and straightforward portable lighting system, which can bypass typical barriers of lighting systems being expensive and technically inaccessible in terms of equipment and infrastructure. Another is to be able to hijack spaces with impromptu light installations, as shown below:
 
-<video controls width="100%">
- <source src="https://github.com/user-attachments/assets/b68f90f5-ddc3-40a2-bc9b-d016ca46b0de">
-</video>
+<video controls width="100%" src="https://github.com/user-attachments/assets/b68f90f5-ddc3-40a2-bc9b-d016ca46b0de"></video>
 
-<video controls width="100%">
- <source src="https://github.com/user-attachments/assets/15cbe01c-72bc-4eb8-b404-6fc6278f20b9">
-</video>
+<video controls width="100%" src="https://github.com/user-attachments/assets/15cbe01c-72bc-4eb8-b404-6fc6278f20b9"></video>
 
 Special thanks to Nico from Seeed for collaborating on designing and making these PCBs.
 
@@ -88,9 +80,7 @@ Special thanks to Nico from Seeed for collaborating on designing and making thes
 
 As a side exploration of using light as a control input, I collab'ed with another resident [Jonny](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny) to make a simple but fun light-controlled motor. I hope to explore more of this kind of light-based tangible interaction in the future.
 
-<video autoplay loop>
- <source src="https://github.com/user-attachments/assets/649d2d4f-6b73-496f-950e-3ae6fd866418">
-</video>
+<video autoplay loop src="https://github.com/user-attachments/assets/649d2d4f-6b73-496f-950e-3ae6fd866418"></video>
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/67d525b3-c2ee-4940-aca7-309ebe564b27" />
 
@@ -102,13 +92,9 @@ As a side exploration of using light as a control input, I collab'ed with anothe
 
 ...and got to perform *Diffusion* again on THE BIGGEST LED screen I've ever seen! The event went super well thanks to the other amazing performers and organizers [Char](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Char), [Jessica](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jessica), Sam, Sydney, and Zinn. You can learn more by visiting the linked names.
 
-<video controls width="100%">
- <source src="https://github.com/user-attachments/assets/ac3a8d85-b110-4486-98d9-0d35d8fbd852">
-</video>
+<video controls width="100%" src="https://github.com/user-attachments/assets/ac3a8d85-b110-4486-98d9-0d35d8fbd852"></video>
 
-<video controls width="100%">
- <source src="https://github.com/user-attachments/assets/b1dfae90-7578-4f5f-ab34-87553ddadffd">
-</video>
+<video controls width="100%" src="https://github.com/user-attachments/assets/b1dfae90-7578-4f5f-ab34-87553ddadffd"></video>
 
 ![](https://assets.derrekchow.com/diffusion/robot_image-1.jpg)
 
@@ -130,6 +116,7 @@ Wrapped up the residency with talks at 2 different hackerspaces about *Splinter*
 
 # Thank you
 Best part of the residency was the people! Grateful for the great generosity, passion, and energy of all those involved. Special thanks to Char, Darcy, Evan, Jonny, Kelin, Matt, Sam, Sydney, Zinn and of course Cedric!
+
 
 
 
