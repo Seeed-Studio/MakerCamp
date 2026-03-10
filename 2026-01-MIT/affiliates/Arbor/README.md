@@ -106,11 +106,11 @@ As a side exploration of using light as a control input, I collab'ed with anothe
 
 ...and got to perform *Diffusion* again on THE BIGGEST LED screen I've ever seen! The event went super well thanks to the other amazing performers and organizers [Char](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Char), [Jessica](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jessica), Sam, Sydney, and Zinn. You can learn more by visiting the linked names.
 
-<video controls>
+<video controls width="100%">
  <source src="https://github.com/user-attachments/assets/ac3a8d85-b110-4486-98d9-0d35d8fbd852">
 </video>
 
-<video controls>
+<video controls width="100%">
  <source src="https://github.com/user-attachments/assets/b1dfae90-7578-4f5f-ab34-87553ddadffd">
 </video>
 
@@ -134,6 +134,7 @@ Wrapped up the residency with talks at 2 different hackerspaces about *Splinter*
 
 # Thank you
 Best part of the residency was the people! Grateful for the great generosity, passion, and energy of all those involved. Special thanks to Char, Darcy, Evan, Jonny, Kelin, Matt, Sam, Sydney, Zinn and of course Cedric!
+
 
 
 
