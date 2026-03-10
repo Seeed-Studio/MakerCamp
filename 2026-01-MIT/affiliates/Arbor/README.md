@@ -68,7 +68,13 @@ The main thing I learned was how to make a PCB. I had 0 experience with PCB desi
 
 <img width="730" alt="image" src="https://github.com/user-attachments/assets/42d0b541-2d6f-434b-a6c7-099b5cf405a5" />
 
-The boards are for a project called *Points of Contact*, which are portable lights which copy different lighting patterns that are shined onto them. One goal is a DIY and straightforward portable lighting system, which can bypass typical barriers of lighting systems being expensive and technically inaccessible in terms of equipment and infrastructure. Another is to be able to hijack spaces with impromptu light installations, as shown below:
+The boards are for a project called *Points of Contact*, which are portable lights which copy different lighting patterns that are shined onto them. 
+
+<video controls width="100%">
+ <source src="https://github.com/user-attachments/assets/9cd63252-db76-447d-9e33-31ad42c567b5">
+</video>
+
+One goal is a DIY and straightforward portable lighting system, which can bypass typical barriers of lighting systems being expensive and technically inaccessible in terms of equipment and infrastructure. Another is to be able to hijack spaces with impromptu light installations, as shown below:
 
 <video controls width="100%">
  <source src="https://github.com/user-attachments/assets/b68f90f5-ddc3-40a2-bc9b-d016ca46b0de">
@@ -128,6 +134,7 @@ Wrapped up the residency with talks at 2 different hackerspaces about *Splinter*
 
 # Thank you
 Best part of the residency was the people! Grateful for the great generosity, passion, and energy of all those involved. Special thanks to Char, Darcy, Evan, Jonny, Kelin, Matt, Sam, Sydney, Zinn and of course Cedric!
+
 
 
 
