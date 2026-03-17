@@ -5,8 +5,7 @@ from the lens of Darcy Neal
 
 [links.darcyneal.com](https://www.links.darcyneal.com)
 
-Shenzhen was amazing. I will definitely be spending more time here in the future, and am so glad I got to join the residency!
-I will upload more content in the future, but for now, here's a brief recap on what I did this month:
+Shenzhen was an amazing experience where I learned about the ecosystem that fuels the production of almost all of my electronics components. I will definitely be spending more time here in the future, and am so glad I got to join the residency! From factory tours, research incubators, and networking with talented professionals, this trip was so beneficial to my creative electronics endeavors. Here's a brief recap on what I created during my residency:
 
 ### 3 workshops in 1 month
 
@@ -27,7 +26,7 @@ the information early on in the residency. Working in the Chaihuo workshop was g
 My workshop covered the various ways you can bring in art layers to KiCad and how to generate the art layers for it. 
 Tons of info to cover, so focus was given to helping on an individual basis throughout the month. 
 
-<img width="798" height="637" alt="Screenshot 2026-01-28 at 6 13 08 PM" src="https://github.com/user-attachments/assets/3b7b404b-149d-42f0-a956-61f997f94acd" />
+<img alt="Screenshot 2026-01-28 at 6 13 08 PM" src="https://github.com/user-attachments/assets/3b7b404b-149d-42f0-a956-61f997f94acd" />
 
 ### Creative PCB design at TroubleMakers 
 
