@@ -34,6 +34,8 @@ The main design focus for the residency was a new iteration of the EMF Explorer 
 
 <img width="901" height="451" alt="Screenshot 2026-01-28 at 6 18 00 PM" src="https://github.com/user-attachments/assets/3aa656b6-f888-4ca3-9bc9-f3ff04869772" />
 
+<img width="2879" height="2523" alt="image" src="https://github.com/user-attachments/assets/fb057a17-067d-4354-b34b-e3098b108a7f" />
+
 <img width="2462" height="1966" alt="image" src="https://github.com/user-attachments/assets/33ad4d8f-ae41-4939-bd8b-b53214977346" />
 
 ### EMF Explorer: SMD workshop verison
