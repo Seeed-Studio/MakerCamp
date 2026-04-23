@@ -53,8 +53,8 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 
 <br>
 
-<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny"><img align="left" src="assets/jonny.jpg" height='120'></a>
-**[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/jonny)**
+<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jonny"><img align="left" src="assets/jonny.jpg" height='120'></a>
+**[Jonny Cohen](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Jonny)**
 
 - **Keywords**: Robotics, HRI, Mobility
 - [Personal website ](https://jonny-cohen.com/)
@@ -69,8 +69,8 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 
 <br>
 
-<a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Miranda"><img align="left" src="assets/miranda.jpg" height='120'></a>
-**[Miranda Li](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Miranda)**
+<a href="https://github.com/Seeed-Studio/MakerCamp/blob/main/2026-01-MIT/Miranda/README.md"><img align="left" src="assets/miranda.jpg" height='120'></a>
+**[Miranda Li](https://github.com/Seeed-Studio/MakerCamp/blob/main/2026-01-MIT/Miranda/README.md)**
 
 - **Keywords**: Critical HRI, Monster Theory
 - [Personal website (very out of date)](https://mirandali707.github.io/)
