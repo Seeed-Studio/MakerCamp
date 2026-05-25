@@ -81,7 +81,7 @@ Though I was even more entertained by Lingdong inadvertently replicating the cha
 
 <img src="./assets/9c0c4c202a82.jpg" />
 
-The following day we headed over to Hua Qiang Bei which is the area I stayed five years before on my first trip to Shenzhen. I was lamenting the fact that I had lost access to my WeChat account and all the contacts I made then. Among these contacts was Noah Zerkin who was very generous to allow me to tag along on some Project Northstar factory visits. Low and behold who showed up to give my group our tour of Hua Qiang Bei.
+The following day we headed over to Hua Qiang Bei which is the area I stayed five years before on my first trip to Shenzhen. I was lamenting the fact that I had lost access to my WeChat account and all the contacts I made then. Among these contacts was Noah Zerkin who was very generous to allow me to tag along on some Project Northstar factory visits. Lo and behold who showed up to give my group our tour of Hua Qiang Bei.
 
 <img src="./assets/778e09002460.jpg" />
 
