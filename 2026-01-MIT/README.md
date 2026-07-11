@@ -1,25 +1,21 @@
 # Jan 2026 - MIT Research At Scale
 
-During the yearly [Research At Scale](https://www.media.mit.edu/posts/research-at-scale) program, Seeed Studio hosted 10 MIT researchers in its MakerCamp, to co-create meaningful and open hardware projects in Shenzhen, explore the tech ecosystem frontier, and join maker networks to experiment with the local scaling power.
+During the yearly [Research At Scale](https://www.media.mit.edu/posts/research-at-scale) program, Seeed Studio hosted 10 MIT researchers and 20 affiliates in its MakerCamp, to co-create meaningful and open hardware projects in Shenzhen, explore the tech ecosystem frontier, and join maker networks to experiment with the local scaling power.
 
 The research residency started with the <u><a href="https://scalablehci.com/">Scalable HCI Symposium</a></u>, a 1-week accelerated introduction of the Shenzhen ecosystem, organized in collaboration with <u><a href="https://designschool.sustech.edu.cn/">SUSTech</a></u> and <u><a href="https://airs.cuhk.edu.cn/article/998">AIRS</a></u>.
 
-<!--
 Here is a video overview made in collaboration with <u><a href="https://designschool.sustech.edu.cn/">SUSTech</a></u> and <u><a href="https://airs.cuhk.edu.cn/article/998">AIRS</a></u>:
 
-<a href="https://scalablehci.com/assets/video25.mp4" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/b1618a4b-6325-4c41-84af-56d2ef4d9835" alt="Watch the video" width="600px" />
+<a href="https://scalablehci.com/assets/video26_new.mp4" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/639aff5f-4dea-4be7-9b98-d410c2bd18b8" alt="Watch the video" width="600px" />
 </a>
 
-<br>
--->
+<br><br>
+
+The researchers documented their explorations below, **click on their names**:
+
 
 ## MIT cohort:
-
-
-![Full group photo](assets/all_MIT.jpg)
-
-<br> 
 
 <a href="https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Ben"><img align="left" src="assets/ben.jpg" height='120'></a>
 **[Ben Weiss](https://seeed-studio.github.io/MakerCamp/2026-01-MIT/Ben)**
@@ -100,12 +96,7 @@ Here is a video overview made in collaboration with <u><a href="https://designsc
 - [Personal website](https://yufengzhao.com)
 
 
-<br><br>
-
-
-
-
-<br><br>
+<br><br><br>
 
 ## Affiliate cohort reports:
 
@@ -151,6 +142,12 @@ After a decade of MIT-only participation, we experimented with a more open appro
 - [Personal website](https://willayang.com)
 
 <br><br>
+
+___
+
+**The full 2026 cohort:**
+
+<br>
 
 ![Full group photo](assets/all_residents.jpg)
 
